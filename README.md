@@ -213,3 +213,33 @@ https://edge01.iptv.digijadoo.net/live/star_gold_intl/chunks.m3u8
 http://ajantatv.me/FoIder902/jee.php?c=cinemausa&e=.m3u8
 #EXTINF:-1 ch-id="ZEE SMILE (US)"  tvg-logo="https://www.zeeentertainment.com/wp-content/uploads/2020/04/Zee-Smile-1.jpg"  group-title="ENTERTAINMENT--MOVIES--MUSIC",(AMERICA)
 http://ajantatv.me/FoIder902/jee.php?c=smileusa&e=.m3u8
+#EXTINF:-1 ch-id="ZEE TV (US)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="ENTERTAINMENT--MOVIES--MUSIC",(AMERICA) 
+http://tv.profipanel.itv.world:8080/7z5kwph3hch/x38g59q6e6/20912
+#EXTINF:-1 ch-id="STAR PLUS (UK)"  tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2019/08/28/starplus.jpg"  group-title="ENTERTAINMENT--MOVIES--MUSIC",(EUROPE)
+http://tv.profipanel.itv.world:8080/7z5kwph3hch/x38g59q6e6/13174
+#EXTINF:-1 ch-id="STAR PLUS HD (IN)"  tvg-logo="https://www.logolynx.com/images/logolynx/s_53/53e5e5654ae3a7198b85219d65ff52e9.jpeg"  group-title="ENTERTAINMENT--MOVIES--MUSIC",(INDIA)
+http://tv.profipanel.itv.world:8080/7z5kwph3hch/x38g59q6e6/672449
+#EXTINF:-1 ch-id="STAR BHARAT (UK)"  tvg-logo="https://www.gcaffe.com/wp-content/uploads/2017/09/Star-Bharat-Logo-Bhula-De-Dar-Kuchh-Alag-Kar.png"  group-title="ENTERTAINMENT--MOVIES--MUSIC",(EUROPE)
+http://tv.profipanel.itv.world:8080/7z5kwph3hch/x38g59q6e6/5544
+#EXTINF:-1 ch-id="STAR MOVIES (IN)" tvg-logo="http://pluspng.com/img-png/star-movies-logo-png-star-movies-star-movies-select-hd-to-air-whiplash-and-fantastic-four-this-weekend-300.jpg"  group-title="ENTERTAINMENT--MOVIES--MUSIC",(INDIA) 
+http://tv.profipanel.itv.world:8080/7z5kwph3hch/x38g59q6e6/3981
+#EXTINF:-1 ch-id="STAR PLUS HD (IN)"  tvg-logo="https://www.logolynx.com/images/logolynx/s_53/53e5e5654ae3a7198b85219d65ff52e9.jpeg"  group-title="ENTERTAINMENT--MOVIES--MUSIC",(INDIA)
+http://tv.ebox.live:8080/live/star-plus.m3u8
+#EXTINF:-1 ch-id="ZEE TV HD (US)" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/ImageRightsManagment_ChannelLogo/CMqUe8No.png" group-title="ENTERTAINMENT--MOVIES--MUSIC",(AMERICA) 
+http://tv.ebox.live:8080/live/zee-tv.m3u8
+#EXTINF:-1 ch-id="STAR GOLD SELECT HD (IND)" tvg-logo="https://www.adgully.com/img/800/201703/star-gold-select-hd-logo.jpg"   group-title="ENTERTAINMENT--MOVIES--MUSIC",(INDIA) 
+http://tv.ebox.live:8080/live/star-gold-select.m3u8
+#EXTINF:-1 ch-id="STAR GOLD HD (IND)" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/max_808/fb87a431667615.Y3JvcCwxOTA5LDE0OTMsNiwxNjI.png"  group-title="ENTERTAINMENT--MOVIES--MUSIC",(INDIA) 
+http://tv.ebox.live:8080/live/star-gold.m3u8
+#EXTINF:-1 ch-id="STAR SPORTS 1 HD (IND)" tvg-logo="https://sgp1.digitaloceanspaces.com/quickcompany/trademark/bb4e45e1f84ccbae.jpg"  group-title="SPORTS",(INDIA) 
+http://tv.ebox.live:8080/live/starsports-1-hind.m3u8
+#EXTINF:-1 ch-id="STAR SPORTS 2 HD (IND)" tvg-logo="https://sgp1.digitaloceanspaces.com/quickcompany/trademark/82199a84273f5369.jpg"  group-title="SPORTS",(INDIA) 
+http://tv.ebox.live:8080/live/starsportshd-2.m3u8
+#EXTINF:-1 ch-id="STAR SPORTS 1 HD (IND)" tvg-logo="https://sgp1.digitaloceanspaces.com/quickcompany/trademark/4069212d8d4f6920.jpg"  group-title="SPORTS",(INDIA) 
+http://tv.ebox.live:8080/live/starsports-1.m3u8
+#EXTINF:-1 ch-id="MOVIES ACTIVE HD (IND)" tvg-logo="https://d2h-wsc-media.s3.amazonaws.com/uploads/navigation/201804/movies-active-hd-bg_041218121205.png" group-title="ENTERTAINMENT--MOVIES--MUSIC",(INDIA)
+http://103.194.169.115:25461/dqQNRTLjBh/fSO8Um75uoisshared/54226?play_token=xcHU6d12Ls&token=GRdRWUpbQV9BUQ8AUlRaVA0EXgdUVQNXAVQCVgIADghUBlsBAQUGA1cRFEQQFxAGVQxnD1YVCVQHUVYEHEFNQgdHZlFdEVlHUgEAUlVbVUEYQ0wPX1IRWwJWXQAAVQ4JVA0VGklaB0dZXU0KD09ABkwVXRRcVl8+VwYSW1MGGgsMQFVUFREMCzxXXQsCDQZBDkMJRB4VWhJDQV5cRQ9UHUBXUExLUhcAQQlWEw8PTkFXDk0IRkVKQwlBLXwSTxpUGkFcVkpaDAtBCRoSEEFOQV0SZxRXREcTVgIJV0JBAhNSFxUaVFIbOgBcVggGABYKWw9LRAgVAkMfQQldXgpMXhBqSVFdEVkLFl9UGw==
+#EXTINF:-1 ch-id="STAR GOLD (UK)" tvg-logo="https://admin.thecricketer.com/weblab/sites/96c8b790-b593-bfda-0ba4-ecd3a9fdefc2/resources/images/site/stargold190301-min.jpg"  group-title="ENTERTAINMENT--MOVIES--MUSIC",(EUROPE) 
+http://tv.profipanel.itv.world:8080/7z5kwph3hch/x38g59q6e6/3983
+#EXTINF:-1 ch-id="STAR SPORTS 3 (IND)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/75/Star_Sports_3_2018.png"  group-title="SPORTS",(INDIA) 
+http://tv.profipanel.itv.world:8080/7z5kwph3hch/x38g59q6e6/3977
