@@ -153,3 +153,9 @@ http://175.41.46.16:8081/hls/7.m3u8
 http://175.41.46.16:8081/hls/2.m3u8
 #EXTINF:-1 ch-id="ZEE BANGLA HD (IND)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/29/Zee_Bangla_HD_2017.jpg"  group-title="ENTERTAINMENT--MOVIES--MUSIC",(INDIA)
 http://175.41.46.16:8081/hls/6.m3u8
+#EXTINF:-1 ch-id="COLORS (UK)"  tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/19/Colorstv-logo-black-background.jpg"   group-title="ENTERTAINMENT--MOVIES--MUSIC",(EUROPE)
+http://xeex.iptvs.news:8080/nx3denizcicek/09042020dc/87537
+#EXTINF:-1 ch-id="BBC CBEEBIES (ASIA)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/1200px-CBeebies.svg.png"group-title="KIDS",(ASIA)
+https://edge01.iptv.digijadoo.net/live/cbeebies_asia/chunks.m3u8
+#EXTINF:-1 ch-id="RK TV (US)"  tvg-logo="https://www.directv.com/images/logos/channels/dark/large/264.png" group-title="ADULT+",(AMERICA)
+http://188.35.9.26:5031/udp/058j
