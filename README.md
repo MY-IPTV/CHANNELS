@@ -129,3 +129,17 @@ https://sonyent.pc.cdn.bitgravity.com/sonyent/live/aajtak.smil/chunklist.m3u8
 https://sony247channels.akamaized.net/hls/live/2004806/SONYESPNSD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&amp;__nn__=5606168722001&amp;hdne
 #EXTINF:-1 ch-id="SONY SIX HD (IN)" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sony-six-hd-logo-300x300.jpg"  group-title="SPORTS",(INDIA)
 https://sony247channels.akamaized.net/hls/live/2004805-b/SonySixSD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&amp;__nn__=5606168722001&amp;hdne
+#EXTINF:-1 ch-id="SONY TEN 3 HD (IN)" tvg-logo="https://3.bp.blogspot.com/-0hg7e4CPb6E/W1w7XkB8EJI/AAAAAAAAAdk/P3_5_IQmM-gJ5MQjMJ9UsncisB7PDUWqgCLcBGAs/s1600/Sony-Ten-3-HD-1-300x240.png" group-title="SPORTS",(INDIA)
+https://sony247channels.akamaized.net/hls/live/2004804/SONYTEN3HD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&amp;__nn__=5606168722001&amp;hdne
+#EXTINF:-1 ch-id="SONY TEN 3 (IN)" tvg-logo="https://i.pinimg.com/originals/31/62/0f/31620fff81ab910c2dc3726a066a21ed.png" group-title="SPORTS",(INDIA)
+https://sony247channels.akamaized.net/hls/live/2004809/SonyTen3SD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&amp;__nn__=5606168722001&amp;hdne
+#EXTINF:-1 ch-id="SONY TEN 2 HD (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/35/Sony_Ten_2_HD.jpg" group-title="SPORTS",(INDIA)
+https://sony247channels.akamaized.net/hls/live/2004803/SONYTEN2HD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&amp;__nn__=5606168722001&amp;hdne
+#EXTINF:-1 ch-id="SONY TEN 2 (IN)" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/ImageRightsManagment_ChannelLogo/YhNZclhR.png" group-title="SPORTS",(INDIA)
+https://sony247channels.akamaized.net/hls/live/2004808/SonyTen2SD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&amp;__nn__=5606168722001&amp;hdne
+#EXTINF:-1 ch-id="SONY TEN 1 HD (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/ff/Sony_Ten_1_HD.jpg" group-title="SPORTS",(INDIA)
+https://sony247channels.akamaized.net/hls/live/2004802/SONYTEN1HD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&amp;__nn__=5606168722001&amp;hdne
+#EXTINF:-1 ch-id="SONY TEN 1 (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/24/Sony_Ten_1.jpg" group-title="SPORTS",(INDIA)
+https://sony247channels.akamaized.net/hls/live/2004807/SonyTen1SD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&amp;__nn__=5606168722001&amp;hdne
+#EXTINF:-1 ch-id="ARY FAMILY (UK)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/ARY_Digital_Logo_2.png" group-title="ENTERTAINMENT--MOVIES--MUSIC",(EUROPE)
+http://95.211.211.168/live/aryfamily0071/playlist.m3u8
