@@ -165,3 +165,37 @@ http://z5amshls.akamaized.net/zeetvsduk/playlist.m3u8
 http://xeex.iptvs.news:8080/nx3denizcicek/09042020dc/89039
 #EXTINF:-1 ch-id="BBC CBEEBIES (UK)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/1200px-CBeebies.svg.png"group-title="KIDS",(EUROPE)
 http://51.52.156.22:8888/http/003
+#EXTINF:-1 ch-id="HUM  (USA)"  tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/hum-world-black.png"  group-title="ENTERTAINMENT--MOVIES--MUSIC",(AMERICA)
+http://xeex.iptvs.news:8080/nx3denizcicek/09042020dc/88743
+#EXTINF:-1 ch-id="AASHTA BHAJAN (IN)"  tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/3d/Aastha_Bhajan.png"   group-title="DEVOTIONAL",(INDIA)
+http://xeex.iptvs.news:8080/nx3denizcicek/09042020dc/89097
+#EXTINF:-1 ch-id="VENUS TV (UK)" tvg-logo="https://www.prakashastrologer.com/wp-content/uploads/2014/09/VENUS-TV.png" group-title="ENTERTAINMENT--MOVIES--MUSIC",(EUROPE)
+http://xeex.iptvs.news:8080/nx3denizcicek/09042020dc/89096
+#EXTINF:-1 ch-id="SONY SAB (UK)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a9/Sony_Sab.jpg"  group-title="ENTERTAINMENT--MOVIES--MUSIC",(EUROPE)
+http://xeex.iptvs.news:8080/nx3denizcicek/09042020dc/89094
+#EXTINF:-1 ch-id="ZEE TV (US)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="ENTERTAINMENT--MOVIES--MUSIC",(AMERICA) 
+http://xeex.iptvs.news:8080/nx3denizcicek/09042020dc/89091
+#EXTINF:-1 ch-id="ZEE NEWS (IN)"  tvg-logo="https://cdn.dnaindia.com/sites/default/files/styles/full/public/2019/01/04/773839-zee-news-logo.jpg"  group-title="NEWS--BUSINESS",(INDIA)
+http://xeex.iptvs.news:8080/nx3denizcicek/09042020dc/89090
+#EXTINF:-1 ch-id="ZEE BANGLA (IN)"  tvg-logo="https://i.pinimg.com/originals/e7/8e/87/e78e875a3e973145f39ecfae2095db03.png"  group-title="ENTERTAINMENT--MOVIES--MUSIC",(INDIA)
+http://xeex.iptvs.news:8080/nx3denizcicek/09042020dc/89087
+#EXTINF:-1 ch-id="ZEE LIVING (US)"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Z_Living_Logo.png"  group-title="LIFESTYLE--TRAVELING",(AMERICA)
+http://xeex.iptvs.news:8080/nx3denizcicek/09042020dc/89089
+#EXTINF:-1 ch-id="PTV SPORTS (PK)"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png"  group-title="SPORTS",(PAKISTAN)
+http://xeex.iptvs.news:8080/nx3denizcicek/09042020dc/89069
+#EXTINF:-1 ch-id="SONY TEN 2 (IN)" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/ImageRightsManagment_ChannelLogo/YhNZclhR.png" group-title="SPORTS",(INDIA)
+http://xeex.iptvs.news:8080/nx3denizcicek/09042020dc/89082
+#EXTINF:-1 ch-id="SONY TEN 3 (IN)" tvg-logo="https://i.pinimg.com/originals/31/62/0f/31620fff81ab910c2dc3726a066a21ed.png" group-title="ENGLISH LIVE",(INDIA)
+http://xeex.iptvs.news:8080/nx3denizcicek/09042020dc/89083
+#EXTINF:-1 ch-id="NDTV INDIA (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ed/NDTV_India.png" group-title="NEWS--BUSINESS",(INDIA)
+http://xeex.iptvs.news:8080/nx3denizcicek/09042020dc/89068
+#EXTINF:-1 ch-id="MTV (IN)"  tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/37/MTV_HD%2B.jpg" group-title="ENTERTAINMENT--MOVIES--MUSIC",(INDIA)
+http://xeex.iptvs.news:8080/nx3denizcicek/09042020dc/89066
+#EXTINF:-1 ch-id="LIVING FOODZ (IN)"  tvg-logo="http://www.bestmediainfo.com/wp-content/uploads/2015/09/Living-Foodz-logo.jpg" group-title="LIFESTYLE--TRAVELING",(INDIA)
+http://xeex.iptvs.news:8080/nx3denizcicek/09042020dc/89064
+#EXTINF:-1 ch-id="HBO HD (IN)" tvg-logo="https://i.ytimg.com/vi/BPz7GwV1Zuk/maxresdefault.jpg" group-title="ENTERTAINMENT--MOVIES--MUSIC",(INDIA)
+http://xeex.iptvs.news:8080/nx3denizcicek/09042020dc/89059
+#EXTINF:-1 ch-id="DISCOVERY (IN)"  tvg-logo="https://www.underconsideration.com/brandnew/archives/discovery_channel_2019_logo.png" group-title="INFORMATION--WILDLIFE",(INDIA)
+http://xeex.iptvs.news:8080/nx3denizcicek/09042020dc/89058
+#EXTINF:-1 ch-id="BINDASS (IN)"  tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8d/BINDASS-END-LOGO.jpg" group-title="ENTERTAINMENT--MOVIES--MUSIC",(INDIA)
+http://45.120.188.65:8080/0.ts
