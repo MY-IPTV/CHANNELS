@@ -199,3 +199,17 @@ http://xeex.iptvs.news:8080/nx3denizcicek/09042020dc/89059
 http://xeex.iptvs.news:8080/nx3denizcicek/09042020dc/89058
 #EXTINF:-1 ch-id="BINDASS (IN)"  tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8d/BINDASS-END-LOGO.jpg" group-title="ENTERTAINMENT--MOVIES--MUSIC",(INDIA)
 http://45.120.188.65:8080/0.ts
+#EXTINF:-1 ch-id="ZEE TV (UK)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="ENTERTAINMENT--MOVIES--MUSIC",(EUROPE) 
+http://ajantatv.me/FoIder902/jee.php?c=zeetvsduk&e=.m3u8
+#EXTINF:-1 ch-id="ZEE TV HD (ME)" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/ImageRightsManagment_ChannelLogo/CMqUe8No.png" group-title="ENTERTAINMENT--MOVIES--MUSIC",(MIDDLE EAST) 
+http://ajantatv.me/FoIder902/jee.php?c=ztvme&e=.m3u8
+#EXTINF:-1 ch-id="ZEE TV HD (US)" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/ImageRightsManagment_ChannelLogo/CMqUe8No.png" group-title="ENTERTAINMENT--MOVIES--MUSIC",(AMERICA) 
+http://ajantatv.me/FoIder902/jee.php?c=ztvhdusa&e=.m3u8
+#EXTINF:-1 ch-id="AND TV HD (US)" tvg-logo="https://www.medianews4u.com/wp-content/uploads/2015/08/TV-HD-1-2.jpg" group-title="ENTERTAINMENT--MOVIES--MUSIC",(AMERICA)
+http://ajantatv.me/FoIder902/jee.php?c=andtvhdusa&e=.m3u8
+#EXTINF:-1 ch-id="STAR GOLD (ME)" tvg-logo="https://admin.thecricketer.com/weblab/sites/96c8b790-b593-bfda-0ba4-ecd3a9fdefc2/resources/images/site/stargold190301-min.jpg"  group-title="ENTERTAINMENT--MOVIES--MUSIC",(MIDDLE EAST) 
+https://edge01.iptv.digijadoo.net/live/star_gold_intl/chunks.m3u8
+#EXTINF:-1 ch-id="ZEE CINEMA (US)"  tvg-logo="https://adhub.lk/attachments-2.1.0/channel-logos/fid_2529_zee-cinema-1.jpg"  group-title="ENTERTAINMENT--MOVIES--MUSIC",(AMERICA)
+http://ajantatv.me/FoIder902/jee.php?c=cinemausa&e=.m3u8
+#EXTINF:-1 ch-id="ZEE SMILE (US)"  tvg-logo="https://www.zeeentertainment.com/wp-content/uploads/2020/04/Zee-Smile-1.jpg"  group-title="ENTERTAINMENT--MOVIES--MUSIC",(AMERICA)
+http://ajantatv.me/FoIder902/jee.php?c=smileusa&e=.m3u8
