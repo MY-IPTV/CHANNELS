@@ -143,3 +143,13 @@ https://sony247channels.akamaized.net/hls/live/2004802/SONYTEN1HD/master.m3u8?hd
 https://sony247channels.akamaized.net/hls/live/2004807/SonyTen1SD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&amp;__nn__=5606168722001&amp;hdne
 #EXTINF:-1 ch-id="ARY FAMILY (UK)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/ARY_Digital_Logo_2.png" group-title="ENTERTAINMENT--MOVIES--MUSIC",(EUROPE)
 http://95.211.211.168/live/aryfamily0071/playlist.m3u8
+#EXTINF:-1 ch-id="SONY MAX HD (IND)" tvg-logo="https://image.airtel.tv/content/MWTV/LIVETVCHANNEL/MWTV_LIVETVCHANNEL_298/ic_logo_sony_MaxHD.png" group-title="ENTERTAINMENT--MOVIES--MUSIC",(INDIA)
+http://175.41.46.16:8081/hls/8.m3u8
+#EXTINF:-1 ch-id="STAR PLUS HD (IN)"  tvg-logo="https://www.logolynx.com/images/logolynx/s_53/53e5e5654ae3a7198b85219d65ff52e9.jpeg"  group-title="ENTERTAINMENT--MOVIES--MUSIC",(INDIA)
+http://175.41.46.16:8081/hls/1.m3u8
+#EXTINF:-1 ch-id="STAR JALSHA HD (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ac/Star_Jalsha_HD_2019_Chalo_Paltai.png"  group-title="ENTERTAINMENT--MOVIES--MUSIC",(INDIA)
+http://175.41.46.16:8081/hls/7.m3u8
+#EXTINF:-1 ch-id="STAR MOVIES HD (IND)"  tvg-logo="https://tma-live.s3.ap-south-1.amazonaws.com/medias/55fb00a28ead0e79178b5c98/1565806465261/2982c79ea663967de3023f10721f4d5d.jpg"  group-title="ENTERTAINMENT--MOVIES--MUSIC",(INDIA)
+http://175.41.46.16:8081/hls/2.m3u8
+#EXTINF:-1 ch-id="ZEE BANGLA HD (IND)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/29/Zee_Bangla_HD_2017.jpg"  group-title="ENTERTAINMENT--MOVIES--MUSIC",(INDIA)
+http://175.41.46.16:8081/hls/6.m3u8
