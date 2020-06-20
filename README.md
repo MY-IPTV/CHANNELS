@@ -97,3 +97,15 @@ http://58.96.43.121:9981/stream/channelid/739262830
 http://136.243.177.164/HBO/playlist.m3u8
 #EXTINF:-1 ch-id="JUST 89 (UK)" tvg-logo="https://www.lyngsat-logo.com/logo/tv/jj/just-89-it.png" group-title="ADULT+",(EUROPE)
 http://188.35.9.12:21121/udp/129i
+#EXTINF:-1 ch-id="ZEE TV HD (ME)" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/ImageRightsManagment_ChannelLogo/CMqUe8No.png" group-title="ENTERTAINMENT--MOVIES--MUSIC",(MIDDLE EAST) 
+http://z5amshls.akamaized.net/ztvme/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 ch-id="STAR GOLD HD (IND)" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/max_808/fb87a431667615.Y3JvcCwxOTA5LDE0OTMsNiwxNjI.png"  group-title="ENTERTAINMENT--MOVIES--MUSIC",(INDIA) 
+http://ddn.amrbd.com:8081/live/stargold/playlist.m3u8
+#EXTINF:-1 ch-id="ZING (IND)" tvg-logo="https://pbs.twimg.com/profile_images/1031870066504003584/rs8Z6JhY_400x400.jpg" group-title="ENTERTAINMENT--MOVIES--MUSIC",(INDIA)
+http://103.144.200.7:8080/hls/zing/index.m3u8
+#EXTINF:-1 ch-id="STAR PLUS HD (IN)"  tvg-logo="https://www.logolynx.com/images/logolynx/s_53/53e5e5654ae3a7198b85219d65ff52e9.jpeg"  group-title="ENTERTAINMENT--MOVIES--MUSIC",(INDIA)
+http://ddn.amrbd.com:8081/live/starplus/playlist.m3u8
+#EXTINF:-1 tvg-id="GEM BOLLYWOOD (IR)" tvg-logo="https://img.webme.com/pic/t/totv/gem-bollywood.png" group-title="ENTERTAINMENT--MOVIES--MUSIC",(MIDDLE EAST)
+http://185.132.177.102:6204/live/hdbox02first1836/10444148445dd99fb952779/54.m3u8
+#EXTINF:-1 ch-id="CHANNEL WIN (IND)" tvg-logo="https://i.ytimg.com/vi/qTw2InXC3vs/maxresdefault.jpg" group-title="DEVOTIONAL",(INDIA)
+http://cdn.smartstream.video/smartstream-us/channelwinlive/channelwinlive/playlist.m3u8
