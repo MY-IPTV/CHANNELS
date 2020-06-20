@@ -159,3 +159,7 @@ http://xeex.iptvs.news:8080/nx3denizcicek/09042020dc/87537
 https://edge01.iptv.digijadoo.net/live/cbeebies_asia/chunks.m3u8
 #EXTINF:-1 ch-id="RK TV (US)"  tvg-logo="https://www.directv.com/images/logos/channels/dark/large/264.png" group-title="ADULT+",(AMERICA)
 http://188.35.9.26:5031/udp/058j
+#EXTINF:-1 ch-id="ZEE TV (UK)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="ENTERTAINMENT--MOVIES--MUSIC",(EUROPE) 
+http://z5amshls.akamaized.net/zeetvsduk/playlist.m3u8
+#EXTINF:-1 ch-id="STAR PLUS (UK)"  tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2019/08/28/starplus.jpg"  group-title="ENTERTAINMENT--MOVIES--MUSIC",(EUROPE)
+http://xeex.iptvs.news:8080/nx3denizcicek/09042020dc/89039
