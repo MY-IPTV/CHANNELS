@@ -37,3 +37,13 @@ https://mgm-ssai.akamaized.net/amagi_hls_data_mgmAAAAAA-theworks/CDN/720x404_142
 https://abp-i.akamaihd.net/hls/live/765529/abphindi/masterhls_1564.m3u8
 #EXTINF:-1 ch-id="NTV MOVIES (UK)" tvg-logo="https://pbs.twimg.com/profile_images/1041178171117264898/5pGfFugz_400x400.jpg" group-title="ENTERTAINMENT/MOVIES/MUSIC",(EUROPE)
 http://cdn14.live247stream.com/navroz/ls/navroz/stream1/chunks.m3u8
+#EXTINF:-1 ch-id="ARY FAMILY (UK)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/ARY_Digital_Logo_2.png" group-title="ENTERTAINMENT/MOVIES/MUSIC",(EUROPE)
+http://95.211.211.168/live/aryfamily0071/playlist.m3u8
+#EXTINF:-1 tvg-id="TAG TV (US)" tvg-logo="https://pbs.twimg.com/profile_images/541070675385917440/lLsLhFY7.jpeg" group-title="NEWS/BUSINESS",(AMERICA)
+http://cdn11.live247stream.com/tag/tv/playlist.m3u8
+#EXTINF:-1 ch-id="SUB RANG (UK)" tvg-logo="https://www.subrangtv.com/wp-content/uploads/2018/01/For-TV.jpg" group-title="ENTERTAINMENT/MOVIES/MUSIC",(EUROPE)
+http://cdn61.liveonlineservices.com/hls/subrang.m3u8
+#EXTINF:-1 ch-id="9 NEWS (UK)" tvg-logo="https://pbs.twimg.com/profile_images/940547058267717632/W0AAWT1v_400x400.jpg" group-title="NEWS/BUSINESS",(EUROPE)
+https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-92_news-hsslive-25f-16x9-SDq/chunklist.m3u8
+#EXTINF:-1 ch-id="BRAZZERS TV (EU)"  group-title="ADULT" tvg-logo="https://cdn.webshopapp.com/shops/120912/files/121623368/890x820x2/brazzers-europe-tv-jaarkaart-viaccess.jpg",(EUROPE)
+http://188.35.9.26:9031/udp/117m
