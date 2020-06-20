@@ -109,3 +109,23 @@ http://ddn.amrbd.com:8081/live/starplus/playlist.m3u8
 http://185.132.177.102:6204/live/hdbox02first1836/10444148445dd99fb952779/54.m3u8
 #EXTINF:-1 ch-id="CHANNEL WIN (IND)" tvg-logo="https://i.ytimg.com/vi/qTw2InXC3vs/maxresdefault.jpg" group-title="DEVOTIONAL",(INDIA)
 http://cdn.smartstream.video/smartstream-us/channelwinlive/channelwinlive/playlist.m3u8
+#EXTINF:-1 ch-id="SONY MAX HD (IN)" tvg-logo="https://image.airtel.tv/content/MWTV/LIVETVCHANNEL/MWTV_LIVETVCHANNEL_298/ic_logo_sony_MaxHD.png" group-title="ENTERTAINMENT--MOVIES--MUSIC",(INDIA)
+https://sony247channels.akamaized.net/hls/live/2011670/SonyMaxhd/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
+#EXTINF:-1 ch-id="SONY MAX (IN)" tvg-logo="http://pluspng.com/img-png/sony-hd-png-file-sony-max-india-png-658.png" group-title="ENTERTAINMENT--MOVIES--MUSIC",(INDIA)
+https://sony247channels.akamaized.net/hls/live/2011745/SonyMaxSD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
+#EXTINF:-1 ch-id="SONY SAB HD (IN)" tvg-logo="https://i.imgur.com/eajI7Lo.png" group-title="ENTERTAINMENT--MOVIES--MUSIC",(INDIA)
+https://sony247channels.akamaized.net/hls/live/2011749/SABHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
+#EXTINF:-1 ch-id="SONY ESPN HD (IN)" tvg-logo="https://rvcyberworldhome.files.wordpress.com/2018/09/download-4.png"  group-title="SPORTS",(INDIA)
+https://sony247channels.akamaized.net/hls/live/2004800/SONYESPNHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
+#EXTINF:-1 ch-id="SONY YAY (IN)"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Sony_Yay_Logo.jpg" group-title="KIDS",(INDIA)
+https://sony247channels.akamaized.net/hls/live/2011746/SonyYaySD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
+#EXTINF:-1 ch-id="SONY PIX HD (IN)" tvg-logo="https://www.pay2easy.com/uploads/7923-Sony%20Pix.png" group-title="ENTERTAINMENT--MOVIES--MUSIC",(INDIA)
+https://sony247channels.akamaized.net/hls/live/2011748/PIXHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
+#EXTINF:-1 ch-id="AXN HD (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/AXN_HD_Logo_2015.png" group-title="ENTERTAINMENT--MOVIES--MUSIC",(INDIA)
+https://sony247channels.akamaized.net/hls/live/2011747/AXNHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
+#EXTINF:-1 ch-id="AAJ TAK (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/Aaj_tak_logo.png" group-title="NEWS--BUSINESS",(INDIA)
+https://sonyent.pc.cdn.bitgravity.com/sonyent/live/aajtak.smil/chunklist.m3u8
+#EXTINF:-1 ch-id="SONY ESPN (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Sony_ESPN_logo.svg/1280px-Sony_ESPN_logo.svg.png" group-title="SPORTS",(INDIA) 
+https://sony247channels.akamaized.net/hls/live/2004806/SONYESPNSD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&amp;__nn__=5606168722001&amp;hdne
+#EXTINF:-1 ch-id="SONY SIX HD (IN)" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sony-six-hd-logo-300x300.jpg"  group-title="SPORTS",(INDIA)
+https://sony247channels.akamaized.net/hls/live/2004805-b/SonySixSD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&amp;__nn__=5606168722001&amp;hdne
