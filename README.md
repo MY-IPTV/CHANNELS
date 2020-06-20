@@ -163,3 +163,5 @@ http://188.35.9.26:5031/udp/058j
 http://z5amshls.akamaized.net/zeetvsduk/playlist.m3u8
 #EXTINF:-1 ch-id="STAR PLUS (UK)"  tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2019/08/28/starplus.jpg"  group-title="ENTERTAINMENT--MOVIES--MUSIC",(EUROPE)
 http://xeex.iptvs.news:8080/nx3denizcicek/09042020dc/89039
+#EXTINF:-1 ch-id="BBC CBEEBIES (UK)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/1200px-CBeebies.svg.png"group-title="KIDS",(EUROPE)
+http://51.52.156.22:8888/http/003
