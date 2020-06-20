@@ -47,3 +47,19 @@ http://cdn61.liveonlineservices.com/hls/subrang.m3u8
 https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-92_news-hsslive-25f-16x9-SDq/chunklist.m3u8
 #EXTINF:-1 ch-id="BRAZZERS TV (EU)"  group-title="ADULT" tvg-logo="https://cdn.webshopapp.com/shops/120912/files/121623368/890x820x2/brazzers-europe-tv-jaarkaart-viaccess.jpg",(EUROPE)
 http://188.35.9.26:9031/udp/117m
+#EXTINF:-1 ch-id="JONACK TV (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c2/Jonack.png" group-title="ENTERTAINMENT//MOVIES//MUSIC",(INDIA)
+https://cdn.smartstream.video/smartstream-us/jonakk/jonakk/playlist.m3u8
+#EXTINF:-1 ch-id="ASSAM TALKS (IN)" tvg-logo="https://www.magicalassam.com/wp-content/uploads/2015/05/assam-talks-channel.jpg" group-title="NEWS//BUSINESS,(INDIA)
+http://vidnetcdn.vidgyor.com/assamtalks-origin/liveabr/playlist.m3u8
+#EXTINF:-1 ch-id="DY365 (IN)" tvg-logo="https://i.pinimg.com/originals/65/41/50/654150df61248ee6066b6ef42ddf5557.png" group-title="NEWS//BUSINESS",(INDIA)
+http://cdn.smartstream.video/smartstream-us/dy365/dy365/playlist.m3u8
+#EXTINF:-1 ch-id="PRATIDIN TIME (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/3a/Pratidin_Time.jpg" group-title="NEWS//BUSINESS",(INDIA)
+https://rtmp.smartstream.video/pratidintime/pratidintime/playlist.m3u8
+#EXTINF:-1 ch-id="NEWS TIME ASSAM (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/40/News_Time_Assam_new.jpeg" group-title="NEWS//BUSINESS",(INDIA)
+http://rtmp.smartstream.video:1935/globalherald/globalherald/playlist.m3u8
+#EXTINF:-1 ch-id="GEM KIDS (IR)" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/gem-kids-ae.png" group-title="KIDS",(MIDDLE EAST)
+http://d2e40kvaojifd6.cloudfront.net/stream/gem_kids/playlist.m3u8
+#EXTINF:-1 ch-id="NIMO TV (INT)" tvg-logo="https://cdn2.tstatic.net/tribunnews/foto/bank/images/nimo-tv__2.jpg"group-title="KIDS",(EUROPE)
+https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.flv?fluxustv.flv
+#EXTINF:-1 ch-id="CARTOON NATWORK (UK)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/200px-Cartoon_Network_2010_logo.svg.png" group-title="KIDS",(EUROPE)
+http://125.209.99.45:43568/BRN/CartoonNetwork.stream/chunklist_w903275600.m3u8
