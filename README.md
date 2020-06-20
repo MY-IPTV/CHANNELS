@@ -31,7 +31,7 @@ http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunk
 https://livedoc.cgtn.com/1000d/prog_index.m3u8
 #EXTINF:-1 ch-id="MGM (UK)" tvg-logo="https://i.pinimg.com/474x/4c/6b/cb/4c6bcbb336cc88924de812efdc15080c.jpg" group-title="ENTERTAINMENT--MOVIES--MUSIC",(EUROPE)
 https://mgm-ssai.akamaized.net/amagi_hls_data_mgmAAAAAA-theworks/CDN/720x404_1425600/index.m3u8
-#EXTINF:-1 ch-id="ABP NEW HD (IN)"  tvg-logo="https://sgp1.digitaloceanspaces.com/quickcompany/trademark/1d948f60a6c82a0f.jpg" group-title="NEWS-BUSINESS",(INDIA)
+#EXTINF:-1 ch-id="ABP NEW HD (IN)"  tvg-logo="https://sgp1.digitaloceanspaces.com/quickcompany/trademark/1d948f60a6c82a0f.jpg" group-title="NEWS--BUSINESS",(INDIA)
 https://abp-i.akamaihd.net/hls/live/765529/abphindi/masterhls_1564.m3u8
 #EXTINF:-1 ch-id="NTV MOVIES (UK)" tvg-logo="https://pbs.twimg.com/profile_images/1041178171117264898/5pGfFugz_400x400.jpg" group-title="ENTERTAINMENT--MOVIES--MUSIC",(EUROPE)
 http://cdn14.live247stream.com/navroz/ls/navroz/stream1/chunks.m3u8
@@ -49,7 +49,7 @@ http://188.35.9.26:9031/udp/117m
 https://cdn.smartstream.video/smartstream-us/jonakk/jonakk/playlist.m3u8
 #EXTINF:-1 ch-id="ASSAM TALKS (IN)" tvg-logo="https://www.magicalassam.com/wp-content/uploads/2015/05/assam-talks-channel.jpg" group-title="NEWS--BUSINESS",(INDIA)
 http://vidnetcdn.vidgyor.com/assamtalks-origin/liveabr/playlist.m3u8
-#EXTINF:-1 ch-id="DY365 (IN)" tvg-logo="https://i.pinimg.com/originals/65/41/50/654150df61248ee6066b6ef42ddf5557.png" group-title="NEWS-BUSINESS",(INDIA)
+#EXTINF:-1 ch-id="DY365 (IN)" tvg-logo="https://i.pinimg.com/originals/65/41/50/654150df61248ee6066b6ef42ddf5557.png" group-title="NEWS--BUSINESS",(INDIA)
 http://cdn.smartstream.video/smartstream-us/dy365/dy365/playlist.m3u8
 #EXTINF:-1 ch-id="PRATIDIN TIME (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/3a/Pratidin_Time.jpg" group-title="NEWS--BUSINESS",(INDIA)
 https://rtmp.smartstream.video/pratidintime/pratidintime/playlist.m3u8
