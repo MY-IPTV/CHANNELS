@@ -61,3 +61,11 @@ http://d2e40kvaojifd6.cloudfront.net/stream/gem_kids/playlist.m3u8
 https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.flv?fluxustv.flv
 #EXTINF:-1 ch-id="CARTOON NATWORK (UK)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/200px-Cartoon_Network_2010_logo.svg.png" group-title="KIDS",(EUROPE)
 http://125.209.99.45:43568/BRN/CartoonNetwork.stream/chunklist_w903275600.m3u8
+#EXTINF:-1 ch-id="SBI MUSIC (PK)" tvg-logo="https://i.ibb.co/g6Fggh3/SBI-MUSIC.jpg" group-title="ENTERTAINMENT--MOVIES--MUSIC",(PAKISTAN)
+http://livecdn.live247stream.com/sbimusic/tv/sbimusic/stream/chunks.m3u8
+#EXTINF:-1 ch-id="MOOZ TV (USA)" tvg-logo="https://mooz.tv/site/img/mooz-hits.jpg" group-title="ENTERTAINMENT--MOVIES--MUSIC",(AMERICA)
+http://telekomtv-ro.akamaized.net/shls/LIVE$MoozHitsSD/14.m3u8/Level(545259)?start=LIVE&end=END
+#EXTINF:-1 ch-id="DJING LIVE (USA)" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/us-djing-hot-4838.jpg" group-title="ENTERTAINMENT--MOVIES--MUSIC",(AMERICA)
+https://www.djing.com/tv/live.m3u8
+#EXTINF:-1 ch-id="BOX HITS (UK)" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/f/1/1149.1464128411.png" group-title="ENTERTAINMENT--MOVIES--MUSIC",(EUROPE)
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
