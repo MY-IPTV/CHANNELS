@@ -243,3 +243,5 @@ http://103.194.169.115:25461/dqQNRTLjBh/fSO8Um75uoisshared/54226?play_token=xcHU
 http://tv.profipanel.itv.world:8080/7z5kwph3hch/x38g59q6e6/3983
 #EXTINF:-1 ch-id="STAR SPORTS 3 (IND)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/75/Star_Sports_3_2018.png"  group-title="SPORTS",(INDIA) 
 http://tv.profipanel.itv.world:8080/7z5kwph3hch/x38g59q6e6/3977
+#EXTINF:-1 ch-id="STAR BHARAT (ME)"  tvg-logo="https://www.gcaffe.com/wp-content/uploads/2017/09/Star-Bharat-Logo-Bhula-De-Dar-Kuchh-Alag-Kar.png"  group-title="ENTERTAINMENT--MOVIES--MUSIC",(MIDDLE EAST)
+http://103.135.208.14/live/ibox/bd/50.m3u8?RocketTV
