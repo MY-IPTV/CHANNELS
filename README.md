@@ -251,3 +251,5 @@ http://103.135.208.14/live/ibox/bd/41.m3u8?RocketTV
 http://103.135.208.14/live/ibox/bd/7.m3u8?RocketTV
 #EXTINF:-1 ch-id="COLORS RISHTEY (UK)" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/st-ak/yupptv/og_image/Colors-Rishtey_TV.jpg"  group-title="ENTERTAINMENT--MOVIES--MUSIC",(EUROPE) 
 http://tv.profipanel.itv.world:8080/7z5kwph3hch/x38g59q6e6/11295
+#EXTINF:-1 ch-id="SONY TV (UK)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7e/SET_India_2016.jpg"  group-title="ENTERTAINMENT--MOVIES--MUSIC",(EUROPE)
+http://tv.profipanel.itv.world:8080/7z5kwph3hch/x38g59q6e6/10609
