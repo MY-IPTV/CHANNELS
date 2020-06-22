@@ -225,7 +225,7 @@ http://tv.profipanel.itv.world:8080/7z5kwph3hch/x38g59q6e6/5544
 http://tv.profipanel.itv.world:8080/7z5kwph3hch/x38g59q6e6/3981
 #EXTINF:-1 ch-id="STAR PLUS HD (IN)"  tvg-logo="https://www.logolynx.com/images/logolynx/s_53/53e5e5654ae3a7198b85219d65ff52e9.jpeg"  group-title="ENTERTAINMENT--MOVIES--MUSIC",(INDIA)
 http://tv.ebox.live:8080/live/star-plus.m3u8
-#EXTINF:-1 ch-id="ZEE TV HD (US)" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/ImageRightsManagment_ChannelLogo/CMqUe8No.png" group-title="ENTERTAINMENT--MOVIES--MUSIC",(AMERICA) 
+#EXTINF:-1 ch-id="ZEE TV HD (IN)" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/ImageRightsManagment_ChannelLogo/CMqUe8No.png" group-title="ENTERTAINMENT--MOVIES--MUSIC",(INDIA) 
 http://tv.ebox.live:8080/live/zee-tv.m3u8
 #EXTINF:-1 ch-id="STAR GOLD SELECT HD (IND)" tvg-logo="https://www.adgully.com/img/800/201703/star-gold-select-hd-logo.jpg"   group-title="ENTERTAINMENT--MOVIES--MUSIC",(INDIA) 
 http://tv.ebox.live:8080/live/star-gold-select.m3u8
