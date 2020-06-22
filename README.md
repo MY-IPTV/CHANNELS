@@ -247,3 +247,5 @@ http://tv.profipanel.itv.world:8080/7z5kwph3hch/x38g59q6e6/3977
 http://103.135.208.14/live/ibox/bd/50.m3u8?RocketTV
 #EXTINF:-1 ch-id="STAR PLUS (APAC)"  tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2019/08/28/starplus.jpg"  group-title="ENTERTAINMENT--MOVIES--MUSIC",(ASIA)
 http://103.135.208.14/live/ibox/bd/41.m3u8?RocketTV
+#EXTINF:-1 ch-id="UTV MOVIES (IN)"  tvg-logo="https://i.pinimg.com/originals/e7/8e/87/e78e875a3e973145f39ecfae2095db03.png"  group-title="ENTERTAINMENT--MOVIES--MUSIC",(INDIA)
+http://103.135.208.14/live/ibox/bd/7.m3u8?RocketTV
