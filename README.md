@@ -137,8 +137,6 @@ https://sony247channels.akamaized.net/hls/live/2004808/SonyTen2SD/master.m3u8?hd
 https://sony247channels.akamaized.net/hls/live/2004802/SONYTEN1HD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&amp;__nn__=5606168722001&amp;hdne
 #EXTINF:-1 ch-id="SONY TEN 1 (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/24/Sony_Ten_1.jpg" group-title="SPORTS--ONLINE",(INDIA)
 https://sony247channels.akamaized.net/hls/live/2004807/SonyTen1SD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&amp;__nn__=5606168722001&amp;hdne
-#EXTINF:-1 ch-id="ARY FAMILY (UK)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/ARY_Digital_Logo_2.png" group-title="ENTERTAINMENT--ONLINE",(EUROPE)
-http://95.211.211.168/live/aryfamily0071/playlist.m3u8
 #EXTINF:-1 ch-id="SONY MAX HD (IND)" tvg-logo="https://image.airtel.tv/content/MWTV/LIVETVCHANNEL/MWTV_LIVETVCHANNEL_298/ic_logo_sony_MaxHD.png" group-title="MOVIES--ONLINE",(INDIA)
 http://175.41.46.16:8081/hls/8.m3u8
 #EXTINF:-1 ch-id="STAR PLUS HD (IN)"  tvg-logo="https://www.logolynx.com/images/logolynx/s_53/53e5e5654ae3a7198b85219d65ff52e9.jpeg"  group-title="ENTERTAINMENT--ONLINE",(INDIA)
@@ -201,8 +199,6 @@ http://ajantatv.me/FoIder902/jee.php?c=zeetvsduk&e=.m3u8
 http://ajantatv.me/FoIder902/jee.php?c=ztvme&e=.m3u8
 #EXTINF:-1 ch-id="ZEE TV HD (US)" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/ImageRightsManagment_ChannelLogo/CMqUe8No.png" group-title="ENTERTAINMENT--ONLINE",(AMERICA) 
 http://ajantatv.me/FoIder902/jee.php?c=ztvhdusa&e=.m3u8
-#EXTINF:-1 ch-id="AND TV HD (US)" tvg-logo="https://www.medianews4u.com/wp-content/uploads/2015/08/TV-HD-1-2.jpg" group-title="ENTERTAINMENT--ONLINE",(AMERICA)
-http://ajantatv.me/FoIder902/jee.php?c=andtvhdusa&e=.m3u8
 #EXTINF:-1 ch-id="STAR GOLD (ME)" tvg-logo="https://admin.thecricketer.com/weblab/sites/96c8b790-b593-bfda-0ba4-ecd3a9fdefc2/resources/images/site/stargold190301-min.jpg"  group-title="MOVIES--ONLINE",(MIDDLE EAST) 
 https://edge01.iptv.digijadoo.net/live/star_gold_intl/chunks.m3u8
 #EXTINF:-1 ch-id="ZEE CINEMA (US)"  tvg-logo="https://adhub.lk/attachments-2.1.0/channel-logos/fid_2529_zee-cinema-1.jpg"  group-title="MOVIES--ONLINE",(AMERICA)
