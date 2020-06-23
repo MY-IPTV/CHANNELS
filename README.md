@@ -257,3 +257,5 @@ http://tv.profipanel.itv.world:8080/7z5kwph3hch/x38g59q6e6/10609
 http://103.214.202.218:8081/live/zeetv-31/playlist.m3u8
 #EXTINF:-1 ch-id="ZEE TV (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="ENTERTAINMENT--MOVIES--MUSIC",(INDIA) 
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/ZeeTV/ZeeTV.isml/index.m3u8
+#EXTINF:-1 ch-id="AND TV HD (IN)" tvg-logo="https://www.medianews4u.com/wp-content/uploads/2015/08/TV-HD-1-2.jpg" group-title="ENTERTAINMENT--MOVIES--MUSIC",(INDIA)
+http://103.214.202.218:8081/live/andtv-27/chunks.m3u8
