@@ -257,3 +257,5 @@ http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/ZeeTV/ZeeTV.isml/index.m3u8
 http://103.214.202.218:8081/live/andtv-27/chunks.m3u8
 #EXTINF:-1 ch-id="ZEE CINEMA HD (IN)"  tvg-logo="https://i.pinimg.com/originals/50/a8/5f/50a85fb712ed1516f8954223dc52fb8a.jpg"  group-title="ENTERTAINMENT--MOVIES--MUSIC",(INDIA)
 http://103.214.202.218:8081/live/zeecinema-34/chunks.m3u8
+#EXTINF:-1 ch-id="AND PICTURES HD (IN)" tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_696/PORTRAIT/288dmSbW.png" group-title="ENTERTAINMENT--MOVIES--MUSIC",(INDIA)
+http://103.214.202.218:8081/live/andpicture-26/chunks.m3u8
