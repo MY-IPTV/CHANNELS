@@ -51,10 +51,6 @@ https://cdn.smartstream.video/smartstream-us/jonakk/jonakk/playlist.m3u8
 http://vidnetcdn.vidgyor.com/assamtalks-origin/liveabr/playlist.m3u8
 #EXTINF:-1 ch-id="DY365 (IN)" tvg-logo="https://i.pinimg.com/originals/65/41/50/654150df61248ee6066b6ef42ddf5557.png" group-title="NEWS--BUSINESS",(INDIA)
 http://cdn.smartstream.video/smartstream-us/dy365/dy365/playlist.m3u8
-#EXTINF:-1 ch-id="PRATIDIN TIME (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/3a/Pratidin_Time.jpg" group-title="NEWS--BUSINESS",(INDIA)
-https://rtmp.smartstream.video/pratidintime/pratidintime/playlist.m3u8
-#EXTINF:-1 ch-id="NEWS TIME ASSAM (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/40/News_Time_Assam_new.jpeg" group-title="NEWS--BUSINESS",(INDIA)
-http://rtmp.smartstream.video:1935/globalherald/globalherald/playlist.m3u8
 #EXTINF:-1 ch-id="GEM KIDS (IR)" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/gem-kids-ae.png" group-title="KIDS",(MIDDLE EAST)
 http://d2e40kvaojifd6.cloudfront.net/stream/gem_kids/playlist.m3u8
 #EXTINF:-1 ch-id="NIMO TV (INT)" tvg-logo="https://cdn2.tstatic.net/tribunnews/foto/bank/images/nimo-tv__2.jpg"group-title="KIDS",(EUROPE)
@@ -259,3 +255,5 @@ http://103.214.202.218:8081/live/zeetv-31/playlist.m3u8
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/ZeeTV/ZeeTV.isml/index.m3u8
 #EXTINF:-1 ch-id="AND TV HD (IN)" tvg-logo="https://www.medianews4u.com/wp-content/uploads/2015/08/TV-HD-1-2.jpg" group-title="ENTERTAINMENT--MOVIES--MUSIC",(INDIA)
 http://103.214.202.218:8081/live/andtv-27/chunks.m3u8
+#EXTINF:-1 ch-id="ZEE CINEMA HD (IN)"  tvg-logo="https://i.pinimg.com/originals/50/a8/5f/50a85fb712ed1516f8954223dc52fb8a.jpg"  group-title="ENTERTAINMENT--MOVIES--MUSIC",(INDIA)
+http://103.214.202.218:8081/live/zeecinema-34/chunks.m3u8
