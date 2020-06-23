@@ -79,7 +79,7 @@ https://ch.iptvmate.net/f5d063ba7b6f6a5acbb3dd649ecf38d8.m3u8
 http://220.158.149.28:8180/live/TV00000000000000000166@HHZT
 #EXTINF:-1 ch-id="VIVID TV (EU)"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/42/VividTV.jpeg" group-title="ADULT--ONLINE",(EUROPE)
 http://188.35.9.26:2031/udp/031a
-#EXTINF:-1 ch-id="BOLLYWOOD TV (USA)"  tvg-logo="https://dstroscal1.s.llnwi.net/public/hls/22667/bollywood-tv/thumbv_20191205_011236.jpg"  group-title="MOVIES--ONLINE",(AMERICA)
+#EXTINF:-1 ch-id="BOLLYWOOD TV (USA)"  tvg-logo="https://cigars.roku.com/v1/contain/800x454/https%3A%2F%2Fimage.roku.com%2Fdeveloper_channels%2Fprod%2Fc9a05dd4f6b24ed50ce4a10a011bb62d8d605da08624733ae6ba2340e56afcf2.jpg"  group-title="MOVIES--ONLINE",(AMERICA)
 http://a.jsrdn.com/broadcast/d5b45/+0000/low/c.m3u8
 #EXTINF:-1 ch-id="ZEE BANGLA (IN)"  tvg-logo="https://i.pinimg.com/originals/e7/8e/87/e78e875a3e973145f39ecfae2095db03.png"  group-title="ENTERTAINMENT--ONLINE",(INDIA)
 http://130.185.150.79:1935/db24/zeebangla/playlist.m3u8
