@@ -253,3 +253,5 @@ http://103.135.208.14/live/ibox/bd/7.m3u8?RocketTV
 http://tv.profipanel.itv.world:8080/7z5kwph3hch/x38g59q6e6/11295
 #EXTINF:-1 ch-id="SONY TV (UK)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7e/SET_India_2016.jpg"  group-title="ENTERTAINMENT--MOVIES--MUSIC",(EUROPE)
 http://tv.profipanel.itv.world:8080/7z5kwph3hch/x38g59q6e6/10609
+#EXTINF:-1 ch-id="ZEE TV HD (IN)" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/ImageRightsManagment_ChannelLogo/CMqUe8No.png" group-title="ENTERTAINMENT--MOVIES--MUSIC",(INDIA) 
+http://103.214.202.218:8081/live/zeetv-31/playlist.m3u8
