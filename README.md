@@ -257,3 +257,5 @@ http://103.214.202.218:8081/live/zeecinema-34/chunks.m3u8
 http://103.214.202.218:8081/live/andpicture-26/chunks.m3u8
 #EXTINF:-1 ch-id="KIK (ASIA)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/1200px-KIX_logo.svg.png" group-title="MOVIES--ONLINE",(ASIA)
 http://210.210.155.66/h/h07/01.m3u8
+#EXTINF:-1 ch-id="HITS (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0b/Hits_TV_Asia_logo.jpg" group-title="MOVIES--ONLINE",(ASIA)
+http://210.210.155.66/h/h37/01.m3u8
