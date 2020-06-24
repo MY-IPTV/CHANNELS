@@ -261,3 +261,5 @@ http://210.210.155.66/h/h07/01.m3u8
 http://210.210.155.66/h/h37/01.m3u8
 #EXTINF:-1 ch-id="AXN (ASIA)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1280px-AXN_logo_%282015%29.svg.png" group-title="ENTERTAINMENT--ONLINE",(ASIA)
 http://210.210.155.66/h/h141/02.m3u8
+#EXTINF:-1 ch-id="FIGHT SPORTS (ASIA)" tvg-logo="https://2upyml2xgast2pwf71r0ycaj-wpengine.netdna-ssl.com/wp-content/uploads/LOGO_WHITE.png" group-title="SPORTS--ONLINE",(ASIA)
+http://210.210.155.66:80/h/h05/02.m3u8
