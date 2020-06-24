@@ -263,3 +263,5 @@ http://210.210.155.66/h/h37/01.m3u8
 http://210.210.155.66/h/h141/02.m3u8
 #EXTINF:-1 ch-id="FIGHT SPORTS (ASIA)" tvg-logo="https://2upyml2xgast2pwf71r0ycaj-wpengine.netdna-ssl.com/wp-content/uploads/LOGO_WHITE.png" group-title="SPORTS--ONLINE",(ASIA)
 http://210.210.155.66:80/h/h05/02.m3u8
+#EXTINF:-1 ch-id="EGG LIVE (ASIA)" tvg-logo="https://pbs.twimg.com/profile_images/816956078214610944/pIwejAK3_400x400.jpg"  group-title="SPORTS--ONLINE",(ASIA)
+http://210.210.155.66/h/h22/01.m3u8
