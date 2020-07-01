@@ -69,14 +69,10 @@ http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=htt
 https://bozztv.com/36bay2/gin/giniko_ifilmenglish_800kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ch-id="X BUNGA BUNGA (INT)" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tring_bunga_bunga.jpg" group-title="ADULT--ONLINE",(EUROPE)
 http://5.135.92.133:52841/out/u/107_1.m3u8
-#EXTINF:-1 ch-id="VENUS TV (UK)" tvg-logo="https://www.prakashastrologer.com/wp-content/uploads/2014/09/VENUS-TV.png" group-title="MOVIES--ONLINE",(EUROPE)
-https://a.jsrdn.com/broadcast/22690/-0500/c.m3u8
 #EXTINF:-1 tvg-id="GEM BOLLYWOOD (IR)" tvg-logo="https://img.webme.com/pic/t/totv/gem-bollywood.png" group-title="MOVIES--ONLINE",(MIDDLE EAST)
 http://d2e40kvaojifd6.cloudfront.net/stream/gem_bollywood/playlist.m3u8
 #EXTINF:-1 ch-id="DUBAI ONE (ME)"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Dubai_One_logo_2016.png" group-title="ENTERTAINMENT--ONLINE",(MIDDLE EAST)
 https://ch.iptvmate.net/f5d063ba7b6f6a5acbb3dd649ecf38d8.m3u8
-#EXTINF:-1 ch-id="HBO (ASIA)" tvg-logo="https://logopond.com/logos/e9b985c80c0a0c04b698feed80e5c8f7.png" group-title="MOVIES--ONLINE",(ASIA)
-http://220.158.149.28:8180/live/TV00000000000000000166@HHZT
 #EXTINF:-1 ch-id="VIVID TV (EU)"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/42/VividTV.jpeg" group-title="ADULT--ONLINE",(EUROPE)
 http://188.35.9.26:2031/udp/031a
 #EXTINF:-1 ch-id="BOLLYWOOD TV (USA)"  tvg-logo="https://cigars.roku.com/v1/contain/800x454/https%3A%2F%2Fimage.roku.com%2Fdeveloper_channels%2Fprod%2Fc9a05dd4f6b24ed50ce4a10a011bb62d8d605da08624733ae6ba2340e56afcf2.jpg"  group-title="MOVIES--ONLINE",(AMERICA)
