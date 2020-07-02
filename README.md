@@ -263,3 +263,5 @@ http://210.210.155.66/h/h22/01.m3u8
 https://cdn-laos.workpoint.news/hd-natgeo_720/index.m3u8
 #EXTINF:-1 ch-id="STAR MOVIES (IN)" tvg-logo="http://pluspng.com/img-png/star-movies-logo-png-star-movies-star-movies-select-hd-to-air-whiplash-and-fantastic-four-this-weekend-300.jpg"  group-title="MOVIES--ONLINE",(INDIA) 
 http://202.163.117.6:9981/stream/channelid/1210441427
+#EXTINF:-1 ch-id="DISNEY CHANNEL (IN)"  tvg-logo="http://2.bp.blogspot.com/-MibcP0HdamU/Uol8_6YveuI/AAAAAAAAcsc/EeGfzETaQjA/s1600/Disney+Channel+logo+2013.png" group-title="KIDS--ONLINE",(INDIA)
+http://202.163.117.6:9981/stream/channelid/349051393
