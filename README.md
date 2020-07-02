@@ -259,3 +259,5 @@ http://210.210.155.66/h/h141/02.m3u8
 http://210.210.155.66:80/h/h05/02.m3u8
 #EXTINF:-1 ch-id="EGG LIVE (ASIA)" tvg-logo="https://pbs.twimg.com/profile_images/816956078214610944/pIwejAK3_400x400.jpg"  group-title="SPORTS--ONLINE",(ASIA)
 http://210.210.155.66/h/h22/01.m3u8
+#EXTINF:-1 ch-id="NAT GEO (ASIA)"  tvg-logo="https://blog.depositphotos.com/wp-content/uploads/2012/01/NG_logo_2line_rgb_wht_on_bk1.jpg" group-title="INFORMATION--ONLINE",(ASIA)
+https://cdn-laos.workpoint.news/hd-natgeo_720/index.m3u8
