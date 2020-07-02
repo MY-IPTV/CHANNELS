@@ -271,3 +271,5 @@ http://87.117.234.107:1935/live/StarMovies_SELECT_HD/playlists.m3u8
 http://103.135.208.14/live/ibox/bd/7.m3u8?RocketTV
 #EXTINF:-1 ch-id="ZEE TV (ASIA)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="ENTERTAINMENT--ONLINE",(ASIA) 
 http://103.135.208.14/live/ibox/bd/51.m3u8?RocketTV
+#EXTINF:-1 ch-id="ANIMAL PLANET (IN)" tvg-logo="https://www.kindpng.com/imgv/hiJiwbo_bindi-the-otters-new-animal-planet-logo-hd/#gal_bindi-the-otters-new-animal-planet-logo-hd-png-download_hiJiwbo_3642570.png"  group-title="WILDLIFE--ONLINE",(INDIA)
+http://103.135.208.14/live/ibox/bd/93.m3u8?RocketTV
