@@ -273,3 +273,5 @@ http://103.135.208.14/live/ibox/bd/7.m3u8?RocketTV
 http://103.135.208.14/live/ibox/bd/51.m3u8?RocketTV
 #EXTINF:-1 ch-id="ANIMAL PLANET (IN)" tvg-logo="https://www.kindpng.com/imgv/hiJiwbo_bindi-the-otters-new-animal-planet-logo-hd/#gal_bindi-the-otters-new-animal-planet-logo-hd-png-download_hiJiwbo_3642570.png"  group-title="WILDLIFE--ONLINE",(INDIA)
 http://103.135.208.14/live/ibox/bd/93.m3u8?RocketTV
+#EXTINF:-1 ch-id="STAR SPORTS 3 (IND)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/75/Star_Sports_3_2018.png"  group-title="SPORTS--ONLINE",(INDIA) 
+http://103.135.208.14/live/ibox/bd/8.m3u8?RocketTV
