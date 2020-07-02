@@ -267,3 +267,5 @@ http://202.163.117.6:9981/stream/channelid/1210441427
 http://202.163.117.6:9981/stream/channelid/349051393
 #EXTINF:-1 ch-id="STAR MOVIES SELECT HD (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d6/StarMoviesSelectHDLogo.jpg"  group-title="MOVIES--ONLINE",(INDIA) 
 http://87.117.234.107:1935/live/StarMovies_SELECT_HD/playlists.m3u8
+#EXTINF:-1 ch-id="UTV MOVIES (IN)" tvg-logo="https://en.m.wikipedia.org/wiki/File:UTV_Movies_logo.png" group-title="MOVIES--ONLINE",(INDIA)
+http://103.135.208.14/live/ibox/bd/7.m3u8?RocketTV
