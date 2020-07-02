@@ -261,3 +261,5 @@ http://210.210.155.66:80/h/h05/02.m3u8
 http://210.210.155.66/h/h22/01.m3u8
 #EXTINF:-1 ch-id="NAT GEO (ASIA)"  tvg-logo="https://blog.depositphotos.com/wp-content/uploads/2012/01/NG_logo_2line_rgb_wht_on_bk1.jpg" group-title="INFORMATION--ONLINE",(ASIA)
 https://cdn-laos.workpoint.news/hd-natgeo_720/index.m3u8
+#EXTINF:-1 ch-id="STAR MOVIES (IN)" tvg-logo="http://pluspng.com/img-png/star-movies-logo-png-star-movies-star-movies-select-hd-to-air-whiplash-and-fantastic-four-this-weekend-300.jpg"  group-title="MOVIES--ONLINE",(INDIA) 
+http://202.163.117.6:9981/stream/channelid/1210441427
