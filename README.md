@@ -265,3 +265,5 @@ https://cdn-laos.workpoint.news/hd-natgeo_720/index.m3u8
 http://202.163.117.6:9981/stream/channelid/1210441427
 #EXTINF:-1 ch-id="DISNEY CHANNEL (IN)"  tvg-logo="http://2.bp.blogspot.com/-MibcP0HdamU/Uol8_6YveuI/AAAAAAAAcsc/EeGfzETaQjA/s1600/Disney+Channel+logo+2013.png" group-title="KIDS--ONLINE",(INDIA)
 http://202.163.117.6:9981/stream/channelid/349051393
+#EXTINF:-1 ch-id="STAR MOVIES SELECT HD (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d6/StarMoviesSelectHDLogo.jpg"  group-title="MOVIES--ONLINE",(INDIA) 
+http://87.117.234.107:1935/live/StarMovies_SELECT_HD/playlists.m3u8
