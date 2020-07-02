@@ -196,7 +196,7 @@ http://ajantatv.me/FoIder902/jee.php?c=ztvme&e=.m3u8
 #EXTINF:-1 ch-id="ZEE TV HD (US)" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/ImageRightsManagment_ChannelLogo/CMqUe8No.png" group-title="ENTERTAINMENT--ONLINE",(AMERICA) 
 http://ajantatv.me/FoIder902/jee.php?c=ztvhdusa&e=.m3u8
 #EXTINF:-1 ch-id="STAR GOLD (ME)" tvg-logo="https://admin.thecricketer.com/weblab/sites/96c8b790-b593-bfda-0ba4-ecd3a9fdefc2/resources/images/site/stargold190301-min.jpg"  group-title="MOVIES--ONLINE",(MIDDLE EAST) 
-https://edge01.iptv.digijadoo.net/live/star_gold_intl/chunks.m3u8
+https://itpolly.iptv.digijadoo.net/live/star_gold_intl/chunks.m3u8
 #EXTINF:-1 ch-id="ZEE CINEMA (US)"  tvg-logo="https://adhub.lk/attachments-2.1.0/channel-logos/fid_2529_zee-cinema-1.jpg"  group-title="MOVIES--ONLINE",(AMERICA)
 http://ajantatv.me/FoIder902/jee.php?c=cinemausa&e=.m3u8
 #EXTINF:-1 ch-id="ZEE SMILE (US)"  tvg-logo="https://www.zeeentertainment.com/wp-content/uploads/2020/04/Zee-Smile-1.jpg"  group-title="ENTERTAINMENT--ONLINE",(AMERICA)
@@ -225,8 +225,6 @@ http://tv.ebox.live:8080/live/starsports-1-hind.m3u8
 http://tv.ebox.live:8080/live/starsportshd-2.m3u8
 #EXTINF:-1 ch-id="STAR SPORTS 1 HD (IND)" tvg-logo="https://sgp1.digitaloceanspaces.com/quickcompany/trademark/4069212d8d4f6920.jpg"  group-title="SPORTS--ONLINE",(INDIA) 
 http://tv.ebox.live:8080/live/starsports-1.m3u8
-#EXTINF:-1 ch-id="MOVIES ACTIVE HD (IND)" tvg-logo="https://d2h-wsc-media.s3.amazonaws.com/uploads/navigation/201804/movies-active-hd-bg_041218121205.png" group-title="MOVIES--ONLINE",(INDIA)
-http://103.194.169.115:25461/dqQNRTLjBh/fSO8Um75uoisshared/54226?play_token=xcHU6d12Ls&token=GRdRWUpbQV9BUQ8AUlRaVA0EXgdUVQNXAVQCVgIADghUBlsBAQUGA1cRFEQQFxAGVQxnD1YVCVQHUVYEHEFNQgdHZlFdEVlHUgEAUlVbVUEYQ0wPX1IRWwJWXQAAVQ4JVA0VGklaB0dZXU0KD09ABkwVXRRcVl8+VwYSW1MGGgsMQFVUFREMCzxXXQsCDQZBDkMJRB4VWhJDQV5cRQ9UHUBXUExLUhcAQQlWEw8PTkFXDk0IRkVKQwlBLXwSTxpUGkFcVkpaDAtBCRoSEEFOQV0SZxRXREcTVgIJV0JBAhNSFxUaVFIbOgBcVggGABYKWw9LRAgVAkMfQQldXgpMXhBqSVFdEVkLFl9UGw==
 #EXTINF:-1 ch-id="STAR GOLD (UK)" tvg-logo="https://admin.thecricketer.com/weblab/sites/96c8b790-b593-bfda-0ba4-ecd3a9fdefc2/resources/images/site/stargold190301-min.jpg"  group-title="MOVIES--ONLINE",(EUROPE) 
 http://tv.profipanel.itv.world:8080/7z5kwph3hch/x38g59q6e6/3983
 #EXTINF:-1 ch-id="STAR SPORTS 3 (IND)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/75/Star_Sports_3_2018.png"  group-title="SPORTS--ONLINE",(INDIA) 
