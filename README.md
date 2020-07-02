@@ -269,3 +269,5 @@ http://202.163.117.6:9981/stream/channelid/349051393
 http://87.117.234.107:1935/live/StarMovies_SELECT_HD/playlists.m3u8
 #EXTINF:-1 ch-id="UTV MOVIES (IN)" tvg-logo="https://en.m.wikipedia.org/wiki/File:UTV_Movies_logo.png" group-title="MOVIES--ONLINE",(INDIA)
 http://103.135.208.14/live/ibox/bd/7.m3u8?RocketTV
+#EXTINF:-1 ch-id="ZEE TV (ASIA)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="ENTERTAINMENT--ONLINE",(ASIA) 
+http://103.135.208.14/live/ibox/bd/51.m3u8?RocketTV
