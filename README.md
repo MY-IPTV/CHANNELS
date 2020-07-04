@@ -283,3 +283,5 @@ http://103.135.208.14/live/ibox/bd/2.m3u8?RocketTV
 http://103.135.208.14/live/ibox/bd/3.m3u8?RocketTV
 #EXTINF:-1 ch-id="ZEE BANGLA HD (IND)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/29/Zee_Bangla_HD_2017.jpg"  group-title="ENTERTAINMENT--ONLINE",(INDIA)
 http://103.135.208.14/live/ibox/bd/96.m3u8?RocketTV
+#EXTINF:-1 ch-id="9XM (IN)"  tvg-logo="https://w7.pngwing.com/pngs/986/104/png-transparent-9xm-9x-media-music-television-live-music-miscellaneous-television-text.png" group-title="MUSIC--ONLINE",(INDIA)
+http://103.135.208.14/live/ibox/bd/90.m3u8?RocketTV
