@@ -281,3 +281,5 @@ http://84.85.106.110:8001/1:0:1:5284:C96:3:EB0000:0:0:0:
 http://103.135.208.14/live/ibox/bd/2.m3u8?RocketTV
 #EXTINF:-1 ch-id="STAR JALSHA HD (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ac/Star_Jalsha_HD_2019_Chalo_Paltai.png"  group-title="ENTERTAINMENT--ONLINE",(INDIA)
 http://103.135.208.14/live/ibox/bd/3.m3u8?RocketTV
+#EXTINF:-1 ch-id="ZEE BANGLA HD (IND)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/29/Zee_Bangla_HD_2017.jpg"  group-title="ENTERTAINMENT--ONLINE",(INDIA)
+http://103.135.208.14/live/ibox/bd/96.m3u8?RocketTV
