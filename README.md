@@ -275,5 +275,5 @@ http://103.135.208.14/live/ibox/bd/51.m3u8?RocketTV
 http://103.135.208.14/live/ibox/bd/93.m3u8?RocketTV
 #EXTINF:-1 ch-id="STAR SPORTS 3 (IND)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/75/Star_Sports_3_2018.png"  group-title="SPORTS--ONLINE",(INDIA) 
 http://103.135.208.14/live/ibox/bd/8.m3u8?RocketTV
-#EXTINF:-1 ch-id="MAN X (UK)"  tvg-logo=" " group-title="ADULT--ONLINE",(EUROPE)
+#EXTINF:-1 ch-id="MAN X (UK)"  tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/0e/MAN_X_2013.jpg"  group-title="ADULT--ONLINE",(EUROPE)
 http://84.85.106.110:8001/1:0:1:5284:C96:3:EB0000:0:0:0:
