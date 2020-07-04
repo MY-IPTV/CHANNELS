@@ -271,7 +271,7 @@ http://87.117.234.107:1935/live/StarMovies_SELECT_HD/playlists.m3u8
 http://103.135.208.14/live/ibox/bd/7.m3u8?RocketTV
 #EXTINF:-1 ch-id="ZEE TV (ASIA)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="ENTERTAINMENT--ONLINE",(ASIA) 
 http://103.135.208.14/live/ibox/bd/51.m3u8?RocketTV
-#EXTINF:-1 ch-id="ANIMAL PLANET (IN)" tvg-logo=" "  group-title="WILDLIFE--ONLINE",(INDIA)
+#EXTINF:-1 ch-id="ANIMAL PLANET (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png"  group-title="WILDLIFE--ONLINE",(INDIA)
 http://103.135.208.14/live/ibox/bd/93.m3u8?RocketTV
 #EXTINF:-1 ch-id="STAR SPORTS 3 (IND)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/75/Star_Sports_3_2018.png"  group-title="SPORTS--ONLINE",(INDIA) 
 http://103.135.208.14/live/ibox/bd/8.m3u8?RocketTV
