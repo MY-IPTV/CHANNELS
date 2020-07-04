@@ -285,3 +285,5 @@ http://103.135.208.14/live/ibox/bd/3.m3u8?RocketTV
 http://103.135.208.14/live/ibox/bd/96.m3u8?RocketTV
 #EXTINF:-1 ch-id="9XM (IN)"  tvg-logo="https://w7.pngwing.com/pngs/986/104/png-transparent-9xm-9x-media-music-television-live-music-miscellaneous-television-text.png" group-title="MUSIC--ONLINE",(INDIA)
 http://103.135.208.14/live/ibox/bd/90.m3u8?RocketTV
+#EXTINF:-1 ch-id="STAR MOVIES HD (IND)"  tvg-logo="https://sgp1.digitaloceanspaces.com/quickcompany/trademark/125d4074f7133b47.jpg"  group-title="MOVIES--ONLINE",(INDIA)
+http://103.135.208.14/live/ibox/bd/82.m3u8?RocketTV
