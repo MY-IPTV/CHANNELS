@@ -279,3 +279,5 @@ http://103.135.208.14/live/ibox/bd/8.m3u8?RocketTV
 http://84.85.106.110:8001/1:0:1:5284:C96:3:EB0000:0:0:0:
 #EXTINF:-1 ch-id="CARTOON NATWORK (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/200px-Cartoon_Network_2010_logo.svg.png" group-title="KIDS--ONLINE",(INDIA)
 http://103.135.208.14/live/ibox/bd/2.m3u8?RocketTV
+#EXTINF:-1 ch-id="STAR JALSHA HD (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ac/Star_Jalsha_HD_2019_Chalo_Paltai.png"  group-title="ENTERTAINMENT--ONLINE",(INDIA)
+http://103.135.208.14/live/ibox/bd/3.m3u8?RocketTV
