@@ -301,3 +301,5 @@ http://103.135.208.14/live/ibox/bd/66.m3u8?RocketTV
 http://103.135.208.14/live/ibox/bd/62.m3u8?RocketTV
 #EXTINF:-1 ch-id="STAR SPORTS 2 (IND)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c3/SS2_Crop.jpg"   group-title="SPORTS--ONLINE",(INDIA) 
 http://103.135.208.14/live/ibox/bd/54.m3u8?RocketTV
+#EXTINF:-1 ch-id="ARY DIGITAL (PK)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/ARY_Digital_Logo_2.png" group-title="ENTERTAINMENT--ONLINE",(PAKISTAN)
+http://103.135.208.14/live/ibox/bd/56.m3u8?RocketTV
