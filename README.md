@@ -287,7 +287,7 @@ http://103.135.208.14/live/ibox/bd/96.m3u8?RocketTV
 http://103.135.208.14/live/ibox/bd/90.m3u8?RocketTV
 #EXTINF:-1 ch-id="STAR MOVIES HD (IND)"  tvg-logo="https://sgp1.digitaloceanspaces.com/quickcompany/trademark/125d4074f7133b47.jpg"  group-title="MOVIES--ONLINE",(INDIA)
 http://103.135.208.14/live/ibox/bd/82.m3u8?RocketTV
-#EXTINF:-1 ch-id="STAR WORLD HD (IN)" tvg-logo="https://sgp1.digitaloceanspaces.com/quickcompany/trademark/3eb790783a1626ee.jpg"  group-title="ENTERTAINMENT--ONLINE",(INDIA)
+#EXTINF:-1 ch-id="STAR SPORTS 2 HD (IN)" tvg-logo="https://sgp1.digitaloceanspaces.com/quickcompany/trademark/82199a84273f5369.jpg"  group-title="SPORTS--ONLINE",(INDIA)
 http://103.135.208.14/live/ibox/bd/78.m3u8?RocketTV
 #EXTINF:-1 ch-id="ROMEDY NOW (IN)" tvg-logo="https://www.smartads.in/resources/assets/uploads/product_group/Television/Romedy_Now.jpg" group-title="MOVIES--ONLINE",(INDIA)
 http://103.135.208.14/live/ibox/bd/72.m3u8?RocketTV
