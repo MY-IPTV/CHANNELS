@@ -299,3 +299,5 @@ http://103.135.208.14/live/ibox/bd/68.m3u8?RocketTV
 http://103.135.208.14/live/ibox/bd/66.m3u8?RocketTV
 #EXTINF:-1 ch-id="TLC HD (IN)" tvg-logo="https://www.pngkey.com/png/detail/234-2341299_tlc-hd-logo-germany-tlchd.png" group-title="LIFESTYLE--ONLINE",(INDIA)
 http://103.135.208.14/live/ibox/bd/62.m3u8?RocketTV
+#EXTINF:-1 ch-id="STAR SPORTS 2 (IND)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c3/SS2_Crop.jpg"   group-title="SPORTS--ONLINE",(INDIA) 
+http://103.135.208.14/live/ibox/bd/54.m3u8?RocketTV
