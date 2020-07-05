@@ -293,3 +293,5 @@ http://103.135.208.14/live/ibox/bd/78.m3u8?RocketTV
 http://103.135.208.14/live/ibox/bd/72.m3u8?RocketTV
 #EXTINF:-1 ch-id="MNX (IN)" tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_10000000045360000/PORTRAIT/qELkgspp.png" group-title="MOVIES--ONLINE",(INDIA)
 http://103.135.208.14/live/ibox/bd/70.m3u8?RocketTV
+#EXTINF:-1 ch-id="BBC WORLD NEWS (ASIA)" tvg-logo="https://i.ya-webdesign.com/images/bbc-world-news-logo-png-16.png" group-title="NEWS--ONLINE",(ASIA)
+http://103.135.208.14/live/ibox/bd/68.m3u8?RocketTV
