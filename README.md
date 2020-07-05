@@ -297,3 +297,5 @@ http://103.135.208.14/live/ibox/bd/70.m3u8?RocketTV
 http://103.135.208.14/live/ibox/bd/68.m3u8?RocketTV
 #EXTINF:-1 ch-id="STAR WORLD (IN)" tvg-logo="https://pbs.twimg.com/profile_images/1131448235707457537/p4iq0KWu_400x400.jpg"  group-title="ENTERTAINMENT--ONLINE",(INDIA)
 http://103.135.208.14/live/ibox/bd/66.m3u8?RocketTV
+#EXTINF:-1 ch-id="TLC HD (IN)" tvg-logo="https://www.pngkey.com/png/detail/234-2341299_tlc-hd-logo-germany-tlchd.png" group-title="LIFESTYLE--ONLINE",(INDIA)
+http://103.135.208.14/live/ibox/bd/62.m3u8?RocketTV
