@@ -295,3 +295,5 @@ http://103.135.208.14/live/ibox/bd/72.m3u8?RocketTV
 http://103.135.208.14/live/ibox/bd/70.m3u8?RocketTV
 #EXTINF:-1 ch-id="BBC WORLD NEWS (ASIA)" tvg-logo="https://i.ya-webdesign.com/images/bbc-world-news-logo-png-16.png" group-title="NEWS--ONLINE",(ASIA)
 http://103.135.208.14/live/ibox/bd/68.m3u8?RocketTV
+#EXTINF:-1 ch-id="STAR WORLD (IN)" tvg-logo="https://pbs.twimg.com/profile_images/1131448235707457537/p4iq0KWu_400x400.jpg"  group-title="ENTERTAINMENT--ONLINE",(INDIA)
+http://103.135.208.14/live/ibox/bd/66.m3u8?RocketTV
