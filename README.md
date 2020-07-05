@@ -291,3 +291,5 @@ http://103.135.208.14/live/ibox/bd/82.m3u8?RocketTV
 http://103.135.208.14/live/ibox/bd/78.m3u8?RocketTV
 #EXTINF:-1 ch-id="ROMEDY NOW (IN)" tvg-logo="https://www.smartads.in/resources/assets/uploads/product_group/Television/Romedy_Now.jpg" group-title="MOVIES--ONLINE",(INDIA)
 http://103.135.208.14/live/ibox/bd/72.m3u8?RocketTV
+#EXTINF:-1 ch-id="MNX (IN)" tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_10000000045360000/PORTRAIT/qELkgspp.png" group-title="MOVIES--ONLINE",(INDIA)
+http://103.135.208.14/live/ibox/bd/70.m3u8?RocketTV
