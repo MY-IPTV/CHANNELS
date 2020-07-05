@@ -287,3 +287,5 @@ http://103.135.208.14/live/ibox/bd/96.m3u8?RocketTV
 http://103.135.208.14/live/ibox/bd/90.m3u8?RocketTV
 #EXTINF:-1 ch-id="STAR MOVIES HD (IND)"  tvg-logo="https://sgp1.digitaloceanspaces.com/quickcompany/trademark/125d4074f7133b47.jpg"  group-title="MOVIES--ONLINE",(INDIA)
 http://103.135.208.14/live/ibox/bd/82.m3u8?RocketTV
+#EXTINF:-1 ch-id="STAR WORLD HD (IN)" tvg-logo="https://sgp1.digitaloceanspaces.com/quickcompany/trademark/3eb790783a1626ee.jpg"  group-title="ENTERTAINMENT--ONLINE",(INDIA)
+http://103.135.208.14/live/ibox/bd/78.m3u8?RocketTV
