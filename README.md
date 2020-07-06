@@ -303,3 +303,5 @@ http://103.135.208.14/live/ibox/bd/62.m3u8?RocketTV
 http://103.135.208.14/live/ibox/bd/54.m3u8?RocketTV
 #EXTINF:-1 ch-id="ARY DIGITAL (PK)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/ARY_Digital_Logo_2.png" group-title="ENTERTAINMENT--ONLINE",(PAKISTAN)
 http://103.135.208.14/live/ibox/bd/56.m3u8?RocketTV
+#EXTINF:-1 ch-id="TIMES NOW (IN)" tvg-logo="https://www.rvcj.com/wp-content/uploads/2017/03/times-now-logo.jpg" group-title="NEWS--ONLINE",(INDIA)
+http://103.135.208.14/live/ibox/bd/52.m3u8?RocketTV
