@@ -275,3 +275,5 @@ https://cdn.live.shemaroome.com/shemarootv/selshemarootv_1_701/chunklist.m3u8
 https://streamitv.multitvsolution.in/idvo/dangal_360p/index.m3u8
 #EXTINF:-1 ch-id="MTV INDIA (ASIA)"  tvg-logo="https://pbs.twimg.com/profile_images/1041264688678555648/uuuqSLb8_400x400.jpg" group-title="MUSIC--ONLINE",(ASIA)
 http://mytv.fun:8080/live/sz17kwhbx/z1x2dhkwq/5556.m3u8
+#EXTINF:-1 tvg-id="MOVIES ACTIVE (IN)" tvg-logo="https://d2h-wsc-media.s3.amazonaws.com/uploads/navigation/201804/movies-active_041218121146.png" group-title="MOVIES--ONLINE",(INDIA)
+http://mytv.fun:8080/live/sz17kwhbx/z1x2dhkwq/5558.m3u8
