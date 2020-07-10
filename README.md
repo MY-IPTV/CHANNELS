@@ -277,3 +277,5 @@ https://streamitv.multitvsolution.in/idvo/dangal_360p/index.m3u8
 http://mytv.fun:8080/sz17kwhbx/z1x2dhkwq/5556
 #EXTINF:-1 tvg-id="MOVIES ACTIVE (IN)" tvg-logo="https://d2h-wsc-media.s3.amazonaws.com/uploads/navigation/201804/movies-active_041218121146.png" group-title="MOVIES--ONLINE",(INDIA)
 http://mytv.fun:8080/sz17kwhbx/z1x2dhkwq/5558
+#EXTINF:-1 ch-id="TRAVEL XP HD (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Txphd_logo_2015.png/880px-Txphd_logo_2015.png" group-title="LIFESTYLE--ONLINE",(INDIA)
+http://mytv.fun:8080/sz17kwhbx/z1x2dhkwq/13111
