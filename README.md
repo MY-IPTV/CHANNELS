@@ -274,4 +274,4 @@ https://cdn.live.shemaroome.com/shemarootv/selshemarootv_1_701/chunklist.m3u8
 #EXTINF:-1 ch-id="DANGAL TV  (IN)" tvg-logo="https://www.tellychakkar.com/sites/www.tellychakkar.com/files/styles/display_665x429/public/images/story/2019/11/21/Dangal%20TV.jpg"  group-title="ENTERTAINMENT--ONLINE",(INDIA)
 https://streamitv.multitvsolution.in/idvo/dangal_360p/index.m3u8
 #EXTINF:-1 ch-id="MTV INDIA (ASIA)"  tvg-logo="https://pbs.twimg.com/profile_images/1041264688678555648/uuuqSLb8_400x400.jpg" group-title="MUSIC--ONLINE",(ASIA)
-http://mytv.fun:8080/live/sz17kwhbx/z1x2dhkwq/556.m3u8
+http://mytv.fun:8080/live/sz17kwhbx/z1x2dhkwq/5556.m3u8
