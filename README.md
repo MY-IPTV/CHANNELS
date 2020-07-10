@@ -143,16 +143,12 @@ http://175.41.46.16:8081/hls/7.m3u8
 http://175.41.46.16:8081/hls/2.m3u8
 #EXTINF:-1 ch-id="ZEE BANGLA HD (IND)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/29/Zee_Bangla_HD_2017.jpg"  group-title="ENTERTAINMENT--ONLINE",(INDIA)
 http://175.41.46.16:8081/hls/6.m3u8
-#EXTINF:-1 ch-id="COLORS (UK)"  tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/19/Colorstv-logo-black-background.jpg"   group-title="ENTERTAINMENT--ONLINE",(EUROPE)
-http://xeex.iptvs.news:8080/nx3denizcicek/09042020dc/87537
 #EXTINF:-1 ch-id="BBC CBEEBIES (ASIA)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/1200px-CBeebies.svg.png"group-title="KIDS--ONLINE",(ASIA)
 https://edge01.iptv.digijadoo.net/live/cbeebies_asia/chunks.m3u8
 #EXTINF:-1 ch-id="RK TV (US)"  tvg-logo="https://www.directv.com/images/logos/channels/dark/large/264.png" group-title="ADULT--ONLINE",(AMERICA)
 http://188.35.9.26:5031/udp/058j
 #EXTINF:-1 ch-id="ZEE TV (UK)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="ENTERTAINMENT--ONLINE",(EUROPE) 
 http://z5amshls.akamaized.net/zeetvsduk/playlist.m3u8
-#EXTINF:-1 ch-id="STAR PLUS (UK)"  tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2019/08/28/starplus.jpg"  group-title="ENTERTAINMENT--ONLINE",(EUROPE)
-http://xeex.iptvs.news:8080/nx3denizcicek/09042020dc/89039
 #EXTINF:-1 ch-id="BBC CBEEBIES (UK)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/1200px-CBeebies.svg.png"group-title="KIDS--ONLINE",(EUROPE)
 http://51.52.156.22:8888/http/003
 #EXTINF:-1 ch-id="BINDASS (IN)"  tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8d/BINDASS-END-LOGO.jpg" group-title="MUSIC--ONLINE",(INDIA)
