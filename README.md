@@ -307,3 +307,5 @@ http://103.135.208.14/live/ibox/bd/56.m3u8?RocketTV
 http://103.135.208.14/live/ibox/bd/52.m3u8?RocketTV
 #EXTINF:-1 ch-id="SHEMAROO TV  (IN)" tvg-logo="https://trak.in/wp-content/uploads/2020/04/Untitled-design-2-4-1280x720.jpg" group-title="ENTERTAINMENT--ONLINE",(INDIA)
 https://cdn.live.shemaroome.com/shemarootv/selshemarootv_1_701/chunklist.m3u8
+#EXTINF:-1 ch-id="DANGAL TV  (IN)" tvg-logo="https://www.tellychakkar.com/sites/www.tellychakkar.com/files/styles/display_665x429/public/images/story/2019/11/21/Dangal%20TV.jpg"  group-title="ENTERTAINMENT--ONLINE",(INDIA)
+https://streamitv.multitvsolution.in/idvo/dangal_360p/index.m3u8
