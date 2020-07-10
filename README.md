@@ -305,3 +305,5 @@ http://103.135.208.14/live/ibox/bd/54.m3u8?RocketTV
 http://103.135.208.14/live/ibox/bd/56.m3u8?RocketTV
 #EXTINF:-1 ch-id="TIMES NOW (IN)" tvg-logo="https://www.rvcj.com/wp-content/uploads/2017/03/times-now-logo.jpg" group-title="NEWS--ONLINE",(INDIA)
 http://103.135.208.14/live/ibox/bd/52.m3u8?RocketTV
+#EXTINF:-1 ch-id="SHEMAROO TV  (IN)" tvg-logo="https://trak.in/wp-content/uploads/2020/04/Untitled-design-2-4-1280x720.jpg" group-title="ENTERTAINMENT--ONLINE",(INDIA)
+https://cdn.live.shemaroome.com/shemarootv/selshemarootv_1_701/chunklist.m3u8
