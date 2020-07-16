@@ -285,11 +285,9 @@ http://103.214.202.218:8081/live/starplus/chunks.m3u8
 http://mytv.fun:8080/u6tkmhvbm/57sljh6g8w/13174
 #EXTINF:-1 ch-id="SONY SAB (UK)"  tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a9/Sony_Sab.jpg"  group-title="ENTERTAINMENT--ONLINE",(EUROPE)
 http://mytv.fun:8080/u6tkmhvbm/57sljh6g8w/15895
-#EXTINF:-1 ch-id="ZEE TV (CA)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/68/Zee_TV_Canada.jpg"  group-title="ENTERTAINMENT--ONLINE",(CANADA) 
-https://z5ams.akamaized.net/canadahd/index.m3u8?hdnts=st=1594860743~exp=1594863743~acl=/*~hmac=e0e558485eee7459d75a025860abcbe451d83e6e0470cfb7667433553a53ab51
 #EXTINF:-1 ch-id="ZEE CINEMA (UK)"  tvg-logo="https://media3.giphy.com/avatars/ZeeCinema/jpEJFwyuhcSG.png"  group-title="MOVIES--ONLINE",(EUROPE)
 http://ajantatv.me/FoIder902/jee.php?c=cinemauk&e=.m3u8
 #EXTINF:-1 ch-id="ZEE CINEMA (ME)"  tvg-logo="https://adhub.lk/attachments-2.1.0/channel-logos/fid_2529_zee-cinema-1.jpg"  group-title="MOVIES--ONLINE",(MIDDLE EAST)
-http://ajantatv.me/FoIder902/jee.php?c=cinemame&e=.m3u8
+http://ajantatv.me/FoIder902/jee.php?c=zeecinemame&e=.m3u8
 #EXTINF:-1 ch-id="ZEE TV (CA)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/68/Zee_TV_Canada.jpg"  group-title="ENTERTAINMENT--ONLINE",(CANADA) 
 http://ajantatv.me/FoIder902/jee.php?c=canadahd&e=.m3u8
