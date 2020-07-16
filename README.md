@@ -281,8 +281,6 @@ http://mytv.fun:8080/sz17kwhbx/z1x2dhkwq/5558
 http://mytv.fun:8080/sz17kwhbx/z1x2dhkwq/13111
 #EXTINF:-1 ch-id="STAR PLUS HD (IN)"  tvg-logo="https://www.logolynx.com/images/logolynx/s_53/53e5e5654ae3a7198b85219d65ff52e9.jpeg"  group-title="ENTERTAINMENT--ONLINE",(INDIA)
 http://103.214.202.218:8081/live/starplus/chunks.m3u8
-#EXTINF:-1 ch-id="ZEE CINEMA (ME)"  tvg-logo="https://adhub.lk/attachments-2.1.0/channel-logos/fid_2529_zee-cinema-1.jpg"  group-title="MOVIES--ONLINE",(MIDDLE EAST)
-https://z5ams.akamaized.net/zeecinemame/index.m3u8?hdnts=st=1594549079~exp=1594552079~acl=/*~hmac=ede4cd1ba9512b2b1d18d5d972a84ea7f26d935461549184338fc3e555d0a4f3
 #EXTINF:-1 ch-id="STAR PLUS (UK)"  tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2019/08/28/starplus.jpg"  group-title="ENTERTAINMENT--ONLINE",(EUROPE)
 http://mytv.fun:8080/u6tkmhvbm/57sljh6g8w/13174
 #EXTINF:-1 ch-id="SONY SAB (UK)"  tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a9/Sony_Sab.jpg"  group-title="ENTERTAINMENT--ONLINE",(EUROPE)
