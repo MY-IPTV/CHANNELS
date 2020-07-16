@@ -291,3 +291,5 @@ https://z5ams.akamaized.net/canadahd/index.m3u8?hdnts=st=1594860743~exp=15948637
 http://ajantatv.me/FoIder902/jee.php?c=cinemauk&e=.m3u8
 #EXTINF:-1 ch-id="ZEE CINEMA (ME)"  tvg-logo="https://adhub.lk/attachments-2.1.0/channel-logos/fid_2529_zee-cinema-1.jpg"  group-title="MOVIES--ONLINE",(MIDDLE EAST)
 http://ajantatv.me/FoIder902/jee.php?c=cinemame&e=.m3u8
+#EXTINF:-1 ch-id="ZEE TV (CA)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/68/Zee_TV_Canada.jpg"  group-title="ENTERTAINMENT--ONLINE",(CANADA) 
+http://ajantatv.me/FoIder902/jee.php?c=canadahd&e=.m3u8
