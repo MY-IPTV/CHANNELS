@@ -291,3 +291,7 @@ http://ajantatv.me/FoIder902/jee.php?c=cinemauk&e=.m3u8
 http://ajantatv.me/FoIder902/jee.php?c=zeecinemame&e=.m3u8
 #EXTINF:-1 ch-id="ZEE TV (CA)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/68/Zee_TV_Canada.jpg"  group-title="ENTERTAINMENT--ONLINE",(CANADA) 
 http://ajantatv.me/FoIder902/jee.php?c=canadahd&e=.m3u8
+#EXTINF:-1 ch-id="9XM (IN)"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ef/9XMHindiMusicTelevisionChannelLogo.jpg" group-title="MUSIC--ONLINE",(INDIA)
+http://mytv.fun:8080/u6tkmhvbm/57sljh6g8w/4009
+#EXTINF:-1 ch-id="&PICTURES HD (IN)"  tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale/resources/0-9-tvpictureshd/list/09tvpictureshdpictureshd.jpg"  group-title="MOVIES--ONLINE",(INDIA)
+http://mytv.fun:8080/u6tkmhvbm/57sljh6g8w/10622
