@@ -307,3 +307,7 @@ http://mytv.fun:8080/sz17kwhbx/z1x2dhkwq/3993
 http://mytv.fun:8080/sz17kwhbx/z1x2dhkwq/672305
 #EXTINF:-1 ch-id="STAR SPORTS 1 (IND)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d9/Star_Sports_1_Hindi.png"  group-title="SPORTS--ONLINE",(INDIA) 
 http://mytv.fun:8080/sz17kwhbx/z1x2dhkwq/4007
+#EXTINF:-1 ch-id="STAR PLUS HD (IN)"  tvg-logo="https://www.logolynx.com/images/logolynx/s_53/53e5e5654ae3a7198b85219d65ff52e9.jpeg"  group-title="ENTERTAINMENT--ONLINE",(INDIA)
+http://tv-cdn.ihub.live:8080/j-StarPlusHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ch-id="STAR BHARAT (ME)"  tvg-logo="https://www.gcaffe.com/wp-content/uploads/2017/09/Star-Bharat-Logo-Bhula-De-Dar-Kuchh-Alag-Kar.png"  group-title="ENTERTAINMENT--ONLINE",(MIDDLE EAST)
+http://tv-cdn.ihub.live:8080/j-StarBharat/tracks-v1a1/mono.m3u8
