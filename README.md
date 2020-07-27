@@ -285,12 +285,6 @@ http://103.214.202.218:8081/live/starplus/chunks.m3u8
 http://mytv.fun:8080/u6tkmhvbm/57sljh6g8w/13174
 #EXTINF:-1 ch-id="SONY SAB (UK)"  tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a9/Sony_Sab.jpg"  group-title="ENTERTAINMENT--ONLINE",(EUROPE)
 http://mytv.fun:8080/u6tkmhvbm/57sljh6g8w/15895
-#EXTINF:-1 ch-id="ZEE CINEMA (UK)"  tvg-logo="https://media3.giphy.com/avatars/ZeeCinema/jpEJFwyuhcSG.png"  group-title="MOVIES--ONLINE",(EUROPE)
-http://ajantatv.me/FoIder902/jee.php?c=cinemauk&e=.m3u8
-#EXTINF:-1 ch-id="ZEE CINEMA (ME)"  tvg-logo="https://adhub.lk/attachments-2.1.0/channel-logos/fid_2529_zee-cinema-1.jpg"  group-title="MOVIES--ONLINE",(MIDDLE EAST)
-http://ajantatv.me/FoIder902/jee.php?c=zeecinemame&e=.m3u8
-#EXTINF:-1 ch-id="ZEE TV (CA)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/68/Zee_TV_Canada.jpg"  group-title="ENTERTAINMENT--ONLINE",(CANADA) 
-http://ajantatv.me/FoIder902/jee.php?c=canadahd&e=.m3u8
 #EXTINF:-1 ch-id="9XM (IN)"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ef/9XMHindiMusicTelevisionChannelLogo.jpg" group-title="MUSIC--ONLINE",(INDIA)
 http://mytv.fun:8080/u6tkmhvbm/57sljh6g8w/4009
 #EXTINF:-1 ch-id="&PICTURES HD (IN)"  tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale/resources/0-9-tvpictureshd/list/09tvpictureshdpictureshd.jpg"  group-title="MOVIES--ONLINE",(INDIA)
@@ -311,3 +305,5 @@ http://mytv.fun:8080/sz17kwhbx/z1x2dhkwq/4007
 http://tv-cdn.ihub.live:8080/j-StarPlusHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ch-id="STAR BHARAT (ME)"  tvg-logo="https://www.gcaffe.com/wp-content/uploads/2017/09/Star-Bharat-Logo-Bhula-De-Dar-Kuchh-Alag-Kar.png"  group-title="ENTERTAINMENT--ONLINE",(MIDDLE EAST)
 http://tv-cdn.ihub.live:8080/j-StarBharat/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ch-id="ZEE TV HD (ME)" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/ImageRightsManagment_ChannelLogo/CMqUe8No.png" group-title="ENTERTAINMENT--ONLINE",(MIDDLE EAST) 
+https://y5w8j4a9.ssl.hwcdn.net/ztvme/tracks-v1a1/index.m3u8
