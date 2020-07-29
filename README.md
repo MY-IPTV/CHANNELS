@@ -307,3 +307,5 @@ http://tv-cdn.ihub.live:8080/j-StarPlusHD/tracks-v1a1/mono.m3u8
 http://tv-cdn.ihub.live:8080/j-StarBharat/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ch-id="ZEE TV HD (ME)" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/ImageRightsManagment_ChannelLogo/CMqUe8No.png" group-title="ENTERTAINMENT--ONLINE",(MIDDLE EAST) 
 https://y5w8j4a9.ssl.hwcdn.net/ztvme/tracks-v1a1/index.m3u8
+#EXTINF:-1 ch-id="NORTH EAST LIVE (IN)" tvg-logo="https://northeastlivetv.com/wp-content/uploads/2018/01/Untitled-1-e1516706631592.png" group-title="NEWS--ONLINE",(INDIA)
+https://cdn.pride-east.in/smartstream-us/mbrstreammbr/mbrstreammbr.smil/chunklist_w1538800373_b1200000.m3u8
