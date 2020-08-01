@@ -123,8 +123,6 @@ http://tv.profipanel.itv.world:8080/7z5kwph3hch/x38g59q6e6/3983
 http://tv.profipanel.itv.world:8080/7z5kwph3hch/x38g59q6e6/3977
 #EXTINF:-1 ch-id="COLORS RISHTEY (UK)" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/st-ak/yupptv/og_image/Colors-Rishtey_TV.jpg"  group-title="ENTERTAINMENT--ONLINE",(EUROPE) 
 http://tv.profipanel.itv.world:8080/7z5kwph3hch/x38g59q6e6/11295
-#EXTINF:-1 ch-id="SONY TV (UK)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7e/SET_India_2016.jpg"  group-title="ENTERTAINMENT--ONLINE",(EUROPE)
-http://tv.profipanel.itv.world:8080/7z5kwph3hch/x38g59q6e6/10609
 #EXTINF:-1 ch-id="ZEE TV HD (IN)" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/ImageRightsManagment_ChannelLogo/CMqUe8No.png" group-title="ENTERTAINMENT--ONLINE",(INDIA) 
 http://103.214.202.218:8081/live/zeetv-31/playlist.m3u8
 #EXTINF:-1 ch-id="ZEE TV (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="ENTERTAINMENT--ONLINE",(INDIA) 
@@ -183,3 +181,5 @@ https://kratoskadost.000webhostapp.com/rade/web.m3u8?c=ztvme
 https://kratoskadost.000webhostapp.com/rade/web.m3u8?c=zeetv
 #EXTINF:-1 ch-id="ZEE SMILE (USA)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b2/Zee_Smile_2017.jpg"  group-title="ENTERTAINMENT--ONLINE",(AMERICA) 
 https://kratoskadost.000webhostapp.com/rade/web.m3u8?c=smileusa
+#EXTINF:-1 ch-id="SONY TV (UK)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7e/SET_India_2016.jpg"  group-title="ENTERTAINMENT--ONLINE",(EUROPE)
+http://tv.profipanel.itv.world:8080/7z5kwph3hch/x38g59q6e6/13175
