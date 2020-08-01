@@ -301,10 +301,7 @@ http://mytv.fun:8080/sz17kwhbx/z1x2dhkwq/3993
 http://mytv.fun:8080/sz17kwhbx/z1x2dhkwq/672305
 #EXTINF:-1 ch-id="STAR SPORTS 1 (IND)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d9/Star_Sports_1_Hindi.png"  group-title="SPORTS--ONLINE",(INDIA) 
 http://mytv.fun:8080/sz17kwhbx/z1x2dhkwq/4007
-#EXTINF:-1 ch-id="STAR PLUS HD (IN)"  tvg-logo="https://www.logolynx.com/images/logolynx/s_53/53e5e5654ae3a7198b85219d65ff52e9.jpeg"  group-title="ENTERTAINMENT--ONLINE",(INDIA)
-http://tv-cdn.ihub.live:8080/j-StarPlusHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ch-id="STAR BHARAT (ME)"  tvg-logo="https://www.gcaffe.com/wp-content/uploads/2017/09/Star-Bharat-Logo-Bhula-De-Dar-Kuchh-Alag-Kar.png"  group-title="ENTERTAINMENT--ONLINE",(MIDDLE EAST)
-http://tv-cdn.ihub.live:8080/j-StarBharat/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 ch-id="ZEE TV HD (ME)" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/ImageRightsManagment_ChannelLogo/CMqUe8No.png" group-title="ENTERTAINMENT--ONLINE",(MIDDLE EAST) 
 https://y5w8j4a9.ssl.hwcdn.net/ztvme/tracks-v1a1/index.m3u8
 #EXTINF:-1 ch-id="NORTH EAST LIVE (IN)" tvg-logo="https://northeastlivetv.com/wp-content/uploads/2018/01/Untitled-1-e1516706631592.png" group-title="NEWS--ONLINE",(INDIA)
@@ -312,8 +309,6 @@ https://cdn.pride-east.in/smartstream-us/mbrstreammbr/mbrstreammbr.smil/chunklis
 #EXTINF:-1 ch-id="ZEE TV HD (ME)" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/ImageRightsManagment_ChannelLogo/CMqUe8No.png" group-title="ENTERTAINMENT--ONLINE",(MIDDLE EAST) 
 https://kratoskadost.000webhostapp.com/rade/web.m3u8?c=ztvme
 #EXTINF:-1 ch-id="ZEE TV (UK)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="ENTERTAINMENT--ONLINE",(EUROPE) 
-https://kratoskadost.000webhostapp.com/rade/web.m3u8?c=zeetvsduk
-#EXTINF:-1 ch-id="ZEE TV (UK)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="ENTERTAINMENT--ONLINE",(EUROPE) 
-https://y5w8j4a9.ssl.hwcdn.net/zeetvsduk/tracks-v1a1/index.m3u8
+https://kratoskadost.000webhostapp.com/rade/web.m3u8?c=zeetv
 #EXTINF:-1 ch-id="ZEE SMILE (USA)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b2/Zee_Smile_2017.jpg"  group-title="ENTERTAINMENT--ONLINE",(AMERICA) 
 https://kratoskadost.000webhostapp.com/rade/web.m3u8?c=smileusa
