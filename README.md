@@ -315,3 +315,5 @@ https://kratoskadost.000webhostapp.com/rade/web.m3u8?c=ztvme
 https://kratoskadost.000webhostapp.com/rade/web.m3u8?c=zeetvsduk
 #EXTINF:-1 ch-id="ZEE TV (UK)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="ENTERTAINMENT--ONLINE",(EUROPE) 
 https://y5w8j4a9.ssl.hwcdn.net/zeetvsduk/tracks-v1a1/index.m3u8
+#EXTINF:-1 ch-id="ZEE SMILE (USA)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b2/Zee_Smile_2017.jpg"  group-title="ENTERTAINMENT--ONLINE",(AMERICA) 
+https://kratoskadost.000webhostapp.com/rade/web.m3u8?c=smileusa
