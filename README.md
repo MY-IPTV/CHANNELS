@@ -169,8 +169,6 @@ http://mytv.fun:8080/u6tkmhvbm/57sljh6g8w/4008
 http://mytv.fun:8080/sz17kwhbx/z1x2dhkwq/3998
 #EXTINF:-1 ch-id="AAJ TAK HD (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a1/Aaj_Tak_HD.jpg"  group-title="NEWS--ONLINE",(INDIA)
 http://mytv.fun:8080/sz17kwhbx/z1x2dhkwq/11294
-#EXTINF:-1 ch-id="B4U PLUS (ME)" tvg-logo="http://b4utv.com/b4uadmin/uploads/news/0_18190800_1531139203.jpg"  group-title="MOVIES--ONLINE",(MIDDLE EAST) 
-http://mytv.fun:8080/sz17kwhbx/z1x2dhkwq/3993
 #EXTINF:-1 ch-id="B4U KADAK (IN)" tvg-logo="https://i.imgur.com/yICjApS.png"  group-title="MOVIES--ONLINE",(INDIA) 
 http://mytv.fun:8080/sz17kwhbx/z1x2dhkwq/672305
 #EXTINF:-1 ch-id="STAR SPORTS 1 (IND)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d9/Star_Sports_1_Hindi.png"  group-title="SPORTS--ONLINE",(INDIA) 
