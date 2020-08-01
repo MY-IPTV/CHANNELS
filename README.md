@@ -311,5 +311,7 @@ https://y5w8j4a9.ssl.hwcdn.net/ztvme/tracks-v1a1/index.m3u8
 https://cdn.pride-east.in/smartstream-us/mbrstreammbr/mbrstreammbr.smil/chunklist_w1538800373_b1200000.m3u8
 #EXTINF:-1 ch-id="ZEE TV HD (ME)" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/ImageRightsManagment_ChannelLogo/CMqUe8No.png" group-title="ENTERTAINMENT--ONLINE",(MIDDLE EAST) 
 https://kratoskadost.000webhostapp.com/rade/web.m3u8?c=ztvme
-#EXTINF:-1 ch-id="ZEE TV  (IN)" tvg-logo="https://en.m.wikipedia.org/wiki/File:Zee_TV-2018.png" group-title="ENTERTAINMENT--ONLINE",(EUROPE) 
+#EXTINF:-1 ch-id="ZEE TV (UK)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="ENTERTAINMENT--ONLINE",(EUROPE) 
 https://kratoskadost.000webhostapp.com/rade/web.m3u8?c=zeetvsduk
+#EXTINF:-1 ch-id="ZEE TV (UK)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="ENTERTAINMENT--ONLINE",(EUROPE) 
+https://y5w8j4a9.ssl.hwcdn.net/zeetvsduk/tracks-v1a1/index.m3u8
