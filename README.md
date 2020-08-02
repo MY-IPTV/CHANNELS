@@ -85,8 +85,6 @@ https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
 http://58.96.43.121:9981/stream/channelid/739262830
 #EXTINF:-1 ch-id="HBO (ASIA)" tvg-logo="https://logopond.com/logos/e9b985c80c0a0c04b698feed80e5c8f7.png" group-title="MOVIES--ONLINE",(ASIA)
 http://136.243.177.164/HBO/playlist.m3u8
-#EXTINF:-1 ch-id="JUST 89 (UK)" tvg-logo="https://www.lyngsat-logo.com/logo/tv/jj/just-89-it.png" group-title="ADULT--ONLINE",(EUROPE)
-http://188.35.9.12:21121/udp/129i
 #EXTINF:-1 ch-id="ZEE TV HD (ME)" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/ImageRightsManagment_ChannelLogo/CMqUe8No.png" group-title="ENTERTAINMENT--ONLINE",(MIDDLE EAST) 
 http://z5amshls.akamaized.net/ztvme/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 ch-id="ZING (IND)" tvg-logo="https://pbs.twimg.com/profile_images/1031870066504003584/rs8Z6JhY_400x400.jpg" group-title="MUSIC--ONLINE",(INDIA)
@@ -105,8 +103,6 @@ http://51.52.156.22:8888/http/003
 http://45.120.188.65:8080/0.ts
 #EXTINF:-1 ch-id="STAR GOLD (ME)" tvg-logo="https://admin.thecricketer.com/weblab/sites/96c8b790-b593-bfda-0ba4-ecd3a9fdefc2/resources/images/site/stargold190301-min.jpg"  group-title="MOVIES--ONLINE",(MIDDLE EAST) 
 https://itpolly.iptv.digijadoo.net/live/star_gold_intl/chunks.m3u8
-#EXTINF:-1 ch-id="ZEE TV (US)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="ENTERTAINMENT--ONLINE",(AMERICA) 
-http://tv.profipanel.itv.world:8080/7z5kwph3hch/x38g59q6e6/20912
 #EXTINF:-1 ch-id="STAR PLUS (UK)"  tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2019/08/28/starplus.jpg"  group-title="ENTERTAINMENT--ONLINE",(EUROPE)
 http://tv.profipanel.itv.world:8080/7z5kwph3hch/x38g59q6e6/13174
 #EXTINF:-1 ch-id="STAR BHARAT (UK)"  tvg-logo="https://www.gcaffe.com/wp-content/uploads/2017/09/Star-Bharat-Logo-Bhula-De-Dar-Kuchh-Alag-Kar.png"  group-title="ENTERTAINMENT--ONLINE",(EUROPE)
@@ -147,16 +143,6 @@ http://mytv.fun:8080/sz17kwhbx/z1x2dhkwq/5556
 http://mytv.fun:8080/sz17kwhbx/z1x2dhkwq/13111
 #EXTINF:-1 ch-id="STAR PLUS HD (IN)"  tvg-logo="https://www.logolynx.com/images/logolynx/s_53/53e5e5654ae3a7198b85219d65ff52e9.jpeg"  group-title="ENTERTAINMENT--ONLINE",(INDIA)
 http://103.214.202.218:8081/live/starplus/chunks.m3u8
-#EXTINF:-1 ch-id="STAR PLUS (UK)"  tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2019/08/28/starplus.jpg"  group-title="ENTERTAINMENT--ONLINE",(EUROPE)
-http://mytv.fun:8080/u6tkmhvbm/57sljh6g8w/13174
-#EXTINF:-1 ch-id="SONY SAB (UK)"  tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a9/Sony_Sab.jpg"  group-title="ENTERTAINMENT--ONLINE",(EUROPE)
-http://mytv.fun:8080/u6tkmhvbm/57sljh6g8w/15895
-#EXTINF:-1 ch-id="9XM (IN)"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ef/9XMHindiMusicTelevisionChannelLogo.jpg" group-title="MUSIC--ONLINE",(INDIA)
-http://mytv.fun:8080/u6tkmhvbm/57sljh6g8w/4009
-#EXTINF:-1 ch-id="&PICTURES HD (IN)"  tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale/resources/0-9-tvpictureshd/list/09tvpictureshdpictureshd.jpg"  group-title="MOVIES--ONLINE",(INDIA)
-http://mytv.fun:8080/u6tkmhvbm/57sljh6g8w/10622
-#EXTINF:-1 ch-id="NDTV INDIA (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ed/NDTV_India.png" group-title="NEWS--ONLINE",(INDIA)
-http://mytv.fun:8080/u6tkmhvbm/57sljh6g8w/4008
 #EXTINF:-1 ch-id="ABP NEW HD (IN)"  tvg-logo="https://sgp1.digitaloceanspaces.com/quickcompany/trademark/1d948f60a6c82a0f.jpg" group-title="NEWS--ONLINE",(INDIA)
 http://mytv.fun:8080/sz17kwhbx/z1x2dhkwq/3998
 #EXTINF:-1 ch-id="AAJ TAK HD (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a1/Aaj_Tak_HD.jpg"  group-title="NEWS--ONLINE",(INDIA)
@@ -179,3 +165,15 @@ http://tv.profipanel.itv.world:8080/7z5kwph3hch/x38g59q6e6/13175
 https://kratoskadost.000webhostapp.com/rade/web.m3u8?c=cinemausa
 #EXTINF:-1 ch-id="ZEE TV HD (USA)" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/ImageRightsManagment_ChannelLogo/CMqUe8No.png" group-title="ENTERTAINMENT--ONLINE",(AMERICA) 
 https://kratoskadost.000webhostapp.com/rade/web.m3u8?c=ztvhdusa
+#EXTINF:-1 ch-id="SONY SAB (UK)"  tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a9/Sony_Sab.jpg"  group-title="ENTERTAINMENT--ONLINE",(EUROPE)
+http://mytv.fun:8080/sz17kwhbx/z1x2dhkwq/15895
+#EXTINF:-1 ch-id="NDTV INDIA (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ed/NDTV_India.png" group-title="NEWS--ONLINE",(INDIA)
+http://mytv.fun:8080/sz17kwhbx/z1x2dhkwq/4008
+#EXTINF:-1 ch-id="&PICTURES HD (IN)"  tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale/resources/0-9-tvpictureshd/list/09tvpictureshdpictureshd.jpg"  group-title="MOVIES--ONLINE",(INDIA)
+http://mytv.fun:8080/sz17kwhbx/z1x2dhkwq/10622
+#EXTINF:-1 ch-id="STAR PLUS (UK)"  tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2019/08/28/starplus.jpg"  group-title="ENTERTAINMENT--ONLINE",(EUROPE)
+http://mytv.fun:8080/sz17kwhbx/z1x2dhkwq/13174
+#EXTINF:-1 ch-id="9XM (IN)"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ef/9XMHindiMusicTelevisionChannelLogo.jpg" group-title="MUSIC--ONLINE",(INDIA)
+http://mytv.fun:8080/sz17kwhbx/z1x2dhkwq/4009
+#EXTINF:-1 ch-id="ZEE TV HD (IN)" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/ImageRightsManagment_ChannelLogo/CMqUe8No.png" group-title="ENTERTAINMENT--ONLINE",(INDIA) 
+http://tv.profipanel.itv.world:8080/7z5kwph3hch/x38g59q6e6/20912
