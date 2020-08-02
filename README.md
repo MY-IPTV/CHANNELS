@@ -99,8 +99,6 @@ http://cdn.smartstream.video/smartstream-us/channelwinlive/channelwinlive/playli
 https://edge01.iptv.digijadoo.net/live/cbeebies_asia/chunks.m3u8
 #EXTINF:-1 ch-id="RK TV (US)"  tvg-logo="https://www.directv.com/images/logos/channels/dark/large/264.png" group-title="ADULT--ONLINE",(AMERICA)
 http://188.35.9.26:5031/udp/058j
-#EXTINF:-1 ch-id="ZEE TV (UK)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="ENTERTAINMENT--ONLINE",(EUROPE) 
-http://z5amshls.akamaized.net/zeetvsduk/playlist.m3u8
 #EXTINF:-1 ch-id="BBC CBEEBIES (UK)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/1200px-CBeebies.svg.png"group-title="KIDS--ONLINE",(EUROPE)
 http://51.52.156.22:8888/http/003
 #EXTINF:-1 ch-id="BINDASS (IN)"  tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8d/BINDASS-END-LOGO.jpg" group-title="MUSIC--ONLINE",(INDIA)
@@ -111,8 +109,6 @@ https://itpolly.iptv.digijadoo.net/live/star_gold_intl/chunks.m3u8
 http://tv.profipanel.itv.world:8080/7z5kwph3hch/x38g59q6e6/20912
 #EXTINF:-1 ch-id="STAR PLUS (UK)"  tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2019/08/28/starplus.jpg"  group-title="ENTERTAINMENT--ONLINE",(EUROPE)
 http://tv.profipanel.itv.world:8080/7z5kwph3hch/x38g59q6e6/13174
-#EXTINF:-1 ch-id="STAR PLUS HD (IN)"  tvg-logo="https://www.logolynx.com/images/logolynx/s_53/53e5e5654ae3a7198b85219d65ff52e9.jpeg"  group-title="ENTERTAINMENT--ONLINE",(INDIA)
-http://tv.profipanel.itv.world:8080/7z5kwph3hch/x38g59q6e6/672449
 #EXTINF:-1 ch-id="STAR BHARAT (UK)"  tvg-logo="https://www.gcaffe.com/wp-content/uploads/2017/09/Star-Bharat-Logo-Bhula-De-Dar-Kuchh-Alag-Kar.png"  group-title="ENTERTAINMENT--ONLINE",(EUROPE)
 http://tv.profipanel.itv.world:8080/7z5kwph3hch/x38g59q6e6/5544
 #EXTINF:-1 ch-id="STAR MOVIES (IN)" tvg-logo="http://pluspng.com/img-png/star-movies-logo-png-star-movies-star-movies-select-hd-to-air-whiplash-and-fantastic-four-this-weekend-300.jpg"  group-title="MOVIES--ONLINE",(INDIA) 
@@ -129,7 +125,7 @@ http://103.214.202.218:8081/live/zeetv-31/playlist.m3u8
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/ZeeTV/ZeeTV.isml/index.m3u8
 #EXTINF:-1 ch-id="AND TV HD (IN)" tvg-logo="https://www.medianews4u.com/wp-content/uploads/2015/08/TV-HD-1-2.jpg" group-title="ENTERTAINMENT--ONLINE",(INDIA)
 http://103.214.202.218:8081/live/andtv-27/chunks.m3u8
-#EXTINF:-1 ch-id="ZEE CINEMA HD (IN)"  tvg-logo="https://i.pinimg.com/originals/50/a8/5f/50a85fb712ed1516f8954223dc52fb8a.jpg"  group-title="MOVIES--ONLINE",(INDIA)
+#EXTINF:-1 ch-id="ZEE CINEMA (ME)"  tvg-logo="https://www.zeeentertainment.com/wp-content/uploads/2020/06/ZEE-CINEMA.jpg"  group-title="MOVIES--ONLINE",(MIDDLE EAST)
 http://103.214.202.218:8081/live/zeecinema-34/chunks.m3u8
 #EXTINF:-1 ch-id="AND PICTURES HD (IN)" tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_696/PORTRAIT/288dmSbW.png" group-title="MOVIES--ONLINE",(INDIA)
 http://103.214.202.218:8081/live/andpicture-26/chunks.m3u8
@@ -147,8 +143,6 @@ https://cdn.live.shemaroome.com/shemarootv/selshemarootv_1_701/chunklist.m3u8
 https://streamitv.multitvsolution.in/idvo/dangal_360p/index.m3u8
 #EXTINF:-1 ch-id="MTV INDIA (ASIA)"  tvg-logo="https://pbs.twimg.com/profile_images/1041264688678555648/uuuqSLb8_400x400.jpg" group-title="MUSIC--ONLINE",(ASIA)
 http://mytv.fun:8080/sz17kwhbx/z1x2dhkwq/5556
-#EXTINF:-1 tvg-id="STAR GOLD 2 (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d1/Star_gold_2_hd.jpg" group-title="MOVIES--ONLINE",(INDIA)
-http://mytv.fun:8080/sz17kwhbx/z1x2dhkwq/5558
 #EXTINF:-1 ch-id="TRAVEL XP HD (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Txphd_logo_2015.png/880px-Txphd_logo_2015.png" group-title="LIFESTYLE--ONLINE",(INDIA)
 http://mytv.fun:8080/sz17kwhbx/z1x2dhkwq/13111
 #EXTINF:-1 ch-id="STAR PLUS HD (IN)"  tvg-logo="https://www.logolynx.com/images/logolynx/s_53/53e5e5654ae3a7198b85219d65ff52e9.jpeg"  group-title="ENTERTAINMENT--ONLINE",(INDIA)
@@ -169,8 +163,6 @@ http://mytv.fun:8080/sz17kwhbx/z1x2dhkwq/3998
 http://mytv.fun:8080/sz17kwhbx/z1x2dhkwq/11294
 #EXTINF:-1 ch-id="B4U KADAK (IN)" tvg-logo="https://i.imgur.com/yICjApS.png"  group-title="MOVIES--ONLINE",(INDIA) 
 http://mytv.fun:8080/sz17kwhbx/z1x2dhkwq/672305
-#EXTINF:-1 ch-id="STAR SPORTS 1 (IND)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d9/Star_Sports_1_Hindi.png"  group-title="SPORTS--ONLINE",(INDIA) 
-http://mytv.fun:8080/sz17kwhbx/z1x2dhkwq/4007
 #EXTINF:-1 ch-id="ZEE TV HD (ME)" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/ImageRightsManagment_ChannelLogo/CMqUe8No.png" group-title="ENTERTAINMENT--ONLINE",(MIDDLE EAST) 
 https://y5w8j4a9.ssl.hwcdn.net/ztvme/tracks-v1a1/index.m3u8
 #EXTINF:-1 ch-id="NORTH EAST LIVE (IN)" tvg-logo="https://northeastlivetv.com/wp-content/uploads/2018/01/Untitled-1-e1516706631592.png" group-title="NEWS--ONLINE",(INDIA)
@@ -178,8 +170,12 @@ https://cdn.pride-east.in/smartstream-us/mbrstreammbr/mbrstreammbr.smil/chunklis
 #EXTINF:-1 ch-id="ZEE TV HD (ME)" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/ImageRightsManagment_ChannelLogo/CMqUe8No.png" group-title="ENTERTAINMENT--ONLINE",(MIDDLE EAST) 
 https://kratoskadost.000webhostapp.com/rade/web.m3u8?c=ztvme
 #EXTINF:-1 ch-id="ZEE TV (UK)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="ENTERTAINMENT--ONLINE",(EUROPE) 
-https://kratoskadost.000webhostapp.com/rade/web.m3u8?c=zeetv
+https://kratoskadost.000webhostapp.com/rade/web.m3u8?c=zeetvsduk
 #EXTINF:-1 ch-id="ZEE SMILE (USA)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b2/Zee_Smile_2017.jpg"  group-title="ENTERTAINMENT--ONLINE",(AMERICA) 
 https://kratoskadost.000webhostapp.com/rade/web.m3u8?c=smileusa
 #EXTINF:-1 ch-id="SONY TV (UK)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7e/SET_India_2016.jpg"  group-title="ENTERTAINMENT--ONLINE",(EUROPE)
 http://tv.profipanel.itv.world:8080/7z5kwph3hch/x38g59q6e6/13175
+#EXTINF:-1 ch-id="ZEE CINEMA (USA)"  tvg-logo="https://www.zeeentertainment.com/wp-content/uploads/2020/06/ZEE-CINEMA.jpg"  group-title="MOVIES--ONLINE",(AMERICA)
+https://kratoskadost.000webhostapp.com/rade/web.m3u8?c=cinemausa
+#EXTINF:-1 ch-id="ZEE TV HD (USA)" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/ImageRightsManagment_ChannelLogo/CMqUe8No.png" group-title="ENTERTAINMENT--ONLINE",(AMERICA) 
+https://kratoskadost.000webhostapp.com/rade/web.m3u8?c=ztvhdusa
