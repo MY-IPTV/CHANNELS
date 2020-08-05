@@ -139,8 +139,6 @@ https://cdn.live.shemaroome.com/shemarootv/selshemarootv_1_701/chunklist.m3u8
 https://streamitv.multitvsolution.in/idvo/dangal_360p/index.m3u8
 #EXTINF:-1 ch-id="MTV INDIA (ASIA)"  tvg-logo="https://pbs.twimg.com/profile_images/1041264688678555648/uuuqSLb8_400x400.jpg" group-title="MUSIC--ONLINE",(ASIA)
 http://mytv.fun:8080/sz17kwhbx/z1x2dhkwq/5556
-#EXTINF:-1 ch-id="TRAVEL XP HD (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Txphd_logo_2015.png/880px-Txphd_logo_2015.png" group-title="LIFESTYLE--ONLINE",(INDIA)
-http://mytv.fun:8080/sz17kwhbx/z1x2dhkwq/13111
 #EXTINF:-1 ch-id="STAR PLUS HD (IN)"  tvg-logo="https://www.logolynx.com/images/logolynx/s_53/53e5e5654ae3a7198b85219d65ff52e9.jpeg"  group-title="ENTERTAINMENT--ONLINE",(INDIA)
 http://103.214.202.218:8081/live/starplus/chunks.m3u8
 #EXTINF:-1 ch-id="ABP NEW HD (IN)"  tvg-logo="https://sgp1.digitaloceanspaces.com/quickcompany/trademark/1d948f60a6c82a0f.jpg" group-title="NEWS--ONLINE",(INDIA)
@@ -161,8 +159,6 @@ http://mytv.fun:8080/sz17kwhbx/z1x2dhkwq/15895
 http://mytv.fun:8080/sz17kwhbx/z1x2dhkwq/4008
 #EXTINF:-1 ch-id="&PICTURES HD (IN)"  tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale/resources/0-9-tvpictureshd/list/09tvpictureshdpictureshd.jpg"  group-title="MOVIES--ONLINE",(INDIA)
 http://mytv.fun:8080/sz17kwhbx/z1x2dhkwq/10622
-#EXTINF:-1 ch-id="STAR PLUS (UK)"  tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2019/08/28/starplus.jpg"  group-title="ENTERTAINMENT--ONLINE",(EUROPE)
-http://mytv.fun:8080/sz17kwhbx/z1x2dhkwq/13174
 #EXTINF:-1 ch-id="9XM (IN)"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ef/9XMHindiMusicTelevisionChannelLogo.jpg" group-title="MUSIC--ONLINE",(INDIA)
 http://mytv.fun:8080/sz17kwhbx/z1x2dhkwq/4009
 #EXTINF:-1 ch-id="ZEE TV HD (IN)" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/ImageRightsManagment_ChannelLogo/CMqUe8No.png" group-title="ENTERTAINMENT--ONLINE",(INDIA) 
@@ -173,3 +169,5 @@ http://103.141.66.36/bpk-tv/10401/default/index.m3u8
 http://tv.profipanel.itv.world:8080/7z5kwph3hch/x38g59q6e6/672450
 #EXTINF:-1 ch-id="STAR PLUS HD (UK)"  tvg-logo="https://www.logolynx.com/images/logolynx/s_53/53e5e5654ae3a7198b85219d65ff52e9.jpeg"  group-title="ENTERTAINMENT--ONLINE",(EUROPE)
 http://tv.profipanel.itv.world:8080/7z5kwph3hch/x38g59q6e6/13174
+#EXTINF:-1 ch-id="TRAVEL XP HD (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Txphd_logo_2015.png/880px-Txphd_logo_2015.png" group-title="LIFESTYLE--ONLINE",(INDIA)
+http://tv.profipanel.itv.world:8080/7z5kwph3hch/x38g59q6e6/13111
