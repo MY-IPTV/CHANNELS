@@ -103,8 +103,6 @@ http://51.52.156.22:8888/http/003
 http://45.120.188.65:8080/0.ts
 #EXTINF:-1 ch-id="STAR GOLD (ME)" tvg-logo="https://admin.thecricketer.com/weblab/sites/96c8b790-b593-bfda-0ba4-ecd3a9fdefc2/resources/images/site/stargold190301-min.jpg"  group-title="MOVIES--ONLINE",(MIDDLE EAST) 
 https://itpolly.iptv.digijadoo.net/live/star_gold_intl/chunks.m3u8
-#EXTINF:-1 ch-id="STAR PLUS (UK)"  tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2019/08/28/starplus.jpg"  group-title="ENTERTAINMENT--ONLINE",(EUROPE)
-http://tv.profipanel.itv.world:8080/7z5kwph3hch/x38g59q6e6/13174
 #EXTINF:-1 ch-id="STAR BHARAT (UK)"  tvg-logo="https://www.gcaffe.com/wp-content/uploads/2017/09/Star-Bharat-Logo-Bhula-De-Dar-Kuchh-Alag-Kar.png"  group-title="ENTERTAINMENT--ONLINE",(EUROPE)
 http://tv.profipanel.itv.world:8080/7z5kwph3hch/x38g59q6e6/5544
 #EXTINF:-1 ch-id="STAR MOVIES (IN)" tvg-logo="http://pluspng.com/img-png/star-movies-logo-png-star-movies-star-movies-select-hd-to-air-whiplash-and-fantastic-four-this-weekend-300.jpg"  group-title="MOVIES--ONLINE",(INDIA) 
