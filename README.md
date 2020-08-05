@@ -169,3 +169,7 @@ http://mytv.fun:8080/sz17kwhbx/z1x2dhkwq/4009
 http://tv.profipanel.itv.world:8080/7z5kwph3hch/x38g59q6e6/20912
 #EXTINF:-1 ch-id="STAR PLUS HD (IN)"  tvg-logo="https://www.logolynx.com/images/logolynx/s_53/53e5e5654ae3a7198b85219d65ff52e9.jpeg"  group-title="ENTERTAINMENT--ONLINE",(INDIA)
 http://103.141.66.36/bpk-tv/10401/default/index.m3u8
+#EXTINF:-1 ch-id="STAR PLUS HD (IN)"  tvg-logo="https://www.logolynx.com/images/logolynx/s_53/53e5e5654ae3a7198b85219d65ff52e9.jpeg"  group-title="ENTERTAINMENT--ONLINE",(INDIA)
+http://tv.profipanel.itv.world:8080/7z5kwph3hch/x38g59q6e6/672450
+#EXTINF:-1 ch-id="STAR PLUS HD (UK)"  tvg-logo="https://www.logolynx.com/images/logolynx/s_53/53e5e5654ae3a7198b85219d65ff52e9.jpeg"  group-title="ENTERTAINMENT--ONLINE",(EUROPE)
+http://tv.profipanel.itv.world:8080/7z5kwph3hch/x38g59q6e6/13174
