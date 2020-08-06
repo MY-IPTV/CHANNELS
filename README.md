@@ -175,3 +175,5 @@ http://103.141.66.36/bpk-tv/10110/default/index.m3u8
 http://103.141.66.36/bpk-tv/10151/default/index.m3u8
 #EXTINF:-1 ch-id="ZEE CINEMA HD (IN)"  tvg-logo="https://i.pinimg.com/474x/50/a8/5f/50a85fb712ed1516f8954223dc52fb8a.jpg"  group-title="MOVIES--ONLINE",(INDIA)
 http://103.141.66.36/bpk-tv/10430/default/manifest.mpd?=.m3u8
+#EXTINF:-1 ch-id="ZEE CINEMA HD (IN)"  tvg-logo="https://i.pinimg.com/474x/50/a8/5f/50a85fb712ed1516f8954223dc52fb8a.jpg"  group-title="MOVIES--ONLINE",(INDIA)
+http://103.141.66.36/bpk-tv/10430/default/index.m3u8
