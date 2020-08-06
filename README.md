@@ -13,8 +13,6 @@ https://edge-1192-ch-gv.filmon.com/live/27.low.stream/playlist.m3u8
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
 #EXTINF:-1 ch-id="CGTN (UK)" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cgtn.png" group-title="NEWS--ONLINE",(EUROPE)
 https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
-#EXTINF:-1 ch-id="NDTV INDIA (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ed/NDTV_India.png" group-title="NEWS--ONLINE",(INDIA)
-https://d3t34m8y8rh0vb.cloudfront.net/preview/ndtvhindi/350.m3u8
 #EXTINF:-1 ch-id="NHK WORLD (JP)" tvg-logo="https://vignette.wikia.nocookie.net/tvfanon6528/images/b/b5/NHK_World_%282015-.n.v.%29.png" group-title="NEWS--ONLINE",(JAPAN)
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 #EXTINF:-1 ch-id="EUROSPORT (IN)" tvg-logo="https://m.media-amazon.com/images/S/abs-image-upload-na/f/AmazonStores/A1F83G8C2ARO7P/a1e0cde47058b02b1e400663817af00f.w1961.h470.jpg"  group-title="SPORTS--ONLINE",(INDIA)
@@ -197,3 +195,5 @@ http://103.141.66.36/bpk-tv/10312/default/index.m3u8
 http://103.141.66.36/bpk-tv/10311/default/index.m3u8
 #EXTINF:-1 ch-id="NDTV (IN)" tvg-logo="https://bestmediainfo.com/uploads/2012/11/ndtv-grey-top.jpg" group-title="NEWS--ONLINE",(INDIA)
 http://103.141.66.36/bpk-tv/10305/default/index.m3u8
+#EXTINF:-1 ch-id="& FLIX (IN)"  tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale,f_auto,q_auto/resources/0-9-channel_2105335046/list_clean/09channel_210533_534550932.png"  group-title="MOVIES--ONLINE",(INDIA)
+http://103.141.66.36/bpk-tv/10304/default/index.m3u8
