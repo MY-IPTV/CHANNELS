@@ -229,3 +229,9 @@ http://103.141.66.36/bpk-tv/10186/default/index.m3u8
 http://103.141.66.36/bpk-tv/10185/default/index.m3u8
 #EXTINF:-1 ch-id="NAT GEO (IN)" tvg-logo="https://www.greyboxcreative.com/wp-content/uploads/2015/07/National-Geographic-logo-768x384.jpg"  group-title="INFORMATION--ONLINE",(INDIA)
 http://103.141.66.36/bpk-tv/10061/default/index.m3u8
+#EXTINF:-1 ch-id="DW (IN)" tvg-logo="https://www.dw.com/image/52015610_303.png"  group-title="NEWS--ONLINE",(ASIA)
+http://103.141.66.36/bpk-tv/10059/default/index.m3u8
+#EXTINF:-1 ch-id="AND TV (IN)" tvg-logo="https://www.zeeentertainment.com/wp-content/uploads/2020/04/TV-Logo.jpg" group-title="ENTERTAINMENT--ONLINE",(INDIA)
+http://103.141.66.36/bpk-tv/10028/default/index.m3u8
+#EXTINF:-1 ch-id="ZEE TV (ASIA)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="ENTERTAINMENT--ONLINE",(ASIA) 
+http://103.141.66.36/bpk-tv/10062/default/index.m3u8
