@@ -265,3 +265,9 @@ http://103.141.66.36/bpk-tv/10138/default/index.m3u8
 http://103.141.66.36/bpk-tv/10131/default/index.m3u8
 #EXTINF:-1 ch-id="ZING (IN)"  tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/91/Zing_300x300.png"  group-title="MUSIC--ONLINE",(INDIA)
 http://103.141.66.36/bpk-tv/10102/default/index.m3u8
+#EXTINF:-1 ch-id="PTV WORLD (PK)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e6/PTV_World_logo.png"  group-title="NEWS--ONLINE",(PAKISTAN)
+http://103.141.66.36/bpk-tv/10101/default/index.m3u8
+#EXTINF:-1 ch-id="NICK (IN)" tvg-logo="https://www.adgully.com/img/800/2010-06-Nick-New-logo.jpg" group-title="KIDS--ONLINE",(INDIA)
+http://103.141.66.36/bpk-tv/10152/default/index.m3u8
+
+
