@@ -167,7 +167,7 @@ http://tv.profipanel.itv.world:8080/7z5kwph3hch/x38g59q6e6/13174
 http://tv.profipanel.itv.world:8080/7z5kwph3hch/x38g59q6e6/13111
 #EXTINF:-1 ch-id="B4U MOVIES (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/06/B4U_Movies.png"  group-title="MOVIES--ONLINE",(INDIA) 
 http://103.141.66.36/bpk-tv/10331/default/index.m3u8
-#EXTINF:-1 ch-id="MTV (IN)"  tvg-logo="http://2.bp.blogspot.com/-11siAcQNJw0/Tfx7Qo9j3LI/AAAAAAAABmM/8j9EqyaHjHU/s500/MTV+International+logo+2009.png" group-title="MUSIC--ONLINE",(AMERICA)
+#EXTINF:-1 ch-id="MTV (IN)"  tvg-logo="http://2.bp.blogspot.com/-11siAcQNJw0/Tfx7Qo9j3LI/AAAAAAAABmM/8j9EqyaHjHU/s500/MTV+International+logo+2009.png" group-title="MUSIC--ONLINE",(INDIA)
 http://103.141.66.36/bpk-tv/10110/default/index.m3u8
 #EXTINF:-1 ch-id="VH1 (IN)"  tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/80/VH1_India_HD_Logo.jpg"  group-title="MUSIC--ONLINE",(INDIA)
 http://103.141.66.36/bpk-tv/10151/default/index.m3u8
@@ -215,3 +215,11 @@ http://103.141.66.36/bpk-tv/10235/default/index.m3u8
 http://103.141.66.36/bpk-tv/10232/default/index.m3u8
 #EXTINF:-1 ch-id="ZEE CAFE (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/64/ZeeCafeIndia.png" group-title="ENTERTAINMENT--ONLINE",(INDIA)
 http://103.141.66.36/bpk-tv/10229/default/index.m3u8
+#EXTINF:-1 ch-id="EURONEWS (IN)" tvg-logo="https://yes-ukraine.org/imglib/_newimage/Yalta-annual-meeting/2017/partners/media-partners/euronews/08_euronews_mpartner.png"  group-title="NEWS--ONLINE",(INDIA)
+http://103.141.66.36/bpk-tv/10211/default/index.m3u8
+#EXTINF:-1 ch-id="ZEE ETC (IN)" tvg-logo="https://www.zeeentertainment.com/wp-content/uploads/2017/10/zee_etc_bollywood.png"  group-title="MUSIC--ONLINE",(INDIA)
+http://103.141.66.36/bpk-tv/10007/default/index.m3u8
+#EXTINF:-1 ch-id="ZEE CINEMA (ME)"  tvg-logo="https://www.zeeentertainment.com/wp-content/uploads/2020/06/ZEE-CINEMA.jpg"  group-title="MOVIES--ONLINE",(MIDDLE EAST)
+http://103.141.66.36/bpk-tv/10180/default/index.m3u8
+#EXTINF:-1 ch-id="& PICTURES (IN)"  tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/2b/%26pictures.png"  group-title="MOVIES--ONLINE",(INDIA)
+http://103.141.66.36/bpk-tv/10190/default/index.m3u8
