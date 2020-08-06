@@ -207,3 +207,5 @@ http://103.141.66.36/bpk-tv/10182/default/index.m3u8
 http://103.141.66.36/bpk-tv/10252/default/index.m3u8
 #EXTINF:-1 ch-id="HUM SITARAY (PK)" tvg-logo="https://banner2.cleanpng.com/20180611/joh/kisspng-pakistan-hum-tv-hum-sitaray-television-channel-5b1edfca3470c2.2232748615287500262148.jpg" group-title="ENTERTAINMENT--ONLINE",(PAKISTAN)
 http://103.141.66.36/bpk-tv/10241/default/index.m3u8
+#EXTINF:-1 ch-id="HUM MASALA (PK)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e8/Masala_TV.png" group-title="LIFESTYLE--ONLINE",(PAKISTAN)
+http://103.141.66.36/bpk-tv/10240/default/index.m3u8
