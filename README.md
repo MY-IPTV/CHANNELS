@@ -151,7 +151,7 @@ http://tv.profipanel.itv.world:8080/7z5kwph3hch/x38g59q6e6/13175
 http://mytv.fun:8080/sz17kwhbx/z1x2dhkwq/15895
 #EXTINF:-1 ch-id="NDTV INDIA (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ed/NDTV_India.png" group-title="NEWS--ONLINE",(INDIA)
 http://mytv.fun:8080/sz17kwhbx/z1x2dhkwq/4008
-#EXTINF:-1 ch-id="&PICTURES HD (IN)"  tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale/resources/0-9-tvpictureshd/list/09tvpictureshdpictureshd.jpg"  group-title="MOVIES--ONLINE",(INDIA)
+#EXTINF:-1 ch-id="& PICTURES HD (IN)"  tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale/resources/0-9-tvpictureshd/list/09tvpictureshdpictureshd.jpg"  group-title="MOVIES--ONLINE",(INDIA)
 http://mytv.fun:8080/sz17kwhbx/z1x2dhkwq/10622
 #EXTINF:-1 ch-id="9XM (IN)"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ef/9XMHindiMusicTelevisionChannelLogo.jpg" group-title="MUSIC--ONLINE",(INDIA)
 http://mytv.fun:8080/sz17kwhbx/z1x2dhkwq/4009
@@ -197,3 +197,9 @@ http://103.141.66.36/bpk-tv/10311/default/index.m3u8
 http://103.141.66.36/bpk-tv/10305/default/index.m3u8
 #EXTINF:-1 ch-id="& FLIX (IN)"  tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale,f_auto,q_auto/resources/0-9-channel_2105335046/list_clean/09channel_210533_534550932.png"  group-title="MOVIES--ONLINE",(INDIA)
 http://103.141.66.36/bpk-tv/10304/default/index.m3u8
+#EXTINF:-1 ch-id="MASTII (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a6/Mastiii_Sabgroup.png"  group-title="MUSIC--ONLINE",(INDIA)
+http://103.141.66.36/bpk-tv/10210/default/index.m3u8
+#EXTINF:-1 ch-id="COLORS HD (IN)"  tvg-logo="https://www.rdcablenet.com/wp-content/uploads/2019/01/COLORS-HD.jpg"  group-title="ENTERTAINMENT--ONLINE",(INDIA)
+http://103.141.66.36/bpk-tv/10189/default/index.m3u8
+#EXTINF:-1 ch-id="AND TV HD (IN)" tvg-logo="https://www.medianews4u.com/wp-content/uploads/2015/08/TV-HD-1-2.jpg" group-title="ENTERTAINMENT--ONLINE",(INDIA)
+http://103.141.66.36/bpk-tv/10182/default/index.m3u8
