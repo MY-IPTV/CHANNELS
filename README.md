@@ -267,4 +267,5 @@ http://103.141.66.36/bpk-tv/10101/default/index.m3u8
 http://103.141.66.36/bpk-tv/10152/default/index.m3u8
 #EXTINF:-1 ch-id="ENTER 10 MOVIES (IN)" tvg-logo="https://dreamdth.com/wp-content/uploads/2020/07/Enterr10-Movies-1024x1024.jpg" group-title="MOVIES--ONLINE",(ASIA)
 http://103.141.66.36/bpk-tv/10137/default/index.m3u8
-#EXTINF:-1 ch-id="STAR GOLD (ME)" tvg-logo="https://admin.thecricketer.com/weblab/sites/96c8b790-b593-bfda-0ba4-ecd3a9fdefc2/resources/images/site/stargold190301-min.jpg"  group-title="MOVIES--ONLINE",(MIDDLE EAST) 
+#EXTINF:-1 ch-id="STAR GOLD (UK)" tvg-logo="https://admin.thecricketer.com/weblab/sites/96c8b790-b593-bfda-0ba4-ecd3a9fdefc2/resources/images/site/stargold190301-min.jpg"  group-title="MOVIES--ONLINE",(EUROPE) 
+http://mytv.fun:8080/sz17kwhbx/z1x2dhkwq/3983
