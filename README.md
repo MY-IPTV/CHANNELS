@@ -247,3 +247,5 @@ http://103.141.66.36/bpk-tv/10136/default/index.m3u8
 http://103.141.66.36/bpk-tv/10285/default/index.m3u8
 #EXTINF:-1 ch-id="ZEE ACTION (IN)"  tvg-logo="https://tma-live.s3.ap-south-1.amazonaws.com/medias/58c90ef7694fe70f730ff014/1565808835654/246fc32281bd88720c5a6dbd7c9a3984.png"  group-title="MOVIES--ONLINE",(INDIA)
 http://103.141.66.36/bpk-tv/10337/default/index.m3u8
+#EXTINF:-1 ch-id="MUSIC INDIA (IN)" tvg-logo="http://www.mediaworldwide.in/wp-content/uploads/2017/05/Music-India.jpg"  group-title="MUSIC--ONLINE",(INDIA)
+http://103.141.66.36/bpk-tv/10315/default/index.m3u8
