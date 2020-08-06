@@ -187,3 +187,11 @@ http://103.141.66.36/bpk-tv/10480/default/index.m3u8
 http://103.141.66.36/bpk-tv/10479/default/index.m3u8
 #EXTINF:-1 ch-id="STAR GOLD HD (IN)"  tvg-logo="https://i.ytimg.com/vi/zk9ZgckCjlk/maxresdefault.jpg"  group-title="MOVIES--ONLINE",(INDIA)
 http://103.141.66.36/bpk-tv/10476/default/index.m3u8
+#EXTINF:-1 ch-id="ZEE TV HD (IN)" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/ImageRightsManagment_ChannelLogo/CMqUe8No.png" group-title="ENTERTAINMENT--ONLINE",(INDIA) 
+http://103.141.66.36/bpk-tv/10403/default/index.m3u8
+#EXTINF:-1 ch-id="SHEMAROO TV  (IN)" tvg-logo="https://trak.in/wp-content/uploads/2020/04/Untitled-design-2-4-1280x720.jpg" group-title="ENTERTAINMENT--ONLINE",(INDIA)
+http://103.141.66.36/bpk-tv/10313/default/index.m3u8
+#EXTINF:-1 ch-id="B4U KADAK (IN)" tvg-logo="https://i.imgur.com/yICjApS.png"  group-title="MOVIES--ONLINE",(INDIA) 
+http://103.141.66.36/bpk-tv/10312/default/index.m3u8
+#EXTINF:-1 ch-id="AAJ TAK (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/Aaj_tak_logo.png"  group-title="NEWS--ONLINE",(INDIA)
+http://103.141.66.36/bpk-tv/10311/default/index.m3u8
