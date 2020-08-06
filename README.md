@@ -279,3 +279,5 @@ https://itpolly.iptv.digijadoo.net/live/colors_asia/chunks.m3u8
 https://itpolly.iptv.digijadoo.net/live/zee_tv/chunks.m3u8
 #EXTINF:-1 ch-id="ZEE CINEMA (ME)"  tvg-logo="https://www.zeeentertainment.com/wp-content/uploads/2020/06/ZEE-CINEMA.jpg"  group-title="MOVIES--ONLINE",(MIDDLE EAST)
 https://itpolly.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
+#EXTINF:-1 ch-id="ENTER 10 MOVIES (IN)" tvg-logo="https://dreamdth.com/wp-content/uploads/2020/07/Enterr10-Movies-1024x1024.jpg" group-title="MOVIES--ONLINE",(ASIA)
+http://103.141.66.36/bpk-tv/10137/default/index.m3u8
