@@ -195,3 +195,5 @@ http://103.141.66.36/bpk-tv/10313/default/index.m3u8
 http://103.141.66.36/bpk-tv/10312/default/index.m3u8
 #EXTINF:-1 ch-id="AAJ TAK (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/Aaj_tak_logo.png"  group-title="NEWS--ONLINE",(INDIA)
 http://103.141.66.36/bpk-tv/10311/default/index.m3u8
+#EXTINF:-1 ch-id="NDTV (IN)" tvg-logo="https://bestmediainfo.com/uploads/2012/11/ndtv-grey-top.jpg" group-title="NEWS--ONLINE",(INDIA)
+http://103.141.66.36/bpk-tv/10305/default/index.m3u8
