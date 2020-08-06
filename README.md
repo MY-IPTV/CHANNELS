@@ -7,8 +7,6 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 http://cdn.adultiptv.net/gay.m3u8
 #EXTINF:-1 ch-id="SUPER ONE HD (INT)"  tvg-logo="https://mar-vik.si/uploads/logotipi/SUPERONE.png" group-title="ADULT--ONLINE",(EUROPE)
 http://188.35.9.5:10007/stolen/246r/parasite.install
-#EXTINF:-1 ch-id="MTV (USA)"  tvg-logo="https://media.graytvinc.com/images/810*455/MTV-logo_720.jpg" group-title="MUSIC--ONLINE",(AMERICA)
-http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 #EXTINF:-1 ch-id="BBC NEWS (INT)" tvg-logo="https://www.apmdistribution.org/news/bbc/tools/images/logos/2019-bbc-news-linear-world-service-rgb.png" group-title="NEWS--ONLINE",(EUROPE)
 https://edge-1192-ch-gv.filmon.com/live/27.low.stream/playlist.m3u8
 #EXTINF:-1 ch-id="NDTV24X7 (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/NDTV_247.svg/800px-NDTV_247.svg.png" group-title="NEWS--ONLINE",(INDIA)
@@ -169,3 +167,7 @@ http://tv.profipanel.itv.world:8080/7z5kwph3hch/x38g59q6e6/672450
 http://tv.profipanel.itv.world:8080/7z5kwph3hch/x38g59q6e6/13174
 #EXTINF:-1 ch-id="TRAVEL XP HD (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Txphd_logo_2015.png/880px-Txphd_logo_2015.png" group-title="LIFESTYLE--ONLINE",(INDIA)
 http://tv.profipanel.itv.world:8080/7z5kwph3hch/x38g59q6e6/13111
+#EXTINF:-1 ch-id="B4U MOVIES (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/06/B4U_Movies.png"  group-title="MOVIES--ONLINE",(INDIA) 
+http://103.141.66.36/bpk-tv/10331/default/index.m3u8
+#EXTINF:-1 ch-id="MTV (IN)"  tvg-logo="http://2.bp.blogspot.com/-11siAcQNJw0/Tfx7Qo9j3LI/AAAAAAAABmM/8j9EqyaHjHU/s500/MTV+International+logo+2009.png" group-title="MUSIC--ONLINE",(AMERICA)
+http://103.141.66.36/bpk-tv/10110/default/index.m3u8
