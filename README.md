@@ -223,3 +223,9 @@ http://103.141.66.36/bpk-tv/10007/default/index.m3u8
 http://103.141.66.36/bpk-tv/10180/default/index.m3u8
 #EXTINF:-1 ch-id="& PICTURES (IN)"  tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/2b/%26pictures.png"  group-title="MOVIES--ONLINE",(INDIA)
 http://103.141.66.36/bpk-tv/10190/default/index.m3u8
+#EXTINF:-1 ch-id="ARY FAMILY (PK)" tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2017/12/ARY-Family.png" group-title="ENTERTAINMENT--ONLINE",(PAKISTAN)
+http://103.141.66.36/bpk-tv/10186/default/index.m3u8
+#EXTINF:-1 ch-id="ZEE BANGLA (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d7/Zeebangla_new.png"  group-title="ENTERTAINMENT--ONLINE",(INDIA)
+http://103.141.66.36/bpk-tv/10185/default/index.m3u8
+#EXTINF:-1 ch-id="NAT GEO (IN)" tvg-logo="https://www.greyboxcreative.com/wp-content/uploads/2015/07/National-Geographic-logo-768x384.jpg"  group-title="INFORMATION--ONLINE",(INDIA)
+http://103.141.66.36/bpk-tv/10061/default/index.m3u8
