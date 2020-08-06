@@ -205,3 +205,5 @@ http://103.141.66.36/bpk-tv/10189/default/index.m3u8
 http://103.141.66.36/bpk-tv/10182/default/index.m3u8
 #EXTINF:-1 ch-id="ABP NEWS (IN)"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/ABP_News_logo.jpg" group-title="NEWS--ONLINE",(INDIA)
 http://103.141.66.36/bpk-tv/10252/default/index.m3u8
+#EXTINF:-1 ch-id="HUM SITARAY (PK)" tvg-logo="https://banner2.cleanpng.com/20180611/joh/kisspng-pakistan-hum-tv-hum-sitaray-television-channel-5b1edfca3470c2.2232748615287500262148.jpg" group-title="ENTERTAINMENT--ONLINE",(PAKISTAN)
+http://103.141.66.36/bpk-tv/10241/default/index.m3u8
