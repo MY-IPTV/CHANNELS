@@ -179,4 +179,7 @@ http://103.141.66.36/bpk-tv/10430/default/manifest.mpd?=.m3u8
 http://103.141.66.36/bpk-tv/10014/default/index.m3u8
 #EXTINF:-1 ch-id="STAR JALSHA HD (IN)"  tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b5/Star_Jalsha_HD_2019.png"  group-title="ENTERTAINMENT--ONLINE",(INDIA)
 http://103.141.66.36/bpk-tv/10234/default/index.m3u8
-
+#EXTINF:-1 ch-id="DD NATIONAL  (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/83/DD_National_2017.png"  group-title="ENTERTAINMENT--ONLINE",(INDIA)
+http://103.141.66.36/bpk-tv/10265/default/index.m3u8
+#EXTINF:-1 ch-id="COLORS BANGLA HD (IN)"  tvg-logo="http://jio-tv.com/uploads/tv_image/colors-bangla-hd.jpg"  group-title="ENTERTAINMENT--ONLINE",(INDIA)
+http://103.141.66.36/bpk-tv/10480/default/index.m3u8
