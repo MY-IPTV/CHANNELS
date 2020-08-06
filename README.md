@@ -209,3 +209,9 @@ http://103.141.66.36/bpk-tv/10252/default/index.m3u8
 http://103.141.66.36/bpk-tv/10241/default/index.m3u8
 #EXTINF:-1 ch-id="HUM MASALA (PK)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e8/Masala_TV.png" group-title="LIFESTYLE--ONLINE",(PAKISTAN)
 http://103.141.66.36/bpk-tv/10240/default/index.m3u8
+#EXTINF:-1 ch-id="EXPRESS (PK)" tvg-logo="https://www.elementsmediacompany.com/wp-content/uploads/2019/08/express-entertainmen-1170x532.png" group-title="ENTERTAINMENT--ONLINE",(PAKISTAN)
+http://103.141.66.36/bpk-tv/10235/default/index.m3u8
+#EXTINF:-1 ch-id="FRANCE 24 (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/1200px-FRANCE_24_logo.svg.png" group-title="NEWS--ONLINE",(INDIA)
+http://103.141.66.36/bpk-tv/10232/default/index.m3u8
+#EXTINF:-1 ch-id="ZEE CAFE (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/64/ZeeCafeIndia.png" group-title="ENTERTAINMENT--ONLINE",(INDIA)
+http://103.141.66.36/bpk-tv/10229/default/index.m3u8
