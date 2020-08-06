@@ -235,3 +235,15 @@ http://103.141.66.36/bpk-tv/10059/default/index.m3u8
 http://103.141.66.36/bpk-tv/10028/default/index.m3u8
 #EXTINF:-1 ch-id="ZEE TV (ASIA)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="ENTERTAINMENT--ONLINE",(ASIA) 
 http://103.141.66.36/bpk-tv/10062/default/index.m3u8
+#EXTINF:-1 ch-id="ABZY DHAKAD (IN)"  tvg-logo="https://sgp1.digitaloceanspaces.com/quickcompany/trademark/3548638c9e35adea.jpg"  group-title="MOVIES--ONLINE",(INDIA)
+http://103.141.66.36/bpk-tv/10191/default/index.m3u8
+#EXTINF:-1 ch-id="BIG MAGIC (IN)" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale/resources/0-9-bigmagic_1786965389/list/09bigmagic_1786965389bigma.jpg" group-title="ENTERTAINMENT--ONLINE",(INDIA)
+http://103.141.66.36/bpk-tv/10280/default/index.m3u8
+#EXTINF:-1 ch-id="MTV BEATS (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/33/MTV_Beats_Logo.png"  group-title="MUSIC--ONLINE",(INDIA)
+http://103.141.66.36/bpk-tv/10178/default/index.m3u8
+#EXTINF:-1 ch-id="MANORANJAN TV (IN)"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/ManoranjanTVLogo.jpg"  group-title="MOVIES--ONLINE",(INDIA)
+http://103.141.66.36/bpk-tv/10136/default/index.m3u8
+#EXTINF:-1 ch-id="ZEE NEWS (IN)" tvg-logo="https://cdn.dnaindia.com/sites/default/files/styles/full/public/2019/01/04/773839-zee-news-logo.jpg"  group-title="NEWS--ONLINE",(ASIA)
+http://103.141.66.36/bpk-tv/10285/default/index.m3u8
+#EXTINF:-1 ch-id="ZEE ACTION (IN)"  tvg-logo="https://tma-live.s3.ap-south-1.amazonaws.com/medias/58c90ef7694fe70f730ff014/1565808835654/246fc32281bd88720c5a6dbd7c9a3984.png"  group-title="MOVIES--ONLINE",(INDIA)
+http://103.141.66.36/bpk-tv/10337/default/index.m3u8
