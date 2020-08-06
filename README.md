@@ -253,3 +253,7 @@ http://103.141.66.36/bpk-tv/10315/default/index.m3u8
 http://103.141.66.36/bpk-tv/10283/default/index.m3u8
 #EXTINF:-1 ch-id="B4U MUSIC (IN)" tvg-logo="https://www.logolynx.com/images/logolynx/61/6171a1de0c521eb248b856803df6cfc9.jpeg"  group-title="MUSIC--ONLINE",(INDIA)
 http://103.141.66.36/bpk-tv/10282/default/index.m3u8
+#EXTINF:-1 ch-id="9XM (IN)" tvg-logo="https://www.9xm.in/wp-content/uploads/2016/07/mob-logo-1.png"  group-title="MUSIC--ONLINE",(INDIA)
+http://103.141.66.36/bpk-tv/10266/default/index.m3u8
+#EXTINF:-1 ch-id="R. BHARAT (IN)" tvg-logo="https://mlmqyxhfvgrm.i.optimole.com/YC75iQ-07DR4UcJ/w:auto/h:auto/q:auto/https://livetvmania.net/wp-content/uploads/2019/05/republic-bharath.jpg"  group-title="NEWS--ONLINE",(ASIA)
+http://103.141.66.36/bpk-tv/10184/default/index.m3u8
