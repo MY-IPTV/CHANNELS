@@ -83,8 +83,6 @@ http://58.96.43.121:9981/stream/channelid/739262830
 http://136.243.177.164/HBO/playlist.m3u8
 #EXTINF:-1 ch-id="ZEE TV HD (ME)" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/ImageRightsManagment_ChannelLogo/CMqUe8No.png" group-title="ENTERTAINMENT--ONLINE",(MIDDLE EAST) 
 http://z5amshls.akamaized.net/ztvme/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 ch-id="ZING (IND)" tvg-logo="https://pbs.twimg.com/profile_images/1031870066504003584/rs8Z6JhY_400x400.jpg" group-title="MUSIC--ONLINE",(INDIA)
-http://103.144.200.7:8080/hls/zing/index.m3u8
 #EXTINF:-1 tvg-id="GEM BOLLYWOOD (IR)" tvg-logo="https://img.webme.com/pic/t/totv/gem-bollywood.png" group-title="MOVIES--ONLINE",(MIDDLE EAST)
 http://185.132.177.102:6204/live/hdbox02first1836/10444148445dd99fb952779/54.m3u8
 #EXTINF:-1 ch-id="CHANNEL WIN (IND)" tvg-logo="https://i.ytimg.com/vi/qTw2InXC3vs/maxresdefault.jpg" group-title="DEVOTIONAL--ONLINE",(INDIA)
@@ -97,8 +95,6 @@ http://188.35.9.26:5031/udp/058j
 http://51.52.156.22:8888/http/003
 #EXTINF:-1 ch-id="BINDASS (IN)"  tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8d/BINDASS-END-LOGO.jpg" group-title="MUSIC--ONLINE",(INDIA)
 http://45.120.188.65:8080/0.ts
-#EXTINF:-1 ch-id="STAR GOLD (ME)" tvg-logo="https://admin.thecricketer.com/weblab/sites/96c8b790-b593-bfda-0ba4-ecd3a9fdefc2/resources/images/site/stargold190301-min.jpg"  group-title="MOVIES--ONLINE",(MIDDLE EAST) 
-https://itpolly.iptv.digijadoo.net/live/star_gold_intl/chunks.m3u8
 #EXTINF:-1 ch-id="STAR BHARAT (UK)"  tvg-logo="https://www.gcaffe.com/wp-content/uploads/2017/09/Star-Bharat-Logo-Bhula-De-Dar-Kuchh-Alag-Kar.png"  group-title="ENTERTAINMENT--ONLINE",(EUROPE)
 http://tv.profipanel.itv.world:8080/7z5kwph3hch/x38g59q6e6/672447
 #EXTINF:-1 ch-id="STAR MOVIES (IN)" tvg-logo="http://pluspng.com/img-png/star-movies-logo-png-star-movies-star-movies-select-hd-to-air-whiplash-and-fantastic-four-this-weekend-300.jpg"  group-title="MOVIES--ONLINE",(INDIA) 
@@ -269,15 +265,6 @@ http://103.141.66.36/bpk-tv/10102/default/index.m3u8
 http://103.141.66.36/bpk-tv/10101/default/index.m3u8
 #EXTINF:-1 ch-id="NICK (IN)" tvg-logo="https://www.adgully.com/img/800/2010-06-Nick-New-logo.jpg" group-title="KIDS--ONLINE",(INDIA)
 http://103.141.66.36/bpk-tv/10152/default/index.m3u8
-#EXTINF:-1 ch-id="STAR PLUS (ASIA)"  tvg-logo="https://indiantelevision.com/sites/default/files/styles/230x230/public/images/tv-images/2020/06/13/starplus.jpg"   group-title="ENTERTAINMENT--ONLINE",(ASIA)
-https://itpolly.iptv.digijadoo.net/live/star_plus/chunks.m3u8
-#EXTINF:-1 ch-id="STAR BHARAT (ASIA)"  tvg-logo="https://www.gcaffe.com/wp-content/uploads/2017/09/Star-Bharat-Logo-Bhula-De-Dar-Kuchh-Alag-Kar.png"  group-title="ENTERTAINMENT--ONLINE",(ASIA)
-https://itpolly.iptv.digijadoo.net/live/star_bharat/chunks.m3u8
-#EXTINF:-1 ch-id="COLORS (ASIA)"  tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/19/Colorstv-logo-black-background.jpg"  group-title="ENTERTAINMENT--ONLINE",(ASIA)
-https://itpolly.iptv.digijadoo.net/live/colors_asia/chunks.m3u8
-#EXTINF:-1 ch-id="ZEE TV (ASIA)"  tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/zee-tv-white.png"  group-title="ENTERTAINMENT--ONLINE",(ASIA)
-https://itpolly.iptv.digijadoo.net/live/zee_tv/chunks.m3u8
-#EXTINF:-1 ch-id="ZEE CINEMA (ME)"  tvg-logo="https://www.zeeentertainment.com/wp-content/uploads/2020/06/ZEE-CINEMA.jpg"  group-title="MOVIES--ONLINE",(MIDDLE EAST)
-https://itpolly.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
 #EXTINF:-1 ch-id="ENTER 10 MOVIES (IN)" tvg-logo="https://dreamdth.com/wp-content/uploads/2020/07/Enterr10-Movies-1024x1024.jpg" group-title="MOVIES--ONLINE",(ASIA)
 http://103.141.66.36/bpk-tv/10137/default/index.m3u8
+#EXTINF:-1 ch-id="STAR GOLD (ME)" tvg-logo="https://admin.thecricketer.com/weblab/sites/96c8b790-b593-bfda-0ba4-ecd3a9fdefc2/resources/images/site/stargold190301-min.jpg"  group-title="MOVIES--ONLINE",(MIDDLE EAST) 
