@@ -249,3 +249,7 @@ http://103.141.66.36/bpk-tv/10285/default/index.m3u8
 http://103.141.66.36/bpk-tv/10337/default/index.m3u8
 #EXTINF:-1 ch-id="MUSIC INDIA (IN)" tvg-logo="http://www.mediaworldwide.in/wp-content/uploads/2017/05/Music-India.jpg"  group-title="MUSIC--ONLINE",(INDIA)
 http://103.141.66.36/bpk-tv/10315/default/index.m3u8
+#EXTINF:-1 ch-id="9X JALWA (IN)" tvg-logo="https://kccl.tv/sites/default/files/9x%20jalwa.jpg"  group-title="MUSIC--ONLINE",(INDIA)
+http://103.141.66.36/bpk-tv/10283/default/index.m3u8
+#EXTINF:-1 ch-id="B4U MUSIC (IN)" tvg-logo="https://www.logolynx.com/images/logolynx/61/6171a1de0c521eb248b856803df6cfc9.jpeg"  group-title="MUSIC--ONLINE",(INDIA)
+http://103.141.66.36/bpk-tv/10282/default/index.m3u8
