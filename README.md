@@ -135,7 +135,7 @@ https://streamitv.multitvsolution.in/idvo/dangal_360p/index.m3u8
 http://mytv.fun:8080/sz17kwhbx/z1x2dhkwq/5556
 #EXTINF:-1 ch-id="STAR PLUS HD (IN)"  tvg-logo="https://www.logolynx.com/images/logolynx/s_53/53e5e5654ae3a7198b85219d65ff52e9.jpeg"  group-title="ENTERTAINMENT--ONLINE",(INDIA)
 http://103.214.202.218:8081/live/starplus/chunks.m3u8
-#EXTINF:-1 ch-id="ABP NEW HD (IN)"  tvg-logo="https://sgp1.digitaloceanspaces.com/quickcompany/trademark/1d948f60a6c82a0f.jpg" group-title="NEWS--ONLINE",(INDIA)
+#EXTINF:-1 ch-id="ABP NEWS HD (IN)"  tvg-logo="https://sgp1.digitaloceanspaces.com/quickcompany/trademark/1d948f60a6c82a0f.jpg" group-title="NEWS--ONLINE",(INDIA)
 http://mytv.fun:8080/sz17kwhbx/z1x2dhkwq/3998
 #EXTINF:-1 ch-id="AAJ TAK HD (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a1/Aaj_Tak_HD.jpg"  group-title="NEWS--ONLINE",(INDIA)
 http://mytv.fun:8080/sz17kwhbx/z1x2dhkwq/11294
@@ -203,3 +203,5 @@ http://103.141.66.36/bpk-tv/10210/default/index.m3u8
 http://103.141.66.36/bpk-tv/10189/default/index.m3u8
 #EXTINF:-1 ch-id="AND TV HD (IN)" tvg-logo="https://www.medianews4u.com/wp-content/uploads/2015/08/TV-HD-1-2.jpg" group-title="ENTERTAINMENT--ONLINE",(INDIA)
 http://103.141.66.36/bpk-tv/10182/default/index.m3u8
+#EXTINF:-1 ch-id="ABP NEWS (IN)"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/ABP_News_logo.jpg" group-title="NEWS--ONLINE",(INDIA)
+http://103.141.66.36/bpk-tv/10252/default/index.m3u8
