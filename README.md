@@ -273,3 +273,9 @@ http://103.141.66.36/bpk-tv/10152/default/index.m3u8
 https://itpolly.iptv.digijadoo.net/live/star_plus/chunks.m3u8
 #EXTINF:-1 ch-id="STAR BHARAT (ASIA)"  tvg-logo="https://www.gcaffe.com/wp-content/uploads/2017/09/Star-Bharat-Logo-Bhula-De-Dar-Kuchh-Alag-Kar.png"  group-title="ENTERTAINMENT--ONLINE",(ASIA)
 https://itpolly.iptv.digijadoo.net/live/star_bharat/chunks.m3u8
+#EXTINF:-1 ch-id="COLORS (ASIA)"  tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/19/Colorstv-logo-black-background.jpg"  group-title="ENTERTAINMENT--ONLINE",(ASIA)
+https://itpolly.iptv.digijadoo.net/live/colors_asia/chunks.m3u8
+#EXTINF:-1 ch-id="ZEE TV (ASIA)"  tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/zee-tv-white.png"  group-title="ENTERTAINMENT--ONLINE",(ASIA)
+https://itpolly.iptv.digijadoo.net/live/zee_tv/chunks.m3u8
+#EXTINF:-1 ch-id="ZEE CINEMA (ME)"  tvg-logo="https://www.zeeentertainment.com/wp-content/uploads/2020/06/ZEE-CINEMA.jpg"  group-title="MOVIES--ONLINE",(MIDDLE EAST)
+https://itpolly.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
