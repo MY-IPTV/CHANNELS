@@ -269,5 +269,7 @@ http://103.141.66.36/bpk-tv/10102/default/index.m3u8
 http://103.141.66.36/bpk-tv/10101/default/index.m3u8
 #EXTINF:-1 ch-id="NICK (IN)" tvg-logo="https://www.adgully.com/img/800/2010-06-Nick-New-logo.jpg" group-title="KIDS--ONLINE",(INDIA)
 http://103.141.66.36/bpk-tv/10152/default/index.m3u8
-
-
+#EXTINF:-1 ch-id="STAR PLUS (ASIA)"  tvg-logo="https://indiantelevision.com/sites/default/files/styles/230x230/public/images/tv-images/2020/06/13/starplus.jpg"   group-title="ENTERTAINMENT--ONLINE",(ASIA)
+https://itpolly.iptv.digijadoo.net/live/star_plus/chunks.m3u8
+#EXTINF:-1 ch-id="STAR BHARAT (ASIA)"  tvg-logo="https://www.gcaffe.com/wp-content/uploads/2017/09/Star-Bharat-Logo-Bhula-De-Dar-Kuchh-Alag-Kar.png"  group-title="ENTERTAINMENT--ONLINE",(ASIA)
+https://itpolly.iptv.digijadoo.net/live/star_bharat/chunks.m3u8
