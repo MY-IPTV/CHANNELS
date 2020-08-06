@@ -183,3 +183,7 @@ http://103.141.66.36/bpk-tv/10234/default/index.m3u8
 http://103.141.66.36/bpk-tv/10265/default/index.m3u8
 #EXTINF:-1 ch-id="COLORS BANGLA HD (IN)"  tvg-logo="http://jio-tv.com/uploads/tv_image/colors-bangla-hd.jpg"  group-title="ENTERTAINMENT--ONLINE",(INDIA)
 http://103.141.66.36/bpk-tv/10480/default/index.m3u8
+#EXTINF:-1 ch-id="HISTORY TV 18 HD (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/95/History_TV18_HD.png"  group-title="INFORMATION--ONLINE",(INDIA)
+http://103.141.66.36/bpk-tv/10479/default/index.m3u8
+#EXTINF:-1 ch-id="STAR GOLD HD (IN)"  tvg-logo="https://i.ytimg.com/vi/zk9ZgckCjlk/maxresdefault.jpg"  group-title="MOVIES--ONLINE",(INDIA)
+http://103.141.66.36/bpk-tv/10476/default/index.m3u8
