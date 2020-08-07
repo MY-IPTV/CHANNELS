@@ -231,7 +231,7 @@ http://103.141.66.36/bpk-tv/10282/default/index.m3u8
 http://103.141.66.36/bpk-tv/10266/default/index.m3u8
 #EXTINF:-1 ch-id="R. BHARAT (IN)" tvg-logo="https://mlmqyxhfvgrm.i.optimole.com/YC75iQ-07DR4UcJ/w:auto/h:auto/q:auto/https://livetvmania.net/wp-content/uploads/2019/05/republic-bharath.jpg"  group-title="NEWS--ONLINE",(ASIA)
 http://103.141.66.36/bpk-tv/10184/default/index.m3u8
-#EXTINF:-1 ch-id="CARE WORLD (IN)" tvg-logo="https://dreamdth.com/community/proxy.php?image=https%3A%2F%2Fi.imgur.com%2FOHeYiwK.png"  group-title="INFORMATION--ONLINE",(ASIA)
+#EXTINF:-1 ch-id="CARE WORLD (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/12/Care_World_new.jpg"  group-title="INFORMATION--ONLINE",(ASIA)
 http://103.141.66.36/bpk-tv/10176/default/index.m3u8
 #EXTINF:-1 ch-id="MOVIE PLUS (IN)"  tvg-logo="https://i.ytimg.com/vi/bJt_vkZxr78/hqdefault.jpg"  group-title="MOVIES--ONLINE",(INDIA)
 http://103.141.66.36/bpk-tv/10138/default/index.m3u8
