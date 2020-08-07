@@ -95,16 +95,6 @@ http://188.35.9.26:5031/udp/058j
 http://51.52.156.22:8888/http/003
 #EXTINF:-1 ch-id="BINDASS (IN)"  tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8d/BINDASS-END-LOGO.jpg" group-title="MUSIC--ONLINE",(INDIA)
 http://45.120.188.65:8080/0.ts
-#EXTINF:-1 ch-id="STAR BHARAT (UK)"  tvg-logo="https://www.gcaffe.com/wp-content/uploads/2017/09/Star-Bharat-Logo-Bhula-De-Dar-Kuchh-Alag-Kar.png"  group-title="ENTERTAINMENT--ONLINE",(EUROPE)
-http://tv.profipanel.itv.world:8080/7z5kwph3hch/x38g59q6e6/672447
-#EXTINF:-1 ch-id="STAR MOVIES (IN)" tvg-logo="http://pluspng.com/img-png/star-movies-logo-png-star-movies-star-movies-select-hd-to-air-whiplash-and-fantastic-four-this-weekend-300.jpg"  group-title="MOVIES--ONLINE",(INDIA) 
-http://tv.profipanel.itv.world:8080/7z5kwph3hch/x38g59q6e6/3981
-#EXTINF:-1 ch-id="STAR GOLD (UK)" tvg-logo="https://admin.thecricketer.com/weblab/sites/96c8b790-b593-bfda-0ba4-ecd3a9fdefc2/resources/images/site/stargold190301-min.jpg"  group-title="MOVIES--ONLINE",(EUROPE) 
-http://tv.profipanel.itv.world:8080/7z5kwph3hch/x38g59q6e6/3983
-#EXTINF:-1 ch-id="STAR SPORTS 3 (IND)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/75/Star_Sports_3_2018.png"  group-title="SPORTS--ONLINE",(INDIA) 
-http://tv.profipanel.itv.world:8080/7z5kwph3hch/x38g59q6e6/3977
-#EXTINF:-1 ch-id="COLORS RISHTEY (UK)" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/st-ak/yupptv/og_image/Colors-Rishtey_TV.jpg"  group-title="ENTERTAINMENT--ONLINE",(EUROPE) 
-http://tv.profipanel.itv.world:8080/7z5kwph3hch/x38g59q6e6/11295
 #EXTINF:-1 ch-id="ZEE TV HD (IN)" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/ImageRightsManagment_ChannelLogo/CMqUe8No.png" group-title="ENTERTAINMENT--ONLINE",(INDIA) 
 http://103.214.202.218:8081/live/zeetv-31/playlist.m3u8
 #EXTINF:-1 ch-id="ZEE TV (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="ENTERTAINMENT--ONLINE",(INDIA) 
@@ -115,8 +105,6 @@ http://103.214.202.218:8081/live/andtv-27/chunks.m3u8
 http://103.214.202.218:8081/live/zeecinema-34/chunks.m3u8
 #EXTINF:-1 ch-id="AND PICTURES HD (IN)" tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_696/PORTRAIT/288dmSbW.png" group-title="MOVIES--ONLINE",(INDIA)
 http://103.214.202.218:8081/live/andpicture-26/chunks.m3u8
-#EXTINF:-1 ch-id="NAT GEO (ASIA)"  tvg-logo="https://blog.depositphotos.com/wp-content/uploads/2012/01/NG_logo_2line_rgb_wht_on_bk1.jpg" group-title="INFORMATION--ONLINE",(ASIA)
-https://cdn-laos.workpoint.news/hd-natgeo_720/index.m3u8
 #EXTINF:-1 ch-id="STAR MOVIES (IN)" tvg-logo="http://pluspng.com/img-png/star-movies-logo-png-star-movies-star-movies-select-hd-to-air-whiplash-and-fantastic-four-this-weekend-300.jpg"  group-title="MOVIES--ONLINE",(INDIA) 
 http://202.163.117.6:9981/stream/channelid/1210441427
 #EXTINF:-1 ch-id="DISNEY CHANNEL (IN)"  tvg-logo="http://2.bp.blogspot.com/-MibcP0HdamU/Uol8_6YveuI/AAAAAAAAcsc/EeGfzETaQjA/s1600/Disney+Channel+logo+2013.png" group-title="KIDS--ONLINE",(INDIA)
@@ -141,8 +129,6 @@ http://mytv.fun:8080/sz17kwhbx/z1x2dhkwq/672305
 https://y5w8j4a9.ssl.hwcdn.net/ztvme/tracks-v1a1/index.m3u8
 #EXTINF:-1 ch-id="NORTH EAST LIVE (IN)" tvg-logo="https://northeastlivetv.com/wp-content/uploads/2018/01/Untitled-1-e1516706631592.png" group-title="NEWS--ONLINE",(INDIA)
 https://cdn.pride-east.in/smartstream-us/mbrstreammbr/mbrstreammbr.smil/chunklist_w1538800373_b1200000.m3u8
-#EXTINF:-1 ch-id="SONY TV (UK)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7e/SET_India_2016.jpg"  group-title="ENTERTAINMENT--ONLINE",(EUROPE)
-http://tv.profipanel.itv.world:8080/7z5kwph3hch/x38g59q6e6/13175
 #EXTINF:-1 ch-id="SONY SAB (UK)"  tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a9/Sony_Sab.jpg"  group-title="ENTERTAINMENT--ONLINE",(EUROPE)
 http://mytv.fun:8080/sz17kwhbx/z1x2dhkwq/15895
 #EXTINF:-1 ch-id="NDTV INDIA (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ed/NDTV_India.png" group-title="NEWS--ONLINE",(INDIA)
@@ -151,16 +137,8 @@ http://mytv.fun:8080/sz17kwhbx/z1x2dhkwq/4008
 http://mytv.fun:8080/sz17kwhbx/z1x2dhkwq/10622
 #EXTINF:-1 ch-id="9XM (IN)"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ef/9XMHindiMusicTelevisionChannelLogo.jpg" group-title="MUSIC--ONLINE",(INDIA)
 http://mytv.fun:8080/sz17kwhbx/z1x2dhkwq/4009
-#EXTINF:-1 ch-id="ZEE TV HD (IN)" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/ImageRightsManagment_ChannelLogo/CMqUe8No.png" group-title="ENTERTAINMENT--ONLINE",(INDIA) 
-http://tv.profipanel.itv.world:8080/7z5kwph3hch/x38g59q6e6/20912
 #EXTINF:-1 ch-id="STAR PLUS HD (IN)"  tvg-logo="https://www.logolynx.com/images/logolynx/s_53/53e5e5654ae3a7198b85219d65ff52e9.jpeg"  group-title="ENTERTAINMENT--ONLINE",(INDIA)
 http://103.141.66.36/bpk-tv/10401/default/index.m3u8
-#EXTINF:-1 ch-id="STAR PLUS HD (IN)"  tvg-logo="https://www.logolynx.com/images/logolynx/s_53/53e5e5654ae3a7198b85219d65ff52e9.jpeg"  group-title="ENTERTAINMENT--ONLINE",(INDIA)
-http://tv.profipanel.itv.world:8080/7z5kwph3hch/x38g59q6e6/672450
-#EXTINF:-1 ch-id="STAR PLUS HD (UK)"  tvg-logo="https://www.logolynx.com/images/logolynx/s_53/53e5e5654ae3a7198b85219d65ff52e9.jpeg"  group-title="ENTERTAINMENT--ONLINE",(EUROPE)
-http://tv.profipanel.itv.world:8080/7z5kwph3hch/x38g59q6e6/13174
-#EXTINF:-1 ch-id="TRAVEL XP HD (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Txphd_logo_2015.png/880px-Txphd_logo_2015.png" group-title="LIFESTYLE--ONLINE",(INDIA)
-http://tv.profipanel.itv.world:8080/7z5kwph3hch/x38g59q6e6/13111
 #EXTINF:-1 ch-id="B4U MOVIES (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/06/B4U_Movies.png"  group-title="MOVIES--ONLINE",(INDIA) 
 http://103.141.66.36/bpk-tv/10331/default/index.m3u8
 #EXTINF:-1 ch-id="MTV (IN)"  tvg-logo="http://2.bp.blogspot.com/-11siAcQNJw0/Tfx7Qo9j3LI/AAAAAAAABmM/8j9EqyaHjHU/s500/MTV+International+logo+2009.png" group-title="MUSIC--ONLINE",(INDIA)
@@ -269,3 +247,21 @@ http://103.141.66.36/bpk-tv/10152/default/index.m3u8
 http://103.141.66.36/bpk-tv/10137/default/index.m3u8
 #EXTINF:-1 ch-id="STAR GOLD (UK)" tvg-logo="https://admin.thecricketer.com/weblab/sites/96c8b790-b593-bfda-0ba4-ecd3a9fdefc2/resources/images/site/stargold190301-min.jpg"  group-title="MOVIES--ONLINE",(EUROPE) 
 http://mytv.fun:8080/sz17kwhbx/z1x2dhkwq/3983
+#EXTINF:-1 ch-id="SONY TV (UK)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7e/SET_India_2016.jpg"  group-title="ENTERTAINMENT--ONLINE",(EUROPE)
+http://mytv.fun:8080/sz17kwhbx/z1x2dhkwq/13175
+#EXTINF:-1 ch-id="STAR PLUS HD (UK)"  tvg-logo="https://www.logolynx.com/images/logolynx/s_53/53e5e5654ae3a7198b85219d65ff52e9.jpeg"  group-title="ENTERTAINMENT--ONLINE",(EUROPE)
+http://mytv.fun:8080/sz17kwhbx/z1x2dhkwq/13174
+#EXTINF:-1 ch-id="TRAVEL XP HD (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Txphd_logo_2015.png/880px-Txphd_logo_2015.png" group-title="LIFESTYLE--ONLINE",(INDIA)
+http://mytv.fun:8080/sz17kwhbx/z1x2dhkwq/13111
+#EXTINF:-1 ch-id="STAR PLUS HD (IN)"  tvg-logo="https://www.logolynx.com/images/logolynx/s_53/53e5e5654ae3a7198b85219d65ff52e9.jpeg"  group-title="ENTERTAINMENT--ONLINE",(INDIA)
+http://mytv.fun:8080/sz17kwhbx/z1x2dhkwq/672450
+#EXTINF:-1 ch-id="COLORS RISHTEY (UK)" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/st-ak/yupptv/og_image/Colors-Rishtey_TV.jpg"  group-title="ENTERTAINMENT--ONLINE",(EUROPE) 
+http://mytv.fun:8080/sz17kwhbx/z1x2dhkwq/11295
+#EXTINF:-1 ch-id="ZEE TV HD (IN)" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/ImageRightsManagment_ChannelLogo/CMqUe8No.png" group-title="ENTERTAINMENT--ONLINE",(INDIA) 
+http://mytv.fun:8080/sz17kwhbx/z1x2dhkwq/20912
+#EXTINF:-1 ch-id="STAR SPORTS 3 (IND)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/75/Star_Sports_3_2018.png"  group-title="SPORTS--ONLINE",(INDIA) 
+http://mytv.fun:8080/sz17kwhbx/z1x2dhkwq/3977
+#EXTINF:-1 ch-id="STAR MOVIES (IN)" tvg-logo="http://pluspng.com/img-png/star-movies-logo-png-star-movies-star-movies-select-hd-to-air-whiplash-and-fantastic-four-this-weekend-300.jpg"  group-title="MOVIES--ONLINE",(INDIA) 
+http://mytv.fun:8080/sz17kwhbx/z1x2dhkwq/3981
+#EXTINF:-1 ch-id="STAR BHARAT (UK)"  tvg-logo="https://www.gcaffe.com/wp-content/uploads/2017/09/Star-Bharat-Logo-Bhula-De-Dar-Kuchh-Alag-Kar.png"  group-title="ENTERTAINMENT--ONLINE",(EUROPE)
+http://mytv.fun:8080/sz17kwhbx/z1x2dhkwq/672447
