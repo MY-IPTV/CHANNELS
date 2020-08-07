@@ -261,7 +261,7 @@ http://mytv.fun:8080/sz17kwhbx/z1x2dhkwq/11295
 http://mytv.fun:8080/sz17kwhbx/z1x2dhkwq/20912
 #EXTINF:-1 ch-id="STAR SPORTS 3 (IND)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/75/Star_Sports_3_2018.png"  group-title="SPORTS--ONLINE",(INDIA) 
 http://mytv.fun:8080/sz17kwhbx/z1x2dhkwq/3977
-#EXTINF:-1 ch-id="STAR MOVIES (IN)" tvg-logo="http://pluspng.com/img-png/star-movies-logo-png-star-movies-star-movies-select-hd-to-air-whiplash-and-fantastic-four-this-weekend-300.jpg"  group-title="MOVIES--ONLINE",(INDIA) 
+#EXTINF:-1 ch-id="STAR MOVIES (IN)" tvg-logo="https://i.vimeocdn.com/video/243571659_1280x720.jpg"  group-title="MOVIES--ONLINE",(INDIA) 
 http://mytv.fun:8080/sz17kwhbx/z1x2dhkwq/3981
 #EXTINF:-1 ch-id="STAR BHARAT (UK)"  tvg-logo="https://www.gcaffe.com/wp-content/uploads/2017/09/Star-Bharat-Logo-Bhula-De-Dar-Kuchh-Alag-Kar.png"  group-title="ENTERTAINMENT--ONLINE",(EUROPE)
 http://mytv.fun:8080/sz17kwhbx/z1x2dhkwq/672447
