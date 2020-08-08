@@ -267,4 +267,35 @@ http://mytv.fun:8080/sz17kwhbx/z1x2dhkwq/672447
 http://srv1.extratv.pro:8080/live/tXK589rh3k/SPJFmFSewwwE/60.m3u8
 #EXTINF:-1 ch-id="TRANSEX TV (INT)"  tvg-logo="https://www.pngkit.com/png/full/10-100260_black-and-white-trans-logo-television-format-cdr.png" group-title="ADULT--ONLINE",(WORLD)
 http://srv1.extratv.pro:8080/live/tXK589rh3k/SPJFmFSewwwE/15772.m3u8
-
+#EXTINF:-1 ch-id="FOX (US)" tvg-logo="https://static-media.fox.com/foxnow/web/v3-2/img/fox_logo.jpg"  group-title="ENTERTAINMENT--ONLINE",(AMERICA)
+http://srv1.extratv.pro:8080/live/tXK589rh3k/SPJFmFSewwwE/12051.m3u8
+#EXTINF:-1 ch-id="TLC (US)" tvg-logo="http://logosolusa.com/wp-content/uploads/parser/TLC-Logo-1.png" group-title="LIFESTYLE--ONLINE",(AMERICA)
+http://srv1.extratv.pro:8080/live/tXK589rh3k/SPJFmFSewwwE/12087.m3u8
+#EXTINF:-1 ch-id="BABY TV (US)"  tvg-logo="https://logodix.com/logo/1099077.png" group-title="KIDS--ONLINE",(AMERICA)
+http://srv1.extratv.pro:8080/live/tXK589rh3k/SPJFmFSewwwE/12075.m3u8
+#EXTINF:-1 ch-id="CARTOON NETWORK (US)"  tvg-logo="https://1000logos.net/wp-content/uploads/2016/10/Cartoon-Network-Logo.png" group-title="KIDS--ONLINE",(AMERICA)
+http://srv1.extratv.pro:8080/live/tXK589rh3k/SPJFmFSewwwE/12073.m3u8
+#EXTINF:-1 ch-id="DISNEY CHANNEL (US)"  tvg-logo="https://www.unblockitall.com/wp-content/uploads/2018/08/disney-logo.jpg" group-title="KIDS--ONLINE",(AMERICA)
+http://srv1.extratv.pro:8080/live/tXK589rh3k/SPJFmFSewwwE/12071.m3u8
+#EXTINF:-1 ch-id="DISNEY JUNIOR (US)"  tvg-logo="https://cdn1.edgedatg.com/aws/v2/dnow/Images/tile/2057726/1837c9ac3ebb8c09bb53f46e6235c7b7/386x218-Q90_1837c9ac3ebb8c09bb53f46e6235c7b7.png" group-title="KIDS--ONLINE",(AMERICA)
+http://srv1.extratv.pro:8080/live/tXK589rh3k/SPJFmFSewwwE/12072.m3u8
+#EXTINF:-1 ch-id="FOOD NETWORK (US)" tvg-logo="https://www.nicepng.com/png/detail/43-430627_contact-us-food-network-logo-black-and-white.png" group-title="LIFESTYLE--ONLINE",(AMERICA)
+http://srv1.extratv.pro:8080/live/tXK589rh3k/SPJFmFSewwwE/12081.m3u8
+#EXTINF:-1 ch-id="DISCOVERY CHANNEL (US)" tvg-logo="http://logok.org/wp-content/uploads/2014/04/Discovery-logo-2019-Dlogo.png"  group-title="INFORMATION--ONLINE",(AMERICA)
+http://srv1.extratv.pro:8080/live/tXK589rh3k/SPJFmFSewwwE/12083.m3u8
+#EXTINF:-1 ch-id="FOX MOVIES (US)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/38/Fox_Movies_2017.png"   group-title="MOVIES--ONLINE",(AMERICA) 
+http://srv1.extratv.pro:8080/live/tXK589rh3k/SPJFmFSewwwE/12060.m3u8
+#EXTINF:-1 ch-id="NAT GEO HD (US)" tvg-logo="https://img.pngio.com/national-geographic-wild-logo-png-png-download-national-nat-geo-png-hd-920_263.png"  group-title="INFORMATION--ONLINE",(AMERICA)
+http://srv1.extratv.pro:8080/live/tXK589rh3k/SPJFmFSewwwE/12079.m3u8
+#EXTINF:-1 ch-id="NICKELODEON (US)"  tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2ff7da75-54b7-4df0-91ee-d7ea62450507/daz2rgp-3212aaa4-af0b-43bb-ba6e-75ea566a10ad.png/v1/fill/w_1024,h_576,q_80,strp/nickelodeon_logo_concept_2_by_logofanatic_daz2rgp-fullview.jpg"  group-title="KIDS--ONLINE",(AMERICA)
+http://srv1.extratv.pro:8080/live/tXK589rh3k/SPJFmFSewwwE/12078.m3u8
+#EXTINF:-1 ch-id="COMEDY CENTRAL (BR)" tvg-logo="https://www.brandinginasia.com/wp-content/uploads/2020/01/Comedy-Central-Asia-Branding-in-Asia.jpg"  group-title="ENTERTAINMENT--ONLINE",(BRAZIL)
+http://srv1.extratv.pro:8080/live/tXK589rh3k/SPJFmFSewwwE/8095.m3u8
+#EXTINF:-1 ch-id="NAT GEO WILD (US)" tvg-logo="https://cdn1.edgedatg.com/aws/v2/natgeowild/Images/decb2139c86ef330b4f8c56ac06e8e9f/284x160-Q75_decb2139c86ef330b4f8c56ac06e8e9f.png"  group-title="WILDLIFE--ONLINE",(AMERICA)
+http://srv1.extratv.pro:8080/live/tXK589rh3k/SPJFmFSewwwE/8048.m3u8
+#EXTINF:-1 ch-id="ESPN (BR)" tvg-logo="https://pmcvariety.files.wordpress.com/2013/09/espn-logo.jpg"  group-title="SPORTS--ONLINE",(BRAZIL) 
+http://srv1.extratv.pro:8080/live/tXK589rh3k/SPJFmFSewwwE/80483.m3u8
+#EXTINF:-1 ch-id="BOOMERANG (BR)"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/758px-Boomerang_tv_logo.png"  group-title="KIDS--ONLINE",(BRAZIL)
+http://srv1.extratv.pro:8080/live/tXK589rh3k/SPJFmFSewwwE/8099.m3u8
+#EXTINF:-1 ch-id="NAT GEO WILD (DE)" tvg-logo="https://cdn1.edgedatg.com/aws/v2/natgeowild/Images/decb2139c86ef330b4f8c56ac06e8e9f/284x160-Q75_decb2139c86ef330b4f8c56ac06e8e9f.png"  group-title="WILDLIFE--ONLINE",(AMERICA)
+http://srv1.extratv.pro:8080/live/tXK589rh3k/SPJFmFSewwwE/10578.m3u8
