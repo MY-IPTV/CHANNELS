@@ -265,3 +265,5 @@ http://mytv.fun:8080/sz17kwhbx/z1x2dhkwq/3977
 http://mytv.fun:8080/sz17kwhbx/z1x2dhkwq/3981
 #EXTINF:-1 ch-id="STAR BHARAT (UK)"  tvg-logo="https://www.gcaffe.com/wp-content/uploads/2017/09/Star-Bharat-Logo-Bhula-De-Dar-Kuchh-Alag-Kar.png"  group-title="ENTERTAINMENT--ONLINE",(EUROPE)
 http://mytv.fun:8080/sz17kwhbx/z1x2dhkwq/672447
+#EXTINF:-1 ch-id="ZEE TV HD (IN)" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/ImageRightsManagment_ChannelLogo/CMqUe8No.png" group-title="ENTERTAINMENT--ONLINE",(INDIA) 
+http://srv1.extratv.pro:8080/live/tXK589rh3k/SPJFmFSewwwE/60.m3u8
