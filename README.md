@@ -267,3 +267,5 @@ http://mytv.fun:8080/sz17kwhbx/z1x2dhkwq/3981
 http://mytv.fun:8080/sz17kwhbx/z1x2dhkwq/672447
 #EXTINF:-1 ch-id="ZEE TV HD (IN)" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/ImageRightsManagment_ChannelLogo/CMqUe8No.png" group-title="ENTERTAINMENT--ONLINE",(INDIA) 
 http://srv1.extratv.pro:8080/live/tXK589rh3k/SPJFmFSewwwE/60.m3u8
+#EXTINF:-1 ch-id="GAY TV (INT)"  tvg-logo="https://i.ytimg.com/vi/A9z92iX7nwQ/hqdefault.jpg" group-title="ADULT--ONLINE",(WORLD)
+http://srv1.extratv.pro:8080/live/tXK589rh3k/SPJFmFSewwwE/15772.m3u8
