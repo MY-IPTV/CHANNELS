@@ -125,8 +125,6 @@ http://mytv.fun:8080/sz17kwhbx/z1x2dhkwq/3998
 http://mytv.fun:8080/sz17kwhbx/z1x2dhkwq/11294
 #EXTINF:-1 ch-id="B4U KADAK (IN)" tvg-logo="https://i.imgur.com/yICjApS.png"  group-title="MOVIES--ONLINE",(INDIA) 
 http://mytv.fun:8080/sz17kwhbx/z1x2dhkwq/672305
-#EXTINF:-1 ch-id="ZEE TV HD (ME)" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/ImageRightsManagment_ChannelLogo/CMqUe8No.png" group-title="ENTERTAINMENT--ONLINE",(MIDDLE EAST) 
-https://y5w8j4a9.ssl.hwcdn.net/ztvme/tracks-v1a1/index.m3u8
 #EXTINF:-1 ch-id="NORTH EAST LIVE (IN)" tvg-logo="https://northeastlivetv.com/wp-content/uploads/2018/01/Untitled-1-e1516706631592.png" group-title="NEWS--ONLINE",(INDIA)
 https://cdn.pride-east.in/smartstream-us/mbrstreammbr/mbrstreammbr.smil/chunklist_w1538800373_b1200000.m3u8
 #EXTINF:-1 ch-id="SONY SAB (UK)"  tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a9/Sony_Sab.jpg"  group-title="ENTERTAINMENT--ONLINE",(EUROPE)
