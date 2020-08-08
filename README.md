@@ -297,5 +297,5 @@ http://srv1.extratv.pro:8080/live/tXK589rh3k/SPJFmFSewwwE/8048.m3u8
 http://srv1.extratv.pro:8080/live/tXK589rh3k/SPJFmFSewwwE/80483.m3u8
 #EXTINF:-1 ch-id="BOOMERANG (BR)"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/758px-Boomerang_tv_logo.png"  group-title="KIDS--ONLINE",(BRAZIL)
 http://srv1.extratv.pro:8080/live/tXK589rh3k/SPJFmFSewwwE/8099.m3u8
-#EXTINF:-1 ch-id="NAT GEO WILD (DE)" tvg-logo="https://cdn1.edgedatg.com/aws/v2/natgeowild/Images/decb2139c86ef330b4f8c56ac06e8e9f/284x160-Q75_decb2139c86ef330b4f8c56ac06e8e9f.png"  group-title="WILDLIFE--ONLINE",(AMERICA)
+#EXTINF:-1 ch-id="NAT GEO WILD (DE)" tvg-logo="https://cdn1.edgedatg.com/aws/v2/natgeowild/Images/decb2139c86ef330b4f8c56ac06e8e9f/284x160-Q75_decb2139c86ef330b4f8c56ac06e8e9f.png"  group-title="WILDLIFE--ONLINE",(GERMANY)
 http://srv1.extratv.pro:8080/live/tXK589rh3k/SPJFmFSewwwE/10578.m3u8
