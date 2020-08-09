@@ -87,8 +87,6 @@ http://z5amshls.akamaized.net/ztvme/tracks-v1a1/playlist.m3u8
 http://185.132.177.102:6204/live/hdbox02first1836/10444148445dd99fb952779/54.m3u8
 #EXTINF:-1 ch-id="CHANNEL WIN (IND)" tvg-logo="https://i.ytimg.com/vi/qTw2InXC3vs/maxresdefault.jpg" group-title="DEVOTIONAL--ONLINE",(INDIA)
 http://cdn.smartstream.video/smartstream-us/channelwinlive/channelwinlive/playlist.m3u8
-#EXTINF:-1 ch-id="BBC CBEEBIES (ASIA)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/1200px-CBeebies.svg.png"group-title="KIDS--ONLINE",(ASIA)
-https://edge01.iptv.digijadoo.net/live/cbeebies_asia/chunks.m3u8
 #EXTINF:-1 ch-id="RK TV (US)"  tvg-logo="https://www.directv.com/images/logos/channels/dark/large/264.png" group-title="ADULT--ONLINE",(AMERICA)
 http://188.35.9.26:5031/udp/058j
 #EXTINF:-1 ch-id="BBC CBEEBIES (UK)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/1200px-CBeebies.svg.png"group-title="KIDS--ONLINE",(EUROPE)
@@ -293,3 +291,5 @@ https://pubads.g.doubleclick.net/ssai/event/10_vqSZWSae32wBBBSf72Q/master.m3u8
 http://worldch.ddns.net:8080/live/t4hg3EDq5S/VEGR3mehZG/18170.m3u8
 #EXTINF:-1 ch-id="UTV HD (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/9e/UTV_HD.jpg"   group-title="MOVIES--ONLINE",(INDIA) 
 http://worldch.ddns.net:8080/live/t4hg3EDq5S/VEGR3mehZG/18186.m3u8
+#EXTINF:-1 ch-id="BBC CBEEBIES (ASIA)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/1200px-CBeebies.svg.png"group-title="KIDS--ONLINE",(ASIA)
+https://itpolly.iptv.digijadoo.net/live/cbeebies_asia/chunks.m3u8
