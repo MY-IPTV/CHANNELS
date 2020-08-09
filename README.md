@@ -293,3 +293,6 @@ http://srv1.extratv.pro:8080/live/tXK589rh3k/SPJFmFSewwwE/8099.m3u8
 http://srv1.extratv.pro:8080/live/tXK589rh3k/SPJFmFSewwwE/10578.m3u8
 #EXTINF:-1 ch-id="STAR GOLD (ME)" tvg-logo="https://admin.thecricketer.com/weblab/sites/96c8b790-b593-bfda-0ba4-ecd3a9fdefc2/resources/images/site/stargold190301-min.jpg"  group-title="MOVIES--ONLINE",(MIDDLE EAST) 
 https://itpolly.iptv.digijadoo.net/live/star_gold_intl/chunks.m3u8
+#EXTINF:-1 ch-id="SONY WAH (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7a/Sony_Wah_Filmon_Ka_Mela.jpg"  group-title="MOVIES--ONLINE",(INDIA) 
+https://pubads.g.doubleclick.net/ssai/event/10_vqSZWSae32wBBBSf72Q/master.m3u8
+
