@@ -291,3 +291,5 @@ http://srv1.extratv.pro:8080/live/tXK589rh3k/SPJFmFSewwwE/80483.m3u8
 http://srv1.extratv.pro:8080/live/tXK589rh3k/SPJFmFSewwwE/8099.m3u8
 #EXTINF:-1 ch-id="NAT GEO WILD (DE)" tvg-logo="https://cdn1.edgedatg.com/aws/v2/natgeowild/Images/decb2139c86ef330b4f8c56ac06e8e9f/284x160-Q75_decb2139c86ef330b4f8c56ac06e8e9f.png"  group-title="WILDLIFE--ONLINE",(GERMANY)
 http://srv1.extratv.pro:8080/live/tXK589rh3k/SPJFmFSewwwE/10578.m3u8
+#EXTINF:-1 ch-id="STAR GOLD (ME)" tvg-logo="https://admin.thecricketer.com/weblab/sites/96c8b790-b593-bfda-0ba4-ecd3a9fdefc2/resources/images/site/stargold190301-min.jpg"  group-title="MOVIES--ONLINE",(MIDDLE EAST) 
+https://itpolly.iptv.digijadoo.net/live/star_gold_intl/chunks.m3u8
