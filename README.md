@@ -293,4 +293,5 @@ http://worldch.ddns.net:8080/live/t4hg3EDq5S/VEGR3mehZG/18170.m3u8
 http://worldch.ddns.net:8080/live/t4hg3EDq5S/VEGR3mehZG/18186.m3u8
 #EXTINF:-1 ch-id="BBC CBEEBIES (ASIA)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/1200px-CBeebies.svg.png"  group-title="KIDS--ONLINE",(ASIA)
 https://itpolly.iptv.digijadoo.net/live/cbeebies_asia/chunks.m3u8
-
+#EXTINF:-1 ch-id="SONY MAX (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Sony_MAX_logo.svg/198px-Sony_MAX_logo.svg.png"  group-title="MOVIES--ONLINE",(INDIA) 
+http://ccn.anytv.live:8080/sonymax/track-v1a1/mono.m3u8
