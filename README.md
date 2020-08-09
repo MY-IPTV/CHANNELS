@@ -289,7 +289,15 @@ https://itpolly.iptv.digijadoo.net/live/star_gold_intl/chunks.m3u8
 https://pubads.g.doubleclick.net/ssai/event/10_vqSZWSae32wBBBSf72Q/master.m3u8
 #EXTINF:-1 ch-id="COLORS CINEPLEX (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/2a/Colors_Cineplex_HD_Logo_Bug.jpg"   group-title="MOVIES--ONLINE",(INDIA) 
 http://worldch.ddns.net:8080/live/t4hg3EDq5S/VEGR3mehZG/18170.m3u8
-#EXTINF:-1 ch-id="UTV HD (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/9e/UTV_HD.jpg"   group-title="MOVIES--ONLINE",(INDIA) 
+#EXTINF:-1 ch-id="UTV HD (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/9e/UTV_HD.jpg"  group-title="MOVIES--ONLINE",(INDIA) 
 http://worldch.ddns.net:8080/live/t4hg3EDq5S/VEGR3mehZG/18186.m3u8
-#EXTINF:-1 ch-id="BBC CBEEBIES (ASIA)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/1200px-CBeebies.svg.png"group-title="KIDS--ONLINE",(ASIA)
+#EXTINF:-1 ch-id="BBC CBEEBIES (ASIA)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/1200px-CBeebies.svg.png"  group-title="KIDS--ONLINE",(ASIA)
 https://itpolly.iptv.digijadoo.net/live/cbeebies_asia/chunks.m3u8
+#EXTINF:-1,ch-id="ZEE TV HD (ME)" "tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/ImageRightsManagment_ChannelLogo/CMqUe8No.png"  group-title="ENTERTAINMENT--ONLINE",(MIDDLE EAST)
+https://z5ams.akamaized.net/ztvme/index.m3u8?hdnts=st=1596956206~exp=1596959206~acl=/*~hmac=bf98b3a58b78f939d86945a2a38eae6a01a43af33eaaadb9b18f2bdea31d6da6
+#EXTINF:-1 ch-id="ZEE TV (UK)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="ENTERTAINMENT--ONLINE",(EUROPE) 
+https://z5ams.akamaized.net/zeetvsduk/index.m3u8?hdnts=st=1596956206~exp=1596959206~acl=/*~hmac=bf98b3a58b78f939d86945a2a38eae6a01a43af33eaaadb9b18f2bdea31d6da6
+#EXTINF:-1,ch-id="ZEE TV HD (US)" "tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/ImageRightsManagment_ChannelLogo/CMqUe8No.png"  group-title="ENTERTAINMENT--ONLINE",(AMERICA)
+https://z5ams.akamaized.net/ztvhdusa/index.m3u8?hdnts=st=1596956206~exp=1596959206~acl=/*~hmac=bf98b3a58b78f939d86945a2a38eae6a01a43af33eaaadb9b18f2bdea31d6da6
+#EXTINF:-1 ch-id="ZEE SMILE (US)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b2/Zee_Smile_2017.jpg" group-title="ENTERTAINMENT--ONLINE",(AMERICA) 
+https://z5ams.akamaized.net/smileusa/index.m3u8?hdnts=st=1596956206~exp=1596959206~acl=/*~hmac=bf98b3a58b78f939d86945a2a38eae6a01a43af33eaaadb9b18f2bdea31d6da6
