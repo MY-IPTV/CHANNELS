@@ -271,10 +271,6 @@ http://srv1.extratv.pro:8080/live/tXK589rh3k/SPJFmFSewwwE/15772.m3u8
 http://srv1.extratv.pro:8080/live/tXK589rh3k/SPJFmFSewwwE/12051.m3u8
 #EXTINF:-1 ch-id="TLC (US)" tvg-logo="http://logosolusa.com/wp-content/uploads/parser/TLC-Logo-1.png" group-title="LIFESTYLE--ONLINE",(AMERICA)
 http://srv1.extratv.pro:8080/live/tXK589rh3k/SPJFmFSewwwE/12087.m3u8
-#EXTINF:-1 ch-id="BABY TV (US)"  tvg-logo="https://logodix.com/logo/1099077.png" group-title="KIDS--ONLINE",(AMERICA)
-http://srv1.extratv.pro:8080/live/tXK589rh3k/SPJFmFSewwwE/12075.m3u8
-#EXTINF:-1 ch-id="CARTOON NETWORK (US)"  tvg-logo="https://1000logos.net/wp-content/uploads/2016/10/Cartoon-Network-Logo.png" group-title="KIDS--ONLINE",(AMERICA)
-http://srv1.extratv.pro:8080/live/tXK589rh3k/SPJFmFSewwwE/12073.m3u8
 #EXTINF:-1 ch-id="FOOD NETWORK (US)" tvg-logo="https://www.nicepng.com/png/detail/43-430627_contact-us-food-network-logo-black-and-white.png" group-title="LIFESTYLE--ONLINE",(AMERICA)
 http://srv1.extratv.pro:8080/live/tXK589rh3k/SPJFmFSewwwE/12081.m3u8
 #EXTINF:-1 ch-id="DISCOVERY CHANNEL (US)" tvg-logo="http://logok.org/wp-content/uploads/2014/04/Discovery-logo-2019-Dlogo.png"  group-title="INFORMATION--ONLINE",(AMERICA)
@@ -287,8 +283,6 @@ http://srv1.extratv.pro:8080/live/tXK589rh3k/SPJFmFSewwwE/12079.m3u8
 http://srv1.extratv.pro:8080/live/tXK589rh3k/SPJFmFSewwwE/8048.m3u8
 #EXTINF:-1 ch-id="ESPN (BR)" tvg-logo="https://pmcvariety.files.wordpress.com/2013/09/espn-logo.jpg"  group-title="SPORTS--ONLINE",(BRAZIL) 
 http://srv1.extratv.pro:8080/live/tXK589rh3k/SPJFmFSewwwE/80483.m3u8
-#EXTINF:-1 ch-id="BOOMERANG (BR)"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/758px-Boomerang_tv_logo.png"  group-title="KIDS--ONLINE",(BRAZIL)
-http://srv1.extratv.pro:8080/live/tXK589rh3k/SPJFmFSewwwE/8099.m3u8
 #EXTINF:-1 ch-id="NAT GEO WILD (DE)" tvg-logo="https://cdn1.edgedatg.com/aws/v2/natgeowild/Images/decb2139c86ef330b4f8c56ac06e8e9f/284x160-Q75_decb2139c86ef330b4f8c56ac06e8e9f.png"  group-title="WILDLIFE--ONLINE",(GERMANY)
 http://srv1.extratv.pro:8080/live/tXK589rh3k/SPJFmFSewwwE/10578.m3u8
 #EXTINF:-1 ch-id="STAR GOLD (ME)" tvg-logo="https://admin.thecricketer.com/weblab/sites/96c8b790-b593-bfda-0ba4-ecd3a9fdefc2/resources/images/site/stargold190301-min.jpg"  group-title="MOVIES--ONLINE",(MIDDLE EAST) 
