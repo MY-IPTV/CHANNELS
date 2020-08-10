@@ -287,11 +287,15 @@ http://srv1.extratv.pro:8080/live/tXK589rh3k/SPJFmFSewwwE/10578.m3u8
 https://itpolly.iptv.digijadoo.net/live/star_gold_intl/chunks.m3u8
 #EXTINF:-1 ch-id="SONY WAH (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7a/Sony_Wah_Filmon_Ka_Mela.jpg"  group-title="MOVIES--ONLINE",(INDIA) 
 https://pubads.g.doubleclick.net/ssai/event/10_vqSZWSae32wBBBSf72Q/master.m3u8
-#EXTINF:-1 ch-id="COLORS CINEPLEX (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/2a/Colors_Cineplex_HD_Logo_Bug.jpg"   group-title="MOVIES--ONLINE",(INDIA) 
-http://worldch.ddns.net:8080/live/t4hg3EDq5S/VEGR3mehZG/18170.m3u8
-#EXTINF:-1 ch-id="UTV HD (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/9e/UTV_HD.jpg"  group-title="MOVIES--ONLINE",(INDIA) 
-http://worldch.ddns.net:8080/live/t4hg3EDq5S/VEGR3mehZG/18186.m3u8
 #EXTINF:-1 ch-id="BBC CBEEBIES (ASIA)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/1200px-CBeebies.svg.png"  group-title="KIDS--ONLINE",(ASIA)
 https://itpolly.iptv.digijadoo.net/live/cbeebies_asia/chunks.m3u8
 #EXTINF:-1 ch-id="SONY MAX (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Sony_MAX_logo.svg/198px-Sony_MAX_logo.svg.png"  group-title="MOVIES--ONLINE",(INDIA) 
 http://ccn.anytv.live:8080/sonymax/track-v1a1/mono.m3u8
+#EXTINF:-1 ch-id="STAR BHARAT (ME)"  tvg-logo="https://www.gcaffe.com/wp-content/uploads/2017/09/Star-Bharat-Logo-Bhula-De-Dar-Kuchh-Alag-Kar.png"  group-title="ENTERTAINMENT--ONLINE",(MIDDLE EAST)
+http://star.indtv.online/live/star_bharat/chunks.m3u8
+#EXTINF:-1 ch-id="STAR PLUS HD (IN)"  tvg-logo="https://www.logolynx.com/images/logolynx/s_53/53e5e5654ae3a7198b85219d65ff52e9.jpeg"  group-title="ENTERTAINMENT--ONLINE",(INDIA)
+http://star.indtv.online/live/star_plus_hd/chunks.m3u8
+#EXTINF:-1 ch-id="STAR GOLD HD (IN)"  tvg-logo="https://i.ytimg.com/vi/zk9ZgckCjlk/maxresdefault.jpg"  group-title="MOVIES--ONLINE",(INDIA)
+http://star.indtv.online/live/star_gold/chunks.m3u8
+#EXTINF:-1 ch-id="STAR PLUS (ASIA)"  tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2019/08/28/starplus.jpg"  group-title="ENTERTAINMENT--ONLINE",(ASIA)
+http://star.indtv.online/live/star_plus/chunks.m3u8
