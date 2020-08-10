@@ -299,3 +299,5 @@ http://star.indtv.online/live/star_plus_hd/chunks.m3u8
 http://star.indtv.online/live/star_gold/chunks.m3u8
 #EXTINF:-1 ch-id="STAR PLUS (ASIA)"  tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2019/08/28/starplus.jpg"  group-title="ENTERTAINMENT--ONLINE",(ASIA)
 http://star.indtv.online/live/star_plus/chunks.m3u8
+#EXTINF:-1 ch-id="STAR WORLD (IN)"  tvg-logo="https://pbs.twimg.com/profile_images/1131448235707457537/p4iq0KWu.jpg"  group-title="ENTERTAINMENT--ONLINE",(INDIA)
+http://star.indtv.online/live/star_world/chunks.m3u8
