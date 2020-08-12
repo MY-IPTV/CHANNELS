@@ -303,3 +303,5 @@ http://star.indtv.online/live/star_plus/chunks.m3u8
 http://star.indtv.online/live/star_world/chunks.m3u8
 #EXTINF:-1 ch-id="STAR PLUS (IN)"  tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2019/08/28/starplus.jpg"  group-title="ENTERTAINMENT--ONLINE",(INDIA)
 http://iptv.kitv.live:1935/live/Shari/MTV-P/27.m3u8
+#EXTINF:-1 ch-id="COLORS TV (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/19/Colorstv-logo-black-background.jpg"  group-title="ENTERTAINMENT--ONLINE",(INDIA) 
+http://iptv.kitv.live:1935/live/Shari/MTV-P/30.m3u8
