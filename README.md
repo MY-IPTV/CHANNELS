@@ -305,3 +305,7 @@ http://star.indtv.online/live/star_world/chunks.m3u8
 http://iptv.kitv.live:1935/live/Shari/MTV-P/27.m3u8
 #EXTINF:-1 ch-id="COLORS TV (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/19/Colorstv-logo-black-background.jpg"  group-title="ENTERTAINMENT--ONLINE",(INDIA) 
 http://iptv.kitv.live:1935/live/Shari/MTV-P/30.m3u8
+#EXTINF:-1 ch-id="COLORS HD (IN)"  tvg-logo="https://www.rdcablenet.com/wp-content/uploads/2019/01/COLORS-HD.jpg"  group-title="ENTERTAINMENT--ONLINE",(INDIA)
+http://mytv.fun:8080/sz17kwhbx/z1x2dhkwq/5579
+#EXTINF:-1 ch-id="COLORS TV (UK)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/19/Colorstv-logo-black-background.jpg"  group-title="ENTERTAINMENT--ONLINE",(EUROPE) 
+http://mytv.fun:8080/sz17kwhbx/z1x2dhkwq/672308
