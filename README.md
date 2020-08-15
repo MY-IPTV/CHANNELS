@@ -309,3 +309,5 @@ http://iptv.kitv.live:1935/live/Shari/MTV-P/30.m3u8
 http://mytv.fun:8080/sz17kwhbx/z1x2dhkwq/5579
 #EXTINF:-1 ch-id="COLORS TV (UK)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/19/Colorstv-logo-black-background.jpg"  group-title="ENTERTAINMENT--ONLINE",(EUROPE) 
 http://mytv.fun:8080/sz17kwhbx/z1x2dhkwq/672308
+#EXTINF:-1 ch-id="STAR PLUS (ASIA)"  tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2019/08/28/starplus.jpg"  group-title="ENTERTAINMENT--ONLINE",(ASIA)
+http://ccn.anytv.live:8080/starplus/track-v1a1/mono.m3u8
