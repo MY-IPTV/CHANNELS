@@ -311,5 +311,5 @@ http://mytv.fun:8080/sz17kwhbx/z1x2dhkwq/5579
 http://mytv.fun:8080/sz17kwhbx/z1x2dhkwq/672308
 #EXTINF:-1 ch-id="STAR PLUS (ASIA)"  tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2019/08/28/starplus.jpg"  group-title="ENTERTAINMENT--ONLINE",(ASIA)
 http://ccn.anytv.live:8080/starplus/track-v1a1/mono.m3u8
-#EXTINF:-1 ch-id="MBC BOLLYWOOD HD (ME)" tvg-logo=" " group-title="MOVIES--ONLINE",(MIDDLE EAST)
+#EXTINF:-1 ch-id="MBC BOLLYWOOD HD (ME)" tvg-logo="https://mgl.skyrock.net/art/SHAR.3660.334.2.png"  group-title="MOVIES--ONLINE",(MIDDLE EAST)
 https://shls-mbcbollywood-prod.shahid.net/mbcbollywood-prod.m3u8
