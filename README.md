@@ -313,5 +313,4 @@ http://mytv.fun:8080/sz17kwhbx/z1x2dhkwq/672308
 http://ccn.anytv.live:8080/starplus/track-v1a1/mono.m3u8
 #EXTINF:-1 ch-id="MBC BOLLYWOOD HD (ME)" tvg-logo="https://mgl.skyrock.net/art/SHAR.3660.334.2.png"  group-title="MOVIES--ONLINE",(MIDDLE EAST)
 https://shls-mbcbollywood-prod.shahid.net/mbcbollywood-prod.m3u8
-#EXTINF:-1 ch-id="STAR BHARAT (UK)"  tvg-logo="https://www.gcaffe.com/wp-content/uploads/2017/09/Star-Bharat-Logo-Bhula-De-Dar-Kuchh-Alag-Kar.png"  group-title="ENTERTAINMENT--ONLINE",(EUROPE)
-http://mytv.fun:8080/sz17kwhbx/z1x2dhkwq/672447
+
