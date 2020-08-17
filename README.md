@@ -313,4 +313,5 @@ http://mytv.fun:8080/sz17kwhbx/z1x2dhkwq/672308
 http://ccn.anytv.live:8080/starplus/track-v1a1/mono.m3u8
 #EXTINF:-1 ch-id="MBC BOLLYWOOD HD (ME)" tvg-logo="https://mgl.skyrock.net/art/SHAR.3660.334.2.png"  group-title="MOVIES--ONLINE",(MIDDLE EAST)
 https://shls-mbcbollywood-prod.shahid.net/mbcbollywood-prod.m3u8
-
+#EXTINF:-1 ch-id="SAHARA ONE (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/73/SaharaOne2010.png " group-title="ENTERTAINMENT--ONLINE",(INDIA)
+http://80.243.180.72:5432/eos/saharaone/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNy8yMDIwIDg6MjE6MjQgQU0maGFzaF92YWx1ZT1qaXIvdDBNdmJubUFMOHJDSm94dkhBPT0mdmFsaWRtaW51dGVzPTI=
