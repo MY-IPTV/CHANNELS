@@ -313,4 +313,7 @@ http://mytv.fun:8080/sz17kwhbx/z1x2dhkwq/672308
 http://ccn.anytv.live:8080/starplus/track-v1a1/mono.m3u8
 #EXTINF:-1 ch-id="MBC BOLLYWOOD HD (ME)" tvg-logo="https://mgl.skyrock.net/art/SHAR.3660.334.2.png"  group-title="MOVIES--ONLINE",(MIDDLE EAST)
 https://shls-mbcbollywood-prod.shahid.net/mbcbollywood-prod.m3u8
-
+#EXTINF:-1 ch-id="BINDASS (IN)"  tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8d/BINDASS-END-LOGO.jpg" group-title="MUSIC--ONLINE",(INDIA)
+http://mytv.fun:8080/sz17kwhbx/z1x2dhkwq/5541
+#EXTINF:-1 ch-id="UTV MOVIES (IN)"  tvg-logo="https://en.m.wikipedia.org/wiki/File:UTV_Movies_logo.png"  group-title="MOVIES--ONLINE",(INDIA)
+http://mytv.fun:8080/sz17kwhbx/z1x2dhkwq/10615
